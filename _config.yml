@@ -1,17 +1,17 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
-# email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
+title: MIR Conference Deadlines # (Maintained by @alexanderlerch)
+# email: alexander.lerch@gatech.edu
+description: Countdowns to top MIR/AI conference deadlines
 author: Abhishek Das
 
-domain: "aideadlin.es"
+domain: "mir-conferences.audiocontentanalysis.org"
 baseurl: ""
 
-twitter_username: abhshkdz
-twitter_hashtag: machinelearning
-github_username: abhshkdz
-github_repo: ai-deadlines
+#twitter_username: abhshkdz
+#twitter_hashtag: machinelearning
+github_username: alexanderlerch
+github_repo: conference-deadlines
 
 markdown: kramdown
-ga_id: UA-36274081-2
+#ga_id: UA-36274081-2
 
 include: ['_pages']
