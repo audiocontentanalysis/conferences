@@ -1,5 +1,16 @@
 ---
 
+- title: SMC
+  year: 2020
+  id: smc20
+  link: https://smc2020torino.it/uk/
+  deadline: '2020-03-06 23:59:59'
+  timezone: America/Los_Angeles
+  date: June 20-26, 2020
+  place: Torino, Italy
+  sub: SP
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 28, 2020. More info <a href=''https://smc2020torino.it/uk/page.asp?PID=87''>here</a>.'
+
 - title: ICCC
   year: 2020
   id: iccc20
@@ -76,6 +87,16 @@
   date: November 17-20, 2020
   place: Sorrento, Italy
   sub: DM
+
+- title: AES Convention
+  year: 2020
+  id: aes149
+  link: http://www.aes.org/events/149/authors/cfc/
+  deadline: '2020-06-15 23:59:59'
+  timezone: UTC+1
+  date: October 21-24, 2020
+  place: New York, USA
+  sub: SP
 
 - title: AES Immersive and Interactive Audio
   year: 2019
@@ -194,16 +215,6 @@
   place: San Diego, California, USA
   sub: DM
 
-- title: AES Convention
-  year: 2020
-  id: aes149
-  link: http://www.aes.org/events/149/authors/cfc/
-  deadline: '2020-06-15 23:59:59'
-  timezone: UTC+1
-  date: October 21-24, 2020
-  place: New York, USA
-  sub: SP
-
 - title: EUSIPCO
   year: 2020
   id: eusipco20
@@ -213,14 +224,3 @@
   date: October 24-30, 2020
   place: Amsterdam, Netherlands
   sub: SP
-
-- title: SMC
-  year: 2020
-  id: smc20
-  link: https://smc2020torino.it/uk/
-  deadline: '2020-03-06 23:59:59'
-  timezone: America/Los_Angeles
-  date: June 20-26, 2020
-  place: Torino, Italy
-  sub: SP
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 28, 2020. More info <a href=''https://smc2020torino.it/uk/page.asp?PID=87''>here</a>.'
