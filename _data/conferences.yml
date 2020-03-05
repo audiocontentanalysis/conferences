@@ -1,14 +1,4 @@
 ---
-- title: IEEE SSCI
-  year: 2020
-  id: ssci20
-  link: http://www.ieeessci2020.org
-  deadline: '2020-08-07 23:59:59'
-  timezone: UTC-12
-  date: December 1-4, 2020
-  place: Canberra, Australia
-  sub: ML, Computional Intelligence
-
 - title: SMC
   year: 2020
   id: smc20
@@ -106,6 +96,16 @@
   date: October 21-24, 2020
   place: New York, USA
   sub: SP
+
+- title: IEEE SSCI
+  year: 2020
+  id: ssci20
+  link: http://www.ieeessci2020.org
+  deadline: '2020-08-07 23:59:59'
+  timezone: UTC-12
+  date: December 1-4, 2020
+  place: Canberra, Australia
+  sub: ML
 
 - title: AES Immersive and Interactive Audio
   year: 2019
