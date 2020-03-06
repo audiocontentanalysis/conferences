@@ -1,4 +1,4 @@
-## MIR Conference Deadlines [![Build Status]
+## MIR Conference Deadlines 
 
 Countdown timers to keep track of a bunch of MIR conference deadlines.
 
