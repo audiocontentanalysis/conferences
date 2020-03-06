@@ -1,7 +1,7 @@
 title: MIR Conference Deadlines # (Maintained by @alexanderlerch)
 # email: alexander.lerch@gatech.edu
 description: Countdowns to top Music Information Retrieval/ Music AI/ Music Signal Processing conference deadlines
-author: Abhishek Das
+author: Alexander Lerch
 
 domain: "mir-conferences.audiocontentanalysis.org"
 baseurl: ""
@@ -12,6 +12,6 @@ github_username: alexanderlerch
 github_repo: conference-deadlines
 
 markdown: kramdown
-#ga_id: UA-36274081-2
+ga_id: UA-112994517-2
 
 include: ['_pages']
