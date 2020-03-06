@@ -1,6 +1,6 @@
 ## MIR Conference Deadlines 
 
-Countdown timers to keep track of a bunch of MIR conference deadlines.
+Countdown timers to keep track of a bunch of [MIR conference deadlines](http://mir-conferences.AudioContentAnalysis.org).
 
 Happily forked from [here](https://github.com/abhshkdz/ai-deadlines)
 
