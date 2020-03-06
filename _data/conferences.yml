@@ -5,7 +5,8 @@
   id: smc20
   link: https://smc2020torino.it/uk/
   deadline: '2020-03-06 23:59:59'
-  timezone: America/Los_Angeles
+  abstract_deadline: '2020-02-28 23:59:00'
+  timezone: UTC-12
   date: June 20-26, 2020
   place: Torino, Italy
   sub: SP
@@ -65,6 +66,16 @@
   place: Montreal, Canada
   sub: SP
   note: '<b>NOTE</b>: Mandatory abstract deadline on Apr 10, 2020. More info <a href=''https://ismir.github.io/ISMIR2020/cfp/''>here</a>.'
+
+- title: MMSP
+  year: 2020
+  id: mmsp20
+  link: http://mmsp2020.org/
+  deadline: '2020-05-10 23:59:59'
+  timezone: UTC-12
+  date: Sep 21-23, 2020
+  place: Tampere, Finland
+  sub: SP
 
 - title: NeurIPS
   year: 2020
