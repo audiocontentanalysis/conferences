@@ -1,13 +1,13 @@
 ---
 
-- title: ICCC
+- title: WIMP
   year: 2020
-  id: iccc20
-  link: http://computationalcreativity.net/iccc20/
-  deadline: '2020-03-08 23:59:59'
-  timezone: UTC-12
+  id: wimp20
+  link: https://intelligent-music-production.github.io/
+  deadline: '2020-07-17 23:59:59'
+  timezone: Europe/London
   date: June 29-July 3, 2020
-  place: Coimbra, Portugal
+  place: Plymouth, UK
   sub: ML
 
 - title: ICPR
@@ -105,6 +105,16 @@
   timezone: UTC-12
   date: December 1-4, 2020
   place: Canberra, Australia
+  sub: ML
+
+- title: ICCC
+  year: 2020
+  id: iccc20
+  link: http://computationalcreativity.net/iccc20/
+  deadline: '2020-03-08 23:59:59'
+  timezone: UTC-12
+  date: June 29-July 3, 2020
+  place: Coimbra, Portugal
   sub: ML
 
 - title: SMC
