@@ -1,15 +1,5 @@
 ---
 
-- title: WIMP
-  year: 2020
-  id: wimp20
-  link: https://intelligent-music-production.github.io/
-  deadline: '2020-07-17 23:59:59'
-  timezone: Europe/London
-  date: June 29-July 3, 2020
-  place: Plymouth, UK
-  sub: ML
-
 - title: ICPR
   year: 2020
   id: icpr20
@@ -95,6 +85,16 @@
   timezone: UTC+1
   date: October 21-24, 2020
   place: New York, USA
+  sub: SP
+
+- title: WIMP
+  year: 2020
+  id: wimp20
+  link: https://intelligent-music-production.github.io/
+  deadline: '2020-07-17 23:59:59'
+  timezone: Europe/London
+  date: June 29-July 3, 2020
+  place: Plymouth, UK
   sub: SP
 
 - title: IEEE SSCI
