@@ -107,28 +107,6 @@
   place: Canberra, Australia
   sub: ML
 
-- title: ICCC
-  year: 2020
-  id: iccc20
-  link: http://computationalcreativity.net/iccc20/
-  deadline: '2020-03-08 23:59:59'
-  timezone: UTC-12
-  date: June 29-July 3, 2020
-  place: Coimbra, Portugal
-  sub: ML
-
-- title: SMC
-  year: 2020
-  id: smc20
-  link: https://smc2020torino.it/uk/
-  deadline: '2020-03-06 23:59:59'
-  abstract_deadline: '2020-02-28 23:59:00'
-  timezone: UTC-12
-  date: June 20-26, 2020
-  place: Torino, Italy
-  sub: SP
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 28, 2020. More info <a href=''https://smc2020torino.it/uk/page.asp?PID=87''>here</a>.'
-
 - title: AES Immersive and Interactive Audio
   year: 2019
   id: aes2019
@@ -138,26 +116,6 @@
   date: March 27-29, 2019
   place: York, UK
   sub: SP
-
-- title: WSDM
-  year: 2020
-  id: wsdm20
-  link: http://www.wsdm-conference.org/2020/
-  deadline: '2019-08-16 23:59:59'
-  timezone: UTC-11
-  date: February 3-7, 2020
-  place: Houston, Texas, USA
-  sub: DM
-
-- title: AAAI
-  year: 2020
-  id: aaai20
-  link: https://aaai.org/Conferences/AAAI-20/
-  deadline: '2019-09-05 23:59:59'
-  timezone: UTC-10
-  date: February 7-12, 2020
-  place: New York, USA
-  sub: ML
 
 - title: ICLR
   year: 2020
@@ -199,6 +157,28 @@
   timezone: Europe/London
   date: June 8-11, 2020
   place: Dublin, Ireland
+  sub: ML
+
+- title: SMC
+  year: 2020
+  id: smc20
+  link: https://smc2020torino.it/uk/
+  deadline: '2020-03-06 23:59:59'
+  abstract_deadline: '2020-02-28 23:59:00'
+  timezone: UTC-12
+  date: June 20-26, 2020
+  place: Torino, Italy
+  sub: SP
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 28, 2020. More info <a href=''https://smc2020torino.it/uk/page.asp?PID=87''>here</a>.'
+
+- title: ICCC
+  year: 2020
+  id: iccc20
+  link: http://computationalcreativity.net/iccc20/
+  deadline: '2020-03-08 23:59:59'
+  timezone: UTC-12
+  date: June 29-July 3, 2020
+  place: Coimbra, Portugal
   sub: ML
 
 - title: IJCAI-PRICAI
@@ -255,3 +235,23 @@
   date: October 24-30, 2020
   place: Amsterdam, Netherlands
   sub: SP
+
+- title: WSDM
+  year: 2020
+  id: wsdm20
+  link: http://www.wsdm-conference.org/2020/
+  deadline: '2019-08-16 23:59:59'
+  timezone: UTC-11
+  date: February 3-7, 2020
+  place: Houston, Texas, USA
+  sub: DM
+
+- title: AAAI
+  year: 2020
+  id: aaai20
+  link: https://aaai.org/Conferences/AAAI-20/
+  deadline: '2019-09-05 23:59:59'
+  timezone: UTC-10
+  date: February 7-12, 2020
+  place: New York, USA
+  sub: ML
