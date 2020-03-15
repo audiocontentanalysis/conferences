@@ -34,24 +34,24 @@
   year: 2020
   id: mm20
   link: https://2020.acmmm.org/
-  deadline: '2020-03-28 23:59:00'
-  abstract_deadline: '2020-03-21 23:59:00'
+  deadline: '2020-04-25 23:59:00'
   timezone: UTC-12
   date: October 12-16, 2020
   place: Seattle, USA
   sub: SP
-  note: '<b>NOTE</b>: Mandatory abstract submission deadline on Mar 21. More info
+  note: '<b>NOTE</b>: Submission deadline extended due to global emergency. More info
     <a href="https://2020.acmmm.org/important-dates.html">here</a>.'
 
 - title: InterSpeech
   year: 2020
   id: interspeech20
   link: http://www.interspeech2020.org/
-  deadline: '2020-03-29 23:59:59'
+  deadline: '2020-05-08 23:59:59'
   timezone: Asia/Shanghai
-  date: September 14-18, 2020
+  date: October 25-29, 2020
   place: Shanghai, China
   sub: SP
+  note: '<b>NOTE</b>: Submission deadline extended due to global emergency.'
 
 - title: SIGMAP
   year: 2020
