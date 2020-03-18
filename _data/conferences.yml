@@ -4,7 +4,7 @@
   year: 2020
   id: icpr20
   link: https://www.micc.unifi.it/icpr2020
-  deadline: '2020-03-18 23:59:59'
+  deadline: '2020-04-15 23:59:59'
   timezone: UTC+1
   date: Sep 13-18, 2020
   place: Milan, Italy
@@ -14,7 +14,7 @@
   year: 2020
   id: dafx20
   link: https://dafx2020.mdw.ac.at/
-  deadline: '2020-03-27 23:59:59'
+  deadline: '2020-04-19 23:59:59'
   timezone: UTC-12
   date: Sep 8-12, 2020
   place: Vienna, Austria
@@ -35,12 +35,11 @@
   id: mm20
   link: https://2020.acmmm.org/
   deadline: '2020-04-25 23:59:00'
-  timezone: UTC-12
+  timezone: UTC
   date: October 12-16, 2020
   place: Seattle, USA
   sub: SP
-  note: '<b>NOTE</b>: Submission deadline extended due to global emergency. More info
-    <a href="https://2020.acmmm.org/important-dates.html">here</a>.'
+
 
 - title: InterSpeech
   year: 2020
@@ -48,19 +47,8 @@
   link: http://www.interspeech2020.org/
   deadline: '2020-05-08 23:59:59'
   timezone: Asia/Shanghai
-  date: October 25-29, 2020
+  date: October 26-29, 2020
   place: Shanghai, China
-  sub: SP
-  note: '<b>NOTE</b>: Submission deadline extended due to global emergency.'
-
-- title: SIGMAP
-  year: 2020
-  id: sigmap20
-  link: http://www.sigmap.icete.org/
-  deadline: '2020-03-31 23:59:59'
-  timezone: UTC-12
-  date: Jul 8-10, 2020
-  place: Paris, France
   sub: SP
   
 - title: ISMIR
@@ -249,6 +237,16 @@
   timezone: America/Los_Angeles
   date: July 5-11, 2020
   place: Santiage, Chile
+  sub: SP
+
+- title: ICME
+  year: 2020
+  id: icme20
+  link: https://www.2020.ieeeicme.org/
+  deadline: '2019-12-13 23:59:59'
+  timezone: UTC-12
+  date: July 6-10, 2020
+  place: London, UK
   sub: SP
 
 - title: IJCAI-PRICAI
