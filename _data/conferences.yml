@@ -20,16 +20,6 @@
   place: Vienna, Austria
   sub: SP
 
-- title: ICME
-  year: 2020
-  id: icme20
-  link: https://www.2020.ieeeicme.org/
-  deadline: '2020-03-27 23:59:59'
-  timezone: UTC-12
-  date: July 6-10, 2020
-  place: London, UK
-  sub: SP
-
 - title: MM
   year: 2020
   id: mm20
