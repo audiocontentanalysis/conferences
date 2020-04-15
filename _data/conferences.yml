@@ -40,16 +40,6 @@
   place: Seattle, USA
   sub: SP
 
-- title: CMMR
-  year: 2020
-  id: cmmr20
-  link: http://www.cmmr2020.gttm.jp/
-  deadline: '2020-04-30 23:59:59'
-  timezone: UTC-12
-  date: Nov 2-6, 2020
-  place: Tokyo, Japan
-  sub: ML
-
 - title: AudioMostly
   year: 2020
   id: amostly20
