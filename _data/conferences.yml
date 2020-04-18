@@ -1,15 +1,5 @@
 ---
 
-- title: ICPR
-  year: 2020
-  id: icpr20
-  link: https://www.micc.unifi.it/icpr2020
-  deadline: '2020-04-15 23:59:59'
-  timezone: UTC+1
-  date: Sep 13-18, 2020
-  place: Milan, Italy
-  sub: ML
-
 - title: MLSP
   year: 2020
   id: mlsp20
@@ -145,6 +135,16 @@
   date: Sep 4, 2020
   place: Plymouth, UK
   sub: SP
+
+- title: ICPR
+  year: 2020
+  id: icpr20
+  link: https://www.micc.unifi.it/icpr2020
+  deadline: '2020-04-15 23:59:59'
+  timezone: UTC+1
+  date: Sep 13-18, 2020
+  place: Milan, Italy
+  sub: ML
 
 - title: IEEE SSCI
   year: 2020
