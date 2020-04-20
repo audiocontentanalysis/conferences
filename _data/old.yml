@@ -1,0 +1,30 @@
+
+- title: WSDM
+  year: 2020
+  id: wsdm20
+  link: http://www.wsdm-conference.org/2020/
+  deadline: '2019-08-16 23:59:59'
+  timezone: UTC-11
+  date: February 3-7, 2020
+  place: Houston, Texas, USA
+  sub: DM
+
+- title: AAAI
+  year: 2020
+  id: aaai20
+  link: https://aaai.org/Conferences/AAAI-20/
+  deadline: '2019-09-05 23:59:59'
+  timezone: UTC-10
+  date: February 7-12, 2020
+  place: New York, USA
+  sub: ML
+
+- title: AES Immersive and Interactive Audio
+  year: 2019
+  id: aes2019
+  link: http://www.aes.org/conferences/2019/immersive/
+  deadline: '2018-10-01 23:59:59'
+  timezone: UTC
+  date: March 27-29, 2019
+  place: York, UK
+  sub: SP
