@@ -59,10 +59,12 @@
   id: mm20
   link: https://2020.acmmm.org/
   deadline: '2020-05-24 23:59:00'
+  abstract_deadline: '2020-05-17 23:59:59'
   timezone: UTC
   date: October 12-16, 2020
   place: Seattle, USA
   sub: SP
+  note: '<b>NOTE</b>: Mandatory abstract deadline on May 17, 2020. More info <a href=''https://2020.acmmm.org/important-dates.html''>here</a>.'
 
 - title: ICDM
   year: 2020
