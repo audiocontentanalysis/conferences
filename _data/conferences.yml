@@ -20,16 +20,6 @@
   place: Shanghai, China
   sub: SP
 
-- title: MMSP
-  year: 2020
-  id: mmsp20
-  link: http://mmsp2020.org/
-  deadline: '2020-05-10 23:59:59'
-  timezone: UTC-12
-  date: Sep 21-23, 2020
-  place: Tampere, Finland
-  sub: SP
-
 - title: NeurIPS
   year: 2020
   id: neurips20
@@ -65,6 +55,16 @@
   place: Seattle, USA
   sub: SP
   note: '<b>NOTE</b>: Mandatory abstract deadline on May 17, 2020. More info <a href=''https://2020.acmmm.org/important-dates.html''>here</a>.'
+
+- title: MMSP
+  year: 2020
+  id: mmsp20
+  link: http://mmsp2020.org/
+  deadline: '2020-05-31 23:59:59'
+  timezone: UTC-12
+  date: Sep 21-23, 2020
+  place: Tampere, Finland
+  sub: SP
 
 - title: ICDM
   year: 2020
