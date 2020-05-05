@@ -56,6 +56,16 @@
   place: Tampere, Finland
   sub: SP
 
+- title: AudioMostly
+  year: 2020
+  id: amostly20
+  link: https://audiomostly.com/2020
+  deadline: '2020-06-01 23:59:59'
+  timezone: UTC-12
+  date: Sep 15-17, 2020
+  place: Graz, Austria
+  sub: SP
+
 - title: ICDM
   year: 2020
   id: icdm20
@@ -278,16 +288,6 @@
   date: Sep 13-18, 2020
   place: Milan, Italy
   sub: ML
-
-- title: AudioMostly
-  year: 2020
-  id: amostly20
-  link: https://audiomostly.com/2020
-  deadline: '2020-05-01 23:59:59'
-  timezone: UTC-12
-  date: Sep 15-17, 2020
-  place: Graz, Austria
-  sub: SP
 
 - title: MLSP
   year: 2020
