@@ -1,15 +1,5 @@
 ---
 
-- title: InterSpeech
-  year: 2020
-  id: interspeech20
-  link: http://www.interspeech2020.org/
-  deadline: '2020-05-08 23:59:59'
-  timezone: Asia/Shanghai
-  date: October 26-29, 2020
-  place: Shanghai, China
-  sub: SP
-
 - title: NeurIPS
   year: 2020
   id: neurips20
@@ -307,4 +297,14 @@
   timezone: America/Los_Angeles
   date: October 24-30, 2020
   place: Amsterdam, Netherlands
+  sub: SP
+
+- title: InterSpeech
+  year: 2020
+  id: interspeech20
+  link: http://www.interspeech2020.org/
+  deadline: '2020-05-08 23:59:59'
+  timezone: Asia/Shanghai
+  date: October 26-29, 2020
+  place: Shanghai, China
   sub: SP
