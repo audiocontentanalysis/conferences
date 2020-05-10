@@ -38,3 +38,13 @@
   date: April 26-30, 2020
   place: Addis Ababa, Ethiopia
   sub: ML
+
+- title: ICASSP
+  year: 2020
+  id: icassp20
+  link: https://2020.ieeeicassp.org/
+  deadline: '2019-10-21 23:59:59'
+  timezone: UTC
+  date: May 4-8, 2020
+  place: Barcelona, Spain
+  sub: SP

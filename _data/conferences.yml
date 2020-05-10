@@ -128,15 +128,25 @@
   place: Stockholm, Sweden
   sub: ML
 
-- title: ICASSP
-  year: 2020
-  id: icassp20
-  link: https://2020.ieeeicassp.org/
-  deadline: '2019-10-21 23:59:59'
-  timezone: UTC
-  date: May 4-8, 2020
-  place: Barcelona, Spain
-  sub: SP
+# - title: AAAI
+  # year: 2021
+  # id: aaai21
+  # link: https://aaai.org/Conferences/AAAI-21/
+  # deadline: '2020-09-15 23:59:59'
+  # timezone: UTC-12
+  # date: Feb 2-9, 2021
+  # place: Vancouver, BC
+  # sub: ML
+
+- title: ICSC
+  year: 2021
+  id: icsc21
+  link: https://www.ieee-icsc.org/
+  deadline: '2020-10-15 23:59:59'
+  timezone: UTC-12
+  date: Jan 27-29, 2021
+  place: Laguna Hills, CA
+  sub: ML
 
 - title: ECAI
   year: 2020
