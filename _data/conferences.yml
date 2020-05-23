@@ -42,6 +42,18 @@
   place: Sorrento, Italy
   sub: DM
 
+- title: NeurIPS
+  year: 2020
+  id: neurips20
+  link: https://nips.cc/Conferences/2020
+  deadline: '2020-06-03 13:00:00'
+  abstract_deadline: '2020-05-05 13:00:00'
+  timezone: America/Los_Angeles
+  date: December 6-12, 2020
+  place: Vancouver, Canada
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on May 27, 2020.'
+
 - title: AES Convention
   year: 2020
   id: aes149
@@ -83,6 +95,27 @@
   date: Sep 4, 2020
   place: Plymouth, UK
   sub: SP
+
+- title: AIVR
+  year: 2020
+  id: aivr20
+  link: http://aivr.science.uu.nl/aivr_papers.html
+  deadline: '2020-07-24 23:59:59'
+  timezone: Europe/Brussels
+  date: Dec 14-16, 2020
+  place: Utrecht, NL
+  sub: ML
+
+- title: DlfM
+  year: 2020
+  id: dlfm20
+  link: https://dlfm.web.ox.ac.uk/
+  deadline: '2020-07-31 23:59:59'
+  timezone: UTC-11
+  date:  Oct 16, 2020
+  place: Montreal, Canada
+  sub: SP
+  note: '<b>NOTE</b>: Mandatory abstract deadline on July 24, 2020. More info <a href=''https://dlfm.web.ox.ac.uk/#Dates''>here</a>.'
 
 - title: IEEE SSCI
   year: 2020
@@ -306,15 +339,3 @@
   date: October 26-29, 2020
   place: Shanghai, China
   sub: SP
-
-- title: NeurIPS
-  year: 2020
-  id: neurips20
-  link: https://nips.cc/Conferences/2020
-  deadline: '2020-05-12 13:00:00'
-  abstract_deadline: '2020-05-05 13:00:00'
-  timezone: America/Los_Angeles
-  date: December 6-12, 2020
-  place: Vancouver Convention Centre, Canada
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on May 05, 2020.'
