@@ -1,15 +1,5 @@
 ---
 
-- title: MMSP
-  year: 2020
-  id: mmsp20
-  link: http://mmsp2020.org/
-  deadline: '2020-05-31 23:59:59'
-  timezone: UTC-12
-  date: Sep 21-23, 2020
-  place: Tampere, Finland
-  sub: SP
-
 - title: AudioMostly
   year: 2020
   id: amostly20
@@ -19,6 +9,18 @@
   date: Sep 15-17, 2020
   place: Graz, Austria
   sub: SP
+
+- title: NeurIPS
+  year: 2020
+  id: neurips20
+  link: https://nips.cc/Conferences/2020
+  deadline: '2020-06-03 13:00:00'
+  abstract_deadline: '2020-05-27 13:00:00'
+  timezone: America/Los_Angeles
+  date: December 6-12, 2020
+  place: Vancouver, Canada
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on May 27, 2020.'
 
 - title: ICDM
   year: 2020
@@ -30,17 +32,15 @@
   place: Sorrento, Italy
   sub: DM
 
-- title: NeurIPS
+- title: MMSP
   year: 2020
-  id: neurips20
-  link: https://nips.cc/Conferences/2020
-  deadline: '2020-06-03 13:00:00'
-  abstract_deadline: '2020-05-05 13:00:00'
-  timezone: America/Los_Angeles
-  date: December 6-12, 2020
-  place: Vancouver, Canada
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on May 27, 2020.'
+  id: mmsp20
+  link: http://mmsp2020.org/
+  deadline: '2020-06-14 23:59:59'
+  timezone: UTC-12
+  date: Sep 21-23, 2020
+  place: Tampere, Finland
+  sub: SP
 
 - title: AES Convention
   year: 2020
