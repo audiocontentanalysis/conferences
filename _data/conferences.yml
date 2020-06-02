@@ -1,15 +1,5 @@
 ---
 
-- title: AudioMostly
-  year: 2020
-  id: amostly20
-  link: https://audiomostly.com/2020
-  deadline: '2020-06-01 23:59:59'
-  timezone: UTC-12
-  date: Sep 15-17, 2020
-  place: Graz, Austria
-  sub: SP
-
 - title: NeurIPS
   year: 2020
   id: neurips20
@@ -134,6 +124,16 @@
   # date: Feb 2-9, 2021
   # place: Vancouver, BC
   # sub: ML
+
+- title: ICPRAM
+  year: 2021
+  id: icpram21
+  link: http://www.icpram.org/
+  deadline: '2020-09-14 23:59:59'
+  timezone: UTC-12
+  date: Apr 23-25, 2020
+  place: Vienna, Austria
+  sub: ML
 
 - title: ICSC
   year: 2021
@@ -285,6 +285,16 @@
   date: Sep 13-18, 2020
   place: Milan, Italy
   sub: ML
+
+- title: AudioMostly
+  year: 2020
+  id: amostly20
+  link: https://audiomostly.com/2020
+  deadline: '2020-06-01 23:59:59'
+  timezone: UTC-12
+  date: Sep 15-17, 2020
+  place: Graz, Austria
+  sub: SP
 
 - title: MLSP
   year: 2020
