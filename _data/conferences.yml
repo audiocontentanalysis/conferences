@@ -1,15 +1,5 @@
 ---
 
-- title: ICDM
-  year: 2020
-  id: icdm20
-  link: http://icdm2020.bigke.org/
-  deadline: '2020-06-11 23:59:59'
-  timezone: UTC-7
-  date: November 17-20, 2020
-  place: Sorrento, Italy
-  sub: DM
-
 - title: MMSP
   year: 2020
   id: mmsp20
@@ -30,17 +20,17 @@
   place: New York, USA
   sub: SP
 
-- title: WAC
-  year: 2020
-  id: wac20
-  link: https://webaudioconf2020.com
-  deadline: '2020-07-03 23:59:59'
-  abstract_deadline: '2020-06-26 23:59:59'
-  timezone: UTC-7
-  date: October 12-15, 2020
-  place: Barcelona, Spain
-  sub: SP
-  note: '<b>NOTE</b>: Mandatory abstract deadline on June 06, 2020. More info <a href=''https://webaudioconf2020.com/call-for-submissions/''>here</a>.'
+# - title: WAC
+  # year: 2020
+  # id: wac20
+  # link: https://webaudioconf2020.com
+  # deadline: '2020-07-03 23:59:59'
+  # abstract_deadline: '2020-06-26 23:59:59'
+  # timezone: UTC-7
+  # date: October 12-15, 2020
+  # place: Barcelona, Spain
+  # sub: SP
+  # note: '<b>NOTE</b>: Mandatory abstract deadline on June 06, 2020. More info <a href=''https://webaudioconf2020.com/call-for-submissions/''>here</a>.'
 
 - title: NLP4MusA
   year: 2020
@@ -337,6 +327,16 @@
   date: October 26-29, 2020
   place: Shanghai, China
   sub: SP
+
+- title: ICDM
+  year: 2020
+  id: icdm20
+  link: http://icdm2020.bigke.org/
+  deadline: '2020-06-11 23:59:59'
+  timezone: UTC-7
+  date: November 17-20, 2020
+  place: Sorrento, Italy
+  sub: DM
 
 - title: NeurIPS
   year: 2020
