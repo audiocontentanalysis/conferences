@@ -1,25 +1,5 @@
 ---
 
-- title: MMSP
-  year: 2020
-  id: mmsp20
-  link: http://mmsp2020.org/
-  deadline: '2020-06-14 23:59:59'
-  timezone: UTC-12
-  date: Sep 21-23, 2020
-  place: Tampere, Finland
-  sub: SP
-
-- title: AES Convention
-  year: 2020
-  id: aes149
-  link: http://www.aes.org/events/149/authors/cfc/
-  deadline: '2020-06-15 23:59:59'
-  timezone: UTC+1
-  date: October 21-24, 2020
-  place: New York, USA
-  sub: SP
-
 # - title: WAC
   # year: 2020
   # id: wac20
@@ -274,6 +254,16 @@
   place: Graz, Austria
   sub: SP
 
+- title: MMSP
+  year: 2020
+  id: mmsp20
+  link: http://mmsp2020.org/
+  deadline: '2020-06-14 23:59:59'
+  timezone: UTC-12
+  date: Sep 21-23, 2020
+  place: Tampere, Finland
+  sub: SP
+
 - title: MLSP
   year: 2020
   id: mlsp20
@@ -307,6 +297,16 @@
   place: Seattle, USA
   sub: SP
   note: '<b>NOTE</b>: Mandatory abstract deadline on May 17, 2020. More info <a href=''https://2020.acmmm.org/important-dates.html''>here</a>.'
+
+- title: AES Convention
+  year: 2020
+  id: aes149
+  link: http://www.aes.org/events/149/authors/cfc/
+  deadline: '2020-06-15 23:59:59'
+  timezone: UTC+1
+  date: October 21-24, 2020
+  place: New York, USA
+  sub: SP
 
 - title: EUSIPCO
   year: 2020
