@@ -1,15 +1,5 @@
 ---
 
-- title: Worldwide Music Conference
-  year: 2021
-  id: WWMC
-  link: https://wwmc.io
-  deadline: '2021-02-15 23:59:59'
-  timezone: Europe/Prague
-  date: April 22-23, 2021
-  place: Prague, Czech Republic
-  sub: ML / interdisciplinary
-
 # - title: WAC
   # year: 2020
   # id: wac20
@@ -111,6 +101,16 @@
   timezone: UTC-12
   date: Jan 27-29, 2021
   place: Laguna Hills, CA
+  sub: ML
+
+- title: WWMC   
+  year: 2021
+  id: WWMC21
+  link: https://wwmc.io
+  deadline: '2021-02-15 23:59:59'
+  timezone: Europe/Prague
+  date: April 22-23, 2021
+  place: Prague, Czech Republic
   sub: ML
 
 - title: ECAI
