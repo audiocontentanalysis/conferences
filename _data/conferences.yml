@@ -63,6 +63,16 @@
   place: Canberra, Australia
   sub: ML
 
+- title: IEEE ISM
+  year: 2020
+  id: ism20
+  link: http://www.ieee-ism.org/
+  deadline: '2020-08-10 23:59:59'
+  timezone: UTC-12
+  date: Dec 2-4, 2021
+  place: Naples, Italy
+  sub: ML
+
 - title: CSMC/MuMe
   year: 2020
   id: csmc20
@@ -73,15 +83,16 @@
   place: Stockholm, Sweden
   sub: ML
 
-# - title: AAAI
-  # year: 2021
-  # id: aaai21
-  # link: https://aaai.org/Conferences/AAAI-21/
-  # deadline: '2020-09-15 23:59:59'
-  # timezone: UTC-12
-  # date: Feb 2-9, 2021
-  # place: Vancouver, BC
-  # sub: ML
+- title: AAAI
+  year: 2021
+  id: aaai21
+  link: https://aaai.org/Conferences/AAAI-21/
+  deadline: '2020-09-09 23:59:59'
+  timezone: UTC-12
+  date: Feb 2-9, 2021
+  place: Vancouver, BC
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Sep 1, 2020.'
 
 - title: ICPRAM
   year: 2021
