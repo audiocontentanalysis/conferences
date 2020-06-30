@@ -114,6 +114,16 @@
   place: Laguna Hills, CA
   sub: ML
 
+- title: ICMPC
+  year: 2021
+  id: icmpc21
+  link: https://sites.google.com/sheffield.ac.uk/escom2021/home
+  deadline: '2020-12-07 23:59:59'
+  timezone: UTC-12
+  date: Jul 28-31, 2020
+  place: Multiple hubs
+  sub: SP
+
 - title: WWMC   
   year: 2021
   id: WWMC21
@@ -123,40 +133,6 @@
   date: April 22-23, 2021
   place: Prague, Czech Republic
   sub: ML
-
-- title: ECAI
-  year: 2020
-  id: ecai20
-  link: http://ecai2020.eu/
-  deadline: '2019-11-19 23:59:59'
-  abstract_deadline: '2019-11-15 23:59:59'
-  timezone: UTC-12
-  date: June 8-12, 2020
-  place: Santiago de Compostella, Spain
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Nov 15, 2019. More info <a href=''http://ecai2020.eu/call-for-papers/mainconference/''>here</a>.'
-
-- title: ICMR
-  year: 2020
-  id: icmr20
-  link: http://icmr2020.org/
-  deadline: '2020-01-11 23:59:59'
-  timezone: Europe/London
-  date: June 8-11, 2020
-  place: Dublin, Ireland
-  sub: ML
-
-- title: SMC
-  year: 2020
-  id: smc20
-  link: https://smc2020torino.it/uk/
-  deadline: '2020-03-06 23:59:59'
-  abstract_deadline: '2020-02-28 23:59:00'
-  timezone: UTC-12
-  date: June 20-26, 2020
-  place: Torino, Italy
-  sub: SP
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 28, 2020. More info <a href=''https://smc2020torino.it/uk/page.asp?PID=87''>here</a>.'
 
 - title: ICCC
   year: 2020
