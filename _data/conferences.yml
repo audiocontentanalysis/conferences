@@ -11,27 +11,7 @@
   # place: Barcelona, Spain
   # sub: SP
   # note: '<b>NOTE</b>: Mandatory abstract deadline on June 06, 2020. More info <a href=''https://webaudioconf2020.com/call-for-submissions/''>here</a>.'
-  
-- title: NLP4MusA
-  year: 2020
-  id: NLP4MusA20
-  link: https://sites.google.com/view/nlp4musa
-  deadline: '2020-07-24 23:59:59'
-  timezone: America/Toronto
-  date: Oct 16, 2020
-  place: Montreal, CA
-  sub: ML
-
-- title: WIMP
-  year: 2020
-  id: wimp20
-  link: https://intelligent-music-production.github.io/
-  deadline: '2020-07-17 23:59:59'
-  timezone: Europe/London
-  date: Sep 4, 2020
-  place: Plymouth, UK
-  sub: SP
-
+ 
 - title: AIVR
   year: 2020
   id: aivr20
@@ -40,6 +20,16 @@
   timezone: Europe/Brussels
   date: Dec 14-16, 2020
   place: Utrecht, NL
+  sub: ML
+ 
+- title: NLP4MusA
+  year: 2020
+  id: NLP4MusA20
+  link: https://sites.google.com/view/nlp4musa
+  deadline: '2020-07-24 23:59:59'
+  timezone: America/Toronto
+  date: Oct 16, 2020
+  place: Montreal, CA
   sub: ML
 
 - title: DlfM
@@ -220,6 +210,16 @@
   date: August 22-27, 2020
   place: San Diego, California, USA
   sub: DM
+
+- title: WIMP
+  year: 2020
+  id: wimp20
+  link: https://intelligent-music-production.github.io/
+  deadline: '2020-07-17 23:59:59'
+  timezone: Europe/London
+  date: Sep 4, 2020
+  place: Plymouth, UK
+  sub: SP
 
 - title: DAFx
   year: 2020
