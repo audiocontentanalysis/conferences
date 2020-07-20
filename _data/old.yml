@@ -1,4 +1,81 @@
 
+- title: ICCC
+  year: 2020
+  id: iccc20
+  link: http://computationalcreativity.net/iccc20/
+  deadline: '2020-03-08 23:59:59'
+  timezone: UTC-12
+  date: June 29-July 3, 2020
+  place: Coimbra, Portugal
+  sub: ML
+
+- title: ICMC
+  year: 2020
+  id: icmc20
+  link: https://icmc2020.org/
+  deadline: '2020-02-07 23:59:59'
+  timezone: America/Los_Angeles
+  date: July 5-11, 2020
+  place: Santiage, Chile
+  sub: SP
+
+- title: ICME
+  year: 2020
+  id: icme20
+  link: https://www.2020.ieeeicme.org/
+  deadline: '2019-12-13 23:59:59'
+  timezone: UTC-12
+  date: July 6-10, 2020
+  place: London, UK
+  sub: SP
+
+- title: IJCAI-PRICAI
+  year: 2020
+  id: ijcai-pricai20
+  link: https://www.ijcai20.org/
+  deadline: '2020-01-21 23:59:59'
+  abstract_deadline: '2020-01-15 23:59:59'
+  timezone: UTC-12
+  date: July 11-17, 2020
+  place: Yokohama, Japan
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 15, 2020. More info <a href=''https://www.ijcai19.org/''>here</a>.'
+
+- title: NIME
+  year: 2020
+  id: nime20
+  link: https://nime2020.bcu.ac.uk/
+  deadline: '2020-01-31 23:59:59'
+  abstract_deadline: '2020-01-24 13:00:00'
+  timezone: Europe/London
+  date: Jul 21-25, 2020
+  place: Birmingham, UK
+  sub: SP
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 024, 2020.'
+
+- title: SIGIR
+  year: 2020
+  id: sigir20
+  link: http://sigir.org/sigir2020/
+  deadline: '2020-01-22 23:59:59'
+  abstract_deadline: '2020-01-15 23:59:59'
+  timezone: UTC-12
+  date: July 25 - 30, 2020
+  place: Xi'an, China
+  sub: DM
+
+- title: ICML
+  year: 2020
+  id: icml20
+  link: https://icml.cc/Conferences/2020
+  deadline: '2020-02-06 23:59:00'
+  abstract_deadline: '2020-01-30 23:59:00'
+  timezone: UTC-12
+  date: July 12-18, 2020
+  place: Vienna, Austria
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 30, 2020. More info <a href=''https://icml.cc/Conferences/2020/CallForPapers''>here</a>.'
+
 - title: ECAI
   year: 2020
   id: ecai20
