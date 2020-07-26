@@ -12,26 +12,6 @@
   # sub: SP
   # note: '<b>NOTE</b>: Mandatory abstract deadline on June 06, 2020. More info <a href=''https://webaudioconf2020.com/call-for-submissions/''>here</a>.'
  
-- title: AIVR
-  year: 2020
-  id: aivr20
-  link: http://aivr.science.uu.nl/aivr_papers.html
-  deadline: '2020-07-24 23:59:59'
-  timezone: Europe/Brussels
-  date: Dec 14-16, 2020
-  place: Utrecht, NL
-  sub: ML
- 
-- title: NLP4MusA
-  year: 2020
-  id: NLP4MusA20
-  link: https://sites.google.com/view/nlp4musa
-  deadline: '2020-07-24 23:59:59'
-  timezone: America/Toronto
-  date: Oct 16, 2020
-  place: Montreal, CA
-  sub: ML
-
 - title: MMM
   year: 2021
   id: mmm21
@@ -100,7 +80,7 @@
   link: http://www.icpram.org/
   deadline: '2020-09-14 23:59:59'
   timezone: UTC-12
-  date: Apr 23-25, 2020
+  date: Apr 23-25, 2021
   place: Vienna, Austria
   sub: ML
 
@@ -203,6 +183,16 @@
   date: Sep 21-24, 2020
   place: Espoo, Finland
   sub: SP
+ 
+- title: NLP4MusA
+  year: 2020
+  id: NLP4MusA20
+  link: https://sites.google.com/view/nlp4musa
+  deadline: '2020-07-24 23:59:59'
+  timezone: America/Toronto
+  date: Oct 16, 2020
+  place: Montreal, CA
+  sub: ML
 
 - title: ISMIR
   year: 2020
@@ -279,6 +269,16 @@
   place: Vancouver, Canada
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on May 27, 2020.'
+
+- title: AIVR
+  year: 2020
+  id: aivr20
+  link: http://aivr.science.uu.nl/aivr_papers.html
+  deadline: '2020-07-24 23:59:59'
+  timezone: Europe/Brussels
+  date: Dec 14-16, 2020
+  place: Utrecht, NL
+  sub: ML
 
 - title: ICPR
   hindex: 38
