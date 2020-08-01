@@ -11,27 +11,6 @@
   # place: Barcelona, Spain
   # sub: SP
   # note: '<b>NOTE</b>: Mandatory abstract deadline on June 06, 2020. More info <a href=''https://webaudioconf2020.com/call-for-submissions/''>here</a>.'
- 
-- title: MMM
-  year: 2021
-  id: mmm21
-  link: https://mmm2021.cz/
-  deadline: '2020-07-31 23:59:59'
-  timezone: UTC-12
-  date: Jan 25-27, 2021
-  place: Prague, Czech Republic
-  sub: SP
-  
-- title: DlfM
-  year: 2020
-  id: dlfm20
-  link: https://dlfm.web.ox.ac.uk/
-  deadline: '2020-07-31 23:59:59'
-  timezone: UTC-11
-  date:  Oct 16, 2020
-  place: Montreal, Canada
-  sub: SP
-  note: '<b>NOTE</b>: Mandatory abstract deadline on July 24, 2020. More info <a href=''https://dlfm.web.ox.ac.uk/#Dates''>here</a>.'
 
 - title: IEEE SSCI
   year: 2020
@@ -183,6 +162,17 @@
   date: Sep 21-24, 2020
   place: Espoo, Finland
   sub: SP
+  
+- title: DlfM
+  year: 2020
+  id: dlfm20
+  link: https://dlfm.web.ox.ac.uk/
+  deadline: '2020-07-31 23:59:59'
+  timezone: UTC-11
+  date:  Oct 16, 2020
+  place: Montreal, Canada
+  sub: SP
+  note: '<b>NOTE</b>: Mandatory abstract deadline on July 24, 2020. More info <a href=''https://dlfm.web.ox.ac.uk/#Dates''>here</a>.'
  
 - title: NLP4MusA
   year: 2020
@@ -290,3 +280,13 @@
   date: January 10-15, 2021
   place: Milan, Italy
   sub: ML
+ 
+- title: MMM
+  year: 2021
+  id: mmm21
+  link: https://mmm2021.cz/
+  deadline: '2020-07-31 23:59:59'
+  timezone: UTC-12
+  date: Jan 25-27, 2021
+  place: Prague, Czech Republic
+  sub: SP
