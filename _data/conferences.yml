@@ -12,26 +12,6 @@
   # sub: SP
   # note: '<b>NOTE</b>: Mandatory abstract deadline on June 06, 2020. More info <a href=''https://webaudioconf2020.com/call-for-submissions/''>here</a>.'
 
-- title: IEEE SSCI
-  year: 2020
-  id: ssci20
-  link: http://www.ieeessci2020.org
-  deadline: '2020-08-07 23:59:59'
-  timezone: UTC-12
-  date: December 1-4, 2020
-  place: Canberra, Australia
-  sub: ML
-
-- title: IEEE ISM
-  year: 2020
-  id: ism20
-  link: http://www.ieee-ism.org/
-  deadline: '2020-08-10 23:59:59'
-  timezone: UTC-12
-  date: Dec 2-4, 2021
-  place: Naples, Italy
-  sub: ML
-
 - title: CSMC/MuMe
   year: 2020
   id: csmc20
@@ -247,6 +227,26 @@
   date: November 17-20, 2020
   place: Sorrento, Italy
   sub: DM
+
+- title: IEEE SSCI
+  year: 2020
+  id: ssci20
+  link: http://www.ieeessci2020.org
+  deadline: '2020-08-07 23:59:59'
+  timezone: UTC-12
+  date: Dec 1-4, 2020
+  place: Canberra, Australia
+  sub: ML
+
+- title: IEEE ISM
+  year: 2020
+  id: ism20
+  link: http://www.ieee-ism.org/
+  deadline: '2020-08-10 23:59:59'
+  timezone: UTC-12
+  date: Dec 2-4, 2021
+  place: Naples, Italy
+  sub: ML
 
 - title: NeurIPS
   year: 2020
