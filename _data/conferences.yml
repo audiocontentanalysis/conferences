@@ -12,16 +12,6 @@
   # sub: SP
   # note: '<b>NOTE</b>: Mandatory abstract deadline on June 06, 2020. More info <a href=''https://webaudioconf2020.com/call-for-submissions/''>here</a>.'
 
-- title: CSMC/MuMe
-  year: 2020
-  id: csmc20
-  link: https://www.kth.se/en/eecs/om-oss/konferenser-och-event/aimusic2020
-  deadline: '2020-08-14 23:59:59'
-  timezone: UTC-12
-  date: Oct 22-24, 2020
-  place: Stockholm, Sweden
-  sub: ML
-
 - title: AAAI
   year: 2021
   id: aaai21
@@ -197,6 +187,16 @@
   date: October 21-24, 2020
   place: New York, USA
   sub: SP
+
+- title: CSMC/MuMe
+  year: 2020
+  id: csmc20
+  link: https://www.kth.se/en/eecs/om-oss/konferenser-och-event/aimusic2020
+  deadline: '2020-08-14 23:59:59'
+  timezone: UTC-12
+  date: Oct 22-24, 2020
+  place: Stockholm, Sweden
+  sub: ML
 
 - title: EUSIPCO
   year: 2020
