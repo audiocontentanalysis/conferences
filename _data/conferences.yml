@@ -12,17 +12,6 @@
   # sub: SP
   # note: '<b>NOTE</b>: Mandatory abstract deadline on June 06, 2020. More info <a href=''https://webaudioconf2020.com/call-for-submissions/''>here</a>.'
 
-- title: AAAI
-  year: 2021
-  id: aaai21
-  link: https://aaai.org/Conferences/AAAI-21/
-  deadline: '2020-09-09 23:59:59'
-  timezone: UTC-12
-  date: Feb 2-9, 2021
-  place: Vancouver, BC
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Sep 1, 2020.'
-
 - title: ICPRAM
   year: 2021
   id: icpram21
@@ -86,16 +75,6 @@
   date: April 22-23, 2021
   place: Prague, Czech Republic
   sub: ML
-
-- title: WIMP
-  year: 2020
-  id: wimp20
-  link: https://intelligent-music-production.github.io/
-  deadline: '2020-07-17 23:59:59'
-  timezone: Europe/London
-  date: Sep 4, 2020
-  place: Plymouth, UK
-  sub: SP
 
 - title: DAFx
   year: 2020
@@ -294,3 +273,14 @@
   date: Jan 25-27, 2021
   place: Prague, Czech Republic
   sub: SP
+
+- title: AAAI
+  year: 2021
+  id: aaai21
+  link: https://aaai.org/Conferences/AAAI-21/
+  deadline: '2020-09-09 23:59:59'
+  timezone: UTC-12
+  date: Feb 2-9, 2021
+  place: Vancouver, BC
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Sep 1, 2020.'
