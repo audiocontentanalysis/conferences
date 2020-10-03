@@ -1,4 +1,44 @@
 
+- title: MLSP
+  year: 2020
+  id: mlsp20
+  link: https://ieeemlsp.cc/
+  deadline: '2020-04-19 23:59:59'
+  timezone: America/Los_Angeles
+  date: Sep 21-24, 2020
+  place: Espoo, Finland
+  sub: SP
+
+- title: AudioMostly
+  year: 2020
+  id: amostly20
+  link: https://audiomostly.com/2020
+  deadline: '2020-06-01 23:59:59'
+  timezone: UTC-12
+  date: Sep 15-17, 2020
+  place: Graz, Austria
+  sub: SP
+
+- title: MMSP
+  year: 2020
+  id: mmsp20
+  link: http://mmsp2020.org/
+  deadline: '2020-06-14 23:59:59'
+  timezone: UTC-12
+  date: Sep 21-23, 2020
+  place: Tampere, Finland
+  sub: SP
+
+- title: DAFx
+  year: 2020
+  id: dafx20
+  link: https://dafx2020.mdw.ac.at/
+  deadline: '2020-04-19 23:59:59'
+  timezone: UTC-12
+  date: Sep 8-12, 2020
+  place: Vienna, Austria
+  sub: SP
+
 - title: WIMP
   year: 2020
   id: wimp20

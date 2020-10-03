@@ -12,20 +12,6 @@
   # sub: SP
   # note: '<b>NOTE</b>: Mandatory abstract deadline on June 06, 2020. More info <a href=''https://webaudioconf2020.com/call-for-submissions/''>here</a>.'
 
-- title: ICLR
-  hindex: 150
-  year: 2021
-  id: iclr21
-  link: http://iclr.cc/
-  deadline: '2020-10-02 07:59:59'
-  abstract_deadline: '2020-09-28 07:59:59'
-  timezone: UTC-7
-  date: May 4, 2021
-  place: Vienna, Austria
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on September 28, 2020. More info
-    <a href=''https://iclr.cc/Conferences/2021/CallForPapers''>here</a>.'
-
 - title: ICSC
   year: 2021
   id: icsc21
@@ -99,46 +85,6 @@
   date: April 22-23, 2021
   place: Prague, Czech Republic
   sub: ML
-
-- title: DAFx
-  year: 2020
-  id: dafx20
-  link: https://dafx2020.mdw.ac.at/
-  deadline: '2020-04-19 23:59:59'
-  timezone: UTC-12
-  date: Sep 8-12, 2020
-  place: Vienna, Austria
-  sub: SP
-
-- title: AudioMostly
-  year: 2020
-  id: amostly20
-  link: https://audiomostly.com/2020
-  deadline: '2020-06-01 23:59:59'
-  timezone: UTC-12
-  date: Sep 15-17, 2020
-  place: Graz, Austria
-  sub: SP
-
-- title: MMSP
-  year: 2020
-  id: mmsp20
-  link: http://mmsp2020.org/
-  deadline: '2020-06-14 23:59:59'
-  timezone: UTC-12
-  date: Sep 21-23, 2020
-  place: Tampere, Finland
-  sub: SP
-
-- title: MLSP
-  year: 2020
-  id: mlsp20
-  link: https://ieeemlsp.cc/
-  deadline: '2020-04-19 23:59:59'
-  timezone: America/Los_Angeles
-  date: Sep 21-24, 2020
-  place: Espoo, Finland
-  sub: SP
   
 - title: DlfM
   year: 2020
@@ -241,7 +187,7 @@
   link: http://www.ieeessci2020.org
   deadline: '2020-08-07 23:59:59'
   timezone: UTC-12
-  date: Dec 1-4, 2020
+  date: December 1-4, 2020
   place: Canberra, Australia
   sub: ML
 
@@ -251,7 +197,7 @@
   link: http://www.ieee-ism.org/
   deadline: '2020-08-10 23:59:59'
   timezone: UTC-12
-  date: Dec 2-4, 2020
+  date: December 2-4, 2020
   place: Naples, Italy
   sub: ML
 
@@ -273,7 +219,7 @@
   link: http://aivr.science.uu.nl/aivr_papers.html
   deadline: '2020-07-24 23:59:59'
   timezone: Europe/Brussels
-  date: Dec 14-16, 2020
+  date: December 14-16, 2020
   place: Utrecht, NL
   sub: ML
 
@@ -318,3 +264,17 @@
   date: Apr 23-25, 2021
   place: Vienna, Austria
   sub: ML
+
+- title: ICLR
+  hindex: 150
+  year: 2021
+  id: iclr21
+  link: http://iclr.cc/
+  deadline: '2020-10-02 07:59:59'
+  abstract_deadline: '2020-09-28 07:59:59'
+  timezone: UTC-7
+  date: May 4-7, 2021
+  place: Vienna, Austria
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on September 28, 2020. More info
+    <a href=''https://iclr.cc/Conferences/2021/CallForPapers''>here</a>.'
