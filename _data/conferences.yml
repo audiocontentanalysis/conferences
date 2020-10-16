@@ -12,21 +12,11 @@
   # sub: SP
   # note: '<b>NOTE</b>: Mandatory abstract deadline on June 06, 2020. More info <a href=''https://webaudioconf2020.com/call-for-submissions/''>here</a>.'
 
-- title: ICSC
-  year: 2021
-  id: icsc21
-  link: https://www.ieee-icsc.org/
-  deadline: '2020-10-15 23:59:59'
-  timezone: UTC-12
-  date: Jan 27-29, 2021
-  place: Laguna Hills, CA
-  sub: ML
-
 - title: ICASSP
   year: 2021
   id: icassp21
   link: https://2021.ieeeicassp.org/
-  deadline: '2020-10-19 23:59:59'
+  deadline: '2020-10-21 23:59:59'
   timezone: UTC-12
   date: Jun 6-11, 2021
   place: Toronto, Canada
@@ -254,6 +244,16 @@
   date: Jan 25-27, 2021
   place: Prague, Czech Republic
   sub: SP
+
+- title: ICSC
+  year: 2021
+  id: icsc21
+  link: https://www.ieee-icsc.org/
+  deadline: '2020-10-15 23:59:59'
+  timezone: UTC-12
+  date: Jan 27-29, 2021
+  place: Laguna Hills, CA
+  sub: ML
 
 - title: AAAI
   year: 2021
