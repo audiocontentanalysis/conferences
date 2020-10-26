@@ -12,16 +12,6 @@
   # sub: SP
   # note: '<b>NOTE</b>: Mandatory abstract deadline on June 06, 2020. More info <a href=''https://webaudioconf2020.com/call-for-submissions/''>here</a>.'
 
-- title: ICASSP
-  year: 2021
-  id: icassp21
-  link: https://2021.ieeeicassp.org/
-  deadline: '2020-10-21 23:59:59'
-  timezone: UTC-12
-  date: Jun 6-11, 2021
-  place: Toronto, Canada
-  sub: SP
-
 - title: ICME
   year: 2021
   id: icme21
@@ -75,6 +65,7 @@
   date: July 11-15, 2021
   place: Montreal, Canada
   abstract_deadline: '2021-02-02 23:59:00'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on February 02, 2021. More info <a href=''http://sigir.org/sigir2021/''>here</a>.'  
   sub: ML
 
 - title: WWMC   
@@ -86,91 +77,6 @@
   date: April 22-23, 2021
   place: Prague, Czech Republic
   sub: ML
-  
-- title: DlfM
-  year: 2020
-  id: dlfm20
-  link: https://dlfm.web.ox.ac.uk/
-  deadline: '2020-07-31 23:59:59'
-  timezone: UTC-11
-  date:  Oct 16, 2020
-  place: Montreal, Canada
-  sub: SP
-  note: '<b>NOTE</b>: Mandatory abstract deadline on July 24, 2020. More info <a href=''https://dlfm.web.ox.ac.uk/#Dates''>here</a>.'
- 
-- title: NLP4MusA
-  year: 2020
-  id: NLP4MusA20
-  link: https://sites.google.com/view/nlp4musa
-  deadline: '2020-07-24 23:59:59'
-  timezone: America/Toronto
-  date: Oct 16, 2020
-  place: Montreal, CA
-  sub: ML
-
-- title: ISMIR
-  year: 2020
-  id: ismir20
-  link: https://ismir.github.io/ISMIR2020/
-  deadline: '2020-05-15 23:59:59'
-  abstract_deadline: '2020-05-08 23:59:59'
-  timezone: UTC-12
-  date: October 12-15, 2020
-  place: Montreal, Canada
-  sub: SP
-  note: '<b>NOTE</b>: Mandatory abstract deadline on May 08, 2020. More info <a href=''https://ismir.github.io/ISMIR2020/cfp/''>here</a>.'
-
-- title: MM
-  year: 2020
-  id: mm20
-  link: https://2020.acmmm.org/
-  deadline: '2020-05-24 23:59:00'
-  abstract_deadline: '2020-05-17 23:59:59'
-  timezone: UTC
-  date: October 12-16, 2020
-  place: Seattle, USA
-  sub: SP
-  note: '<b>NOTE</b>: Mandatory abstract deadline on May 17, 2020. More info <a href=''https://2020.acmmm.org/important-dates.html''>here</a>.'
-
-- title: AES Convention
-  year: 2020
-  id: aes149
-  link: http://www.aes.org/events/149/authors/cfc/
-  deadline: '2020-06-15 23:59:59'
-  timezone: UTC+1
-  date: October 21-24, 2020
-  place: New York, USA
-  sub: SP
-
-- title: CSMC/MuMe
-  year: 2020
-  id: csmc20
-  link: https://www.kth.se/en/eecs/om-oss/konferenser-och-event/aimusic2020
-  deadline: '2020-08-14 23:59:59'
-  timezone: UTC-12
-  date: Oct 22-24, 2020
-  place: Stockholm, Sweden
-  sub: ML
-
-- title: EUSIPCO
-  year: 2020
-  id: eusipco20
-  link: https://eusipco2020.org/
-  deadline: '2020-03-02 23:59:59'
-  timezone: America/Los_Angeles
-  date: October 24-30, 2020
-  place: Amsterdam, Netherlands
-  sub: SP
-
-- title: InterSpeech
-  year: 2020
-  id: interspeech20
-  link: http://www.interspeech2020.org/
-  deadline: '2020-05-08 23:59:59'
-  timezone: Asia/Shanghai
-  date: October 26-29, 2020
-  place: Shanghai, China
-  sub: SP
 
 - title: ICDM
   year: 2020
@@ -289,3 +195,13 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on September 28, 2020. More info
     <a href=''https://iclr.cc/Conferences/2021/CallForPapers''>here</a>.'
+
+- title: ICASSP
+  year: 2021
+  id: icassp21
+  link: https://2021.ieeeicassp.org/
+  deadline: '2020-10-21 23:59:59'
+  timezone: UTC-12
+  date: Jun 6-11, 2021
+  place: Toronto, Canada
+  sub: SP
