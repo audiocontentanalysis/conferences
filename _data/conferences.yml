@@ -43,6 +43,16 @@
   sub: SP
   note: '<b>NOTE</b>: Mandatory paper registration deadline on December 11, 2020. More info <a href=''https://2021.acmmmsys.org/index.php#call-to-action''>here</a>.'
  
+- title: IJCNN
+  year: 2021
+  id: ijcnn21
+  link: https://www.ijcnn.org
+  deadline: '2021-01-15 23:59:00'
+  timezone: UTC-12
+  date: July 18-22, 2021
+  place: Shenzhen, China
+  sub: ML 
+ 
 - title: IJCAI
   year: 2021
   id: ijcai21
