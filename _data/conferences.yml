@@ -1,17 +1,5 @@
 ---
 
-# - title: WAC
-  # year: 2020
-  # id: wac20
-  # link: https://webaudioconf2020.com
-  # deadline: '2020-07-03 23:59:59'
-  # abstract_deadline: '2020-06-26 23:59:59'
-  # timezone: UTC-7
-  # date: October 12-15, 2020
-  # place: Barcelona, Spain
-  # sub: SP
-  # note: '<b>NOTE</b>: Mandatory abstract deadline on June 06, 2020. More info <a href=''https://webaudioconf2020.com/call-for-submissions/''>here</a>.'
-
 - title: ICME
   year: 2021
   id: icme21
@@ -28,7 +16,7 @@
   link: https://sites.google.com/sheffield.ac.uk/escom2021/home
   deadline: '2020-12-07 23:59:59'
   timezone: UTC-12
-  date: Jul 28-31, 2021
+  date: July 28-31, 2021
   place: Multiple hubs
   sub: SP
 
@@ -42,6 +30,16 @@
   place: Istanbul, Turkey
   sub: SP
   note: '<b>NOTE</b>: Mandatory paper registration deadline on December 11, 2020. More info <a href=''https://2021.acmmmsys.org/index.php#call-to-action''>here</a>.'
+
+- title: WAC
+  year: 2021
+  id: wac21
+  link: https://webaudioconf2020.com
+  deadline: '2020-12-21 23:59:59'
+  timezone: UTC-7
+  date: July 5-7, 2021
+  place: Barcelona, Spain
+  sub: SP
  
 - title: IJCNN
   year: 2021
