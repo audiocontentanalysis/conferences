@@ -63,6 +63,18 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on January 12, 2021. More info
     <a href=''https://ijcai-21.org/cfp/''>here</a>.'  
   sub: ML
+ 
+- title: NIME
+  year: 2021
+  id: nime21
+  link: http://nime2021.org
+  deadline: '2021-01-31 23:59:00'
+  timezone: UTC-12
+  date: June 15-18, 2021
+  place: Shanghai, China
+  note: '<b>NOTE</b>: Mandatory initial submission deadline on January 22, 2021. More info
+    <a href=''http://nime2021.org/cfp_paper.html''>here</a>.'  
+  sub: SP 
 
 - title: SIGIR
   year: 2021
