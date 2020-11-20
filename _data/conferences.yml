@@ -88,6 +88,16 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on February 02, 2021. More info <a href=''http://sigir.org/sigir2021/''>here</a>.'  
   sub: ML
 
+- title: EUSIPCO   
+  year: 2021
+  id: EUSIPCO21
+  link: https://eusipco2021.org/
+  deadline: '2021-02-12 23:59:59'
+  timezone: Europe/Dublin
+  date: July 23-27, 2021
+  place: Dublin, Ireland
+  sub: SP
+
 - title: WWMC   
   year: 2021
   id: WWMC21
@@ -96,6 +106,16 @@
   timezone: Europe/Prague
   date: April 22-23, 2021
   place: Prague, Czech Republic
+  sub: ML
+
+- title: AIMC   
+  year: 2021
+  id: AIMC21
+  link: https://aimc2021.iem.at/
+  deadline: '2021-04-01 23:59:59'
+  timezone: Europe/Vienna
+  date: July 18-22, 2021
+  place: Graz, Austria
   sub: ML
 
 - title: ICDM
