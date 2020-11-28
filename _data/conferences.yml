@@ -121,10 +121,10 @@
 - title: SMC   
   year: 2021
   id: SMC21
-  link: https://smcnetwork.org/#smc
-  deadline: '2021-03-12  23:59:59'
+  link: https://smcnetwork.org
+  deadline: '2021-03-12 23:59:59'
   abstract_deadline: '2021-03-05 23:59:59'
-  date: June 29- July 1, 2021
+  date: June 29 - July 1, 2021
   place: online
   timezone: Europe/Rome
   sub: SP
