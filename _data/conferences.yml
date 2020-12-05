@@ -1,23 +1,13 @@
 ---
 
-- title: ICME
-  year: 2021
-  id: icme21
-  link: https://2021.ieeeicme.org/
-  deadline: '2020-11-29 23:59:59'
-  timezone: America/Los_Angeles
-  date: July 5-9, 2021
-  place: Shenzhen, China
-  sub: SP
-
 - title: ICMPC
   year: 2021
   id: icmpc21
   link: https://sites.google.com/sheffield.ac.uk/escom2021/home
-  deadline: '2020-12-07 23:59:59'
+  deadline: '2020-01-14 23:59:59'
   timezone: UTC-12
   date: July 28-31, 2021
-  place: Multiple hubs
+  place: online
   sub: SP
 
 - title: MMSys
@@ -140,36 +130,6 @@
   place: Graz, Austria
   sub: ML
 
-- title: ICDM
-  year: 2020
-  id: icdm20
-  link: http://icdm2020.bigke.org/
-  deadline: '2020-06-11 23:59:59'
-  timezone: UTC-7
-  date: November 17-20, 2020
-  place: Sorrento, Italy
-  sub: DM
-
-- title: IEEE SSCI
-  year: 2020
-  id: ssci20
-  link: http://www.ieeessci2020.org
-  deadline: '2020-08-07 23:59:59'
-  timezone: UTC-12
-  date: December 1-4, 2020
-  place: Canberra, Australia
-  sub: ML
-
-- title: IEEE ISM
-  year: 2020
-  id: ism20
-  link: http://www.ieee-ism.org/
-  deadline: '2020-08-10 23:59:59'
-  timezone: UTC-12
-  date: December 2-4, 2020
-  place: Naples, Italy
-  sub: ML
-
 - title: NeurIPS
   year: 2020
   id: neurips20
@@ -266,4 +226,14 @@
   timezone: UTC-12
   date: Jun 6-11, 2021
   place: Toronto, Canada
+  sub: SP
+
+- title: ICME
+  year: 2021
+  id: icme21
+  link: https://2021.ieeeicme.org/
+  deadline: '2020-11-29 23:59:59'
+  timezone: America/Los_Angeles
+  date: July 5-9, 2021
+  place: Shenzhen, China
   sub: SP
