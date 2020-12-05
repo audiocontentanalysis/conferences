@@ -1,15 +1,5 @@
 ---
 
-- title: ICMPC
-  year: 2021
-  id: icmpc21
-  link: https://sites.google.com/sheffield.ac.uk/escom2021/home
-  deadline: '2021-01-14 23:59:59'
-  timezone: UTC-12
-  date: July 28-31, 2021
-  place: online
-  sub: SP
-
 - title: MMSys
   year: 2021
   id: mmsys21
@@ -29,6 +19,16 @@
   timezone: UTC-7
   date: July 5-7, 2021
   place: Barcelona, Spain
+  sub: SP
+
+- title: ICMPC
+  year: 2021
+  id: icmpc21
+  link: https://sites.google.com/sheffield.ac.uk/escom2021/home
+  deadline: '2021-01-14 23:59:59'
+  timezone: UTC-12
+  date: July 28-31, 2021
+  place: online
   sub: SP
  
 - title: IJCNN
