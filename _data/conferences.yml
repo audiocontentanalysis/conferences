@@ -1,16 +1,5 @@
 ---
 
-- title: MMSys
-  year: 2021
-  id: mmsys21
-  link: https://2021.acmmmsys.org
-  deadline: '2020-12-14 23:59:59'
-  timezone: UTC-12
-  date: May 25-28, 2021
-  place: Istanbul, Turkey
-  sub: SP
-  note: '<b>NOTE</b>: Mandatory paper registration deadline on December 11, 2020. More info <a href=''https://2021.acmmmsys.org/index.php#call-to-action''>here</a>.'
-
 - title: WAC
   year: 2021
   id: wac21
@@ -149,6 +138,17 @@
   date: September 1-3, 2021
   place: Trento, Italy
   sub: SP
+
+- title: MMSys
+  year: 2021
+  id: mmsys21
+  link: https://2021.acmmmsys.org
+  deadline: '2020-12-14 23:59:59'
+  timezone: UTC-12
+  date: May 25-28, 2021
+  place: Istanbul, Turkey
+  sub: SP
+  note: '<b>NOTE</b>: Mandatory paper registration deadline on December 11, 2020. More info <a href=''https://2021.acmmmsys.org/index.php#call-to-action''>here</a>.'
 
 - title: NeurIPS
   year: 2020
