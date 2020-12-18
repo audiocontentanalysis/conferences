@@ -140,6 +140,16 @@
   place: Graz, Austria
   sub: ML
 
+- title: AudioMostly   
+  year: 2021
+  id: audiomostly21
+  link: https://audiomostly.com/2021/info/important-dates/
+  deadline: '2021-05-01 23:59:59'
+  timezone: Europe/Rome
+  date: September 1-3, 2021
+  place: Trento, Italy
+  sub: SP
+
 - title: NeurIPS
   year: 2020
   id: neurips20
