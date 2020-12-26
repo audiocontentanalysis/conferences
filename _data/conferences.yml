@@ -1,15 +1,5 @@
 ---
 
-- title: WAC
-  year: 2021
-  id: wac21
-  link: https://webaudioconf2020.com
-  deadline: '2020-12-21 23:59:59'
-  timezone: UTC-7
-  date: July 5-7, 2021
-  place: Barcelona, Spain
-  sub: SP
-
 - title: ICMPC
   year: 2021
   id: icmpc21
@@ -150,28 +140,6 @@
   sub: SP
   note: '<b>NOTE</b>: Mandatory paper registration deadline on December 11, 2020. More info <a href=''https://2021.acmmmsys.org/index.php#call-to-action''>here</a>.'
 
-- title: NeurIPS
-  year: 2020
-  id: neurips20
-  link: https://nips.cc/Conferences/2020
-  deadline: '2020-06-03 13:00:00'
-  abstract_deadline: '2020-05-27 13:00:00'
-  timezone: America/Los_Angeles
-  date: December 6-12, 2020
-  place: Vancouver, Canada
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on May 27, 2020.'
-
-- title: AIVR
-  year: 2020
-  id: aivr20
-  link: http://aivr.science.uu.nl/aivr_papers.html
-  deadline: '2020-07-24 23:59:59'
-  timezone: Europe/Brussels
-  date: December 14-16, 2020
-  place: Utrecht, NL
-  sub: ML
-
 - title: ICPR
   hindex: 38
   year: 2020
@@ -246,6 +214,16 @@
   timezone: UTC-12
   date: Jun 6-11, 2021
   place: Toronto, Canada
+  sub: SP
+
+- title: WAC
+  year: 2021
+  id: wac21
+  link: https://webaudioconf2020.com
+  deadline: '2020-12-21 23:59:59'
+  timezone: UTC-7
+  date: July 5-7, 2021
+  place: Barcelona, Spain
   sub: SP
 
 - title: ICME
