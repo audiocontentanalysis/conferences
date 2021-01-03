@@ -129,6 +129,16 @@
   place: Trento, Italy
   sub: SP
 
+- title: ICDM
+  year: 2021
+  id: icdm21
+  link: https://2021.acmmmsys.org
+  deadline: '2021-06-11 23:59:59'
+  timezone: America/Los_Angeles
+  date: Decmeber 7-10, 2021
+  place: Auckland, New Zealand
+  sub: DM
+
 - title: MMSys
   year: 2021
   id: mmsys21
