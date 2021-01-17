@@ -1,14 +1,4 @@
 ---
-
-- title: ICMPC
-  year: 2021
-  id: icmpc21
-  link: https://sites.google.com/sheffield.ac.uk/escom2021/home
-  deadline: '2021-01-14 23:59:59'
-  timezone: UTC-12
-  date: July 28-31, 2021
-  place: online
-  sub: SP
  
 - title: IJCNN
   year: 2021
@@ -107,7 +97,18 @@
   place: online
   timezone: Europe/Rome
   sub: SP
-  note: '<b>NOTE</b>: Mandatory abstract deadline on March 5, 2021.'
+  note: '<b>NOTE</b>: Mandatory abstract submission deadline on March 05, 2021. More info
+    <a href=''https://smc2021conference.org/call/call-for-papers/''>here</a>.'  
+
+- title: DAFx
+  year: 2021
+  id: dafx21
+  link: https://dafx2020.mdw.ac.at/
+  deadline: '2021-03-29 23:59:59'
+  timezone: UTC-12
+  date: September 8-10, 2021
+  place: Vienna, Austria
+  sub: SP
 
 - title: AIMC   
   year: 2021
@@ -138,6 +139,16 @@
   date: Decmeber 7-10, 2021
   place: Auckland, New Zealand
   sub: DM
+
+- title: DCASE
+  year: 2021
+  id: dcase21
+  link: http://dcase.community/workshop2021/
+  deadline: '2021-07-20 23:59:59'
+  timezone: UTC-12
+  date: November 15-16, 2021
+  place: Barcelona, Spain/online
+  sub: SP
 
 - title: MMSys
   year: 2021
@@ -244,4 +255,14 @@
   timezone: America/Los_Angeles
   date: July 5-9, 2021
   place: Shenzhen, China
+  sub: SP
+
+- title: ICMPC
+  year: 2021
+  id: icmpc21
+  link: https://sites.google.com/sheffield.ac.uk/escom2021/home
+  deadline: '2021-01-14 23:59:59'
+  timezone: UTC-12
+  date: July 28-31, 2021
+  place: online
   sub: SP
