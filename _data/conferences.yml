@@ -119,7 +119,20 @@
   date: July 18-22, 2021
   place: Graz, Austria
   sub: ML
-
+ 
+- title: ACMMM
+  year: 2021
+  id: acmmm21
+  link: https://2021.acmmm.org
+  deadline: '2021-04-03 23:59:00'
+  timezone: UTC-12
+  date: October 20-24, 2021
+  place: Chengdu, China
+  abstract_deadline: '2021-01-12 23:59:00'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on March 27, 2021. More info
+    <a href=''https://2021.acmmm.org''>here</a>.'  
+  sub: SP
+  
 - title: AudioMostly   
   year: 2021
   id: audiomostly21
