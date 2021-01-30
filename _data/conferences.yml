@@ -10,19 +10,6 @@
   place: Shenzhen, China
   sub: ML 
  
-- title: IJCAI
-  year: 2021
-  id: ijcai21
-  link: https://ijcai-21.org
-  deadline: '2021-01-18 23:59:00'
-  timezone: UTC-12
-  date: Aug 21-26, 2021
-  place: Montreal, Canada
-  abstract_deadline: '2021-01-12 23:59:00'
-  note: '<b>NOTE</b>: Mandatory abstract deadline on January 12, 2021. More info
-    <a href=''https://ijcai-21.org/cfp/''>here</a>.'  
-  sub: ML
- 
 - title: NIME
   year: 2021
   id: nime21
@@ -99,6 +86,19 @@
   sub: SP
   note: '<b>NOTE</b>: Mandatory abstract submission deadline on March 05, 2021. More info
     <a href=''https://smc2021conference.org/call/call-for-papers/''>here</a>.'  
+ 
+- title: IJCAI
+  year: 2021
+  id: ijcai21
+  link: https://ijcai-21.org
+  deadline: '2021-01-18 23:59:00'
+  timezone: UTC-12
+  date: Aug 21-26, 2021
+  place: Montreal, Canada
+  abstract_deadline: '2021-01-12 23:59:00'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on January 12, 2021. More info
+    <a href=''https://ijcai-21.org/cfp/''>here</a>.'  
+  sub: ML
 
 - title: DAFx
   year: 2021
