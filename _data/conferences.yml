@@ -87,6 +87,18 @@
   note: '<b>NOTE</b>: Mandatory abstract submission deadline on March 05, 2021. More info
     <a href=''https://smc2021conference.org/call/call-for-papers/''>here</a>.'  
  
+- title: ISMIR
+  year: 2021
+  id: ismir21
+  link: https://ismir2021.github.io
+  deadline: '2021-05-15 23:59:00'
+  timezone: UTC-12
+  date: Mov 8-12, 2021
+  place: Online
+  note: '<b>NOTE</b>: Mandatory initial submission deadline on May 8, 2021. More info
+    <a href=''https://ismir2021.github.io''>here</a>.'  
+  sub: SP 
+ 
 - title: IJCAI
   year: 2021
   id: ijcai21
