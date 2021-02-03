@@ -9,18 +9,6 @@
   date: July 18-22, 2021
   place: Shenzhen, China
   sub: ML 
- 
-- title: NIME
-  year: 2021
-  id: nime21
-  link: http://nime2021.org
-  deadline: '2021-01-31 23:59:00'
-  timezone: UTC-12
-  date: June 15-18, 2021
-  place: Shanghai, China
-  note: '<b>NOTE</b>: Mandatory initial submission deadline on January 22, 2021. More info
-    <a href=''http://nime2021.org/cfp_paper.html''>here</a>.'  
-  sub: SP 
 
 - title: SIGKDD
   year: 2021
@@ -93,10 +81,22 @@
   link: https://ismir2021.github.io
   deadline: '2021-05-15 23:59:00'
   timezone: UTC-12
-  date: Mov 8-12, 2021
+  date: Nov 8-12, 2021
   place: Online
   note: '<b>NOTE</b>: Mandatory initial submission deadline on May 8, 2021. More info
     <a href=''https://ismir2021.github.io''>here</a>.'  
+  sub: SP 
+ 
+- title: NIME
+  year: 2021
+  id: nime21
+  link: http://nime2021.org
+  deadline: '2021-01-31 23:59:00'
+  timezone: UTC-12
+  date: June 15-18, 2021
+  place: Shanghai, China
+  note: '<b>NOTE</b>: Mandatory initial submission deadline on January 22, 2021. More info
+    <a href=''http://nime2021.org/cfp_paper.html''>here</a>.'  
   sub: SP 
  
 - title: IJCAI
