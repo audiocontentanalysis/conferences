@@ -53,31 +53,6 @@
   note: '<b>NOTE</b>: Mandatory abstract submission deadline on March 05, 2021. More info
     <a href=''https://smc2021conference.org/call/call-for-papers/''>here</a>.'  
 
-- title: DLfM   
-  year: 2021
-  id: dlfm21
-  link: https://dlfm.web.ox.ac.uk/home
-  deadline: '2021-04-05 23:59:59'
-  abstract_deadline: '2021-03-29 23:59:59'
-  date: July 28-30, 2021
-  place: online
-  timezone: UTC-12
-  sub: SP
-  note: '<b>NOTE</b>: Mandatory abstract submission deadline on March 29, 2021. More info
-    <a href=''https://dlfm.web.ox.ac.uk/home''>here</a>.'  
- 
-- title: ISMIR
-  year: 2021
-  id: ismir21
-  link: https://ismir2021.github.io
-  deadline: '2021-05-15 23:59:00'
-  timezone: UTC-12
-  date: Nov 8-12, 2021
-  place: Online
-  note: '<b>NOTE</b>: Mandatory initial submission deadline on May 8, 2021. More info
-    <a href=''https://ismir2021.github.io''>here</a>.'  
-  sub: SP 
-
 - title: DAFx
   year: 2021
   id: dafx21
@@ -97,7 +72,7 @@
   date: July 18-22, 2021
   place: Graz, Austria
   sub: ML
- 
+
 - title: ACMMM
   year: 2021
   id: acmmm21
@@ -110,7 +85,20 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on March 27, 2021. More info
     <a href=''https://2021.acmmm.org''>here</a>.'  
   sub: SP
-  
+
+- title: DLfM   
+  year: 2021
+  id: dlfm21
+  link: https://dlfm.web.ox.ac.uk/home
+  deadline: '2021-04-05 23:59:59'
+  abstract_deadline: '2021-03-29 23:59:59'
+  date: July 28-30, 2021
+  place: online
+  timezone: UTC-12
+  sub: SP
+  note: '<b>NOTE</b>: Mandatory abstract submission deadline on March 29, 2021. More info
+    <a href=''https://dlfm.web.ox.ac.uk/home''>here</a>.'  
+   
 - title: AudioMostly   
   year: 2021
   id: audiomostly21
@@ -120,6 +108,18 @@
   date: September 1-3, 2021
   place: Trento, Italy
   sub: SP
+ 
+- title: ISMIR
+  year: 2021
+  id: ismir21
+  link: https://ismir2021.github.io
+  deadline: '2021-05-15 23:59:00'
+  timezone: UTC-12
+  date: Nov 8-12, 2021
+  place: Online
+  note: '<b>NOTE</b>: Mandatory initial submission deadline on May 8, 2021. More info
+    <a href=''https://ismir2021.github.io''>here</a>.'  
+  sub: SP 
 
 - title: ICDM
   year: 2021
