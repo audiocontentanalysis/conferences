@@ -1,14 +1,4 @@
 ---
- 
-- title: IJCNN
-  year: 2021
-  id: ijcnn21
-  link: https://www.ijcnn.org
-  deadline: '2021-02-10 23:59:00'
-  timezone: UTC-12
-  date: July 18-22, 2021
-  place: Shenzhen, China
-  sub: ML 
 
 - title: EUSIPCO   
   year: 2021
@@ -127,7 +117,7 @@
   link: https://2021.acmmmsys.org
   deadline: '2021-06-11 23:59:59'
   timezone: America/Los_Angeles
-  date: Decmeber 7-10, 2021
+  date: December 7-10, 2021
   place: Auckland, New Zealand
   sub: DM
 
@@ -229,6 +219,16 @@
   abstract_deadline: '2021-02-02 23:59:00'
   note: '<b>NOTE</b>: Mandatory abstract deadline on February 02, 2021. More info <a href=''http://sigir.org/sigir2021/''>here</a>.'  
   sub: ML
+ 
+- title: IJCNN
+  year: 2021
+  id: ijcnn21
+  link: https://www.ijcnn.org
+  deadline: '2021-02-10 23:59:00'
+  timezone: UTC-12
+  date: July 18-22, 2021
+  place: Shenzhen, China
+  sub: ML 
 
 - title: ICMPC
   year: 2021
