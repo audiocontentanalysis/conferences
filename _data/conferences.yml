@@ -1,35 +1,5 @@
 ---
-
-- title: EUSIPCO   
-  year: 2021
-  id: EUSIPCO21
-  link: https://eusipco2021.org/
-  deadline: '2021-02-12 23:59:59'
-  timezone: Europe/Dublin
-  date: July 23-27, 2021
-  place: Dublin, Ireland
-  sub: SP
-
-- title: WWMC   
-  year: 2021
-  id: WWMC21
-  link: https://wwmc.io
-  deadline: '2021-02-15 23:59:59'
-  timezone: Europe/Prague
-  date: April 22-23, 2021
-  place: Prague, Czech Republic
-  sub: ML
  
-- title: SIGMAP
-  year: 2021
-  id: sigmap21
-  link: http://www.sigmap.org/
-  deadline: '2021-02-16 23:59:00'
-  timezone: UTC-12
-  date: July 06-08, 2021
-  place: online
-  sub: SP 
-
 - title: SMC   
   year: 2021
   id: SMC21
@@ -88,6 +58,16 @@
   sub: SP
   note: '<b>NOTE</b>: Mandatory abstract submission deadline on March 29, 2021. More info
     <a href=''https://dlfm.web.ox.ac.uk/home''>here</a>.'  
+ 
+- title: WASPAA
+  year: 2021
+  id: waspaa21
+  link: http://www.waspaa.com
+  deadline: '2021-04-25 23:59:00'
+  timezone: UTC-12
+  date: October 17-20, 2021
+  place: New Paltz, NY
+  sub: SP 
    
 - title: AudioMostly   
   year: 2021
@@ -130,6 +110,16 @@
   date: November 15-16, 2021
   place: Barcelona, Spain/online
   sub: SP
+
+- title: WWMC   
+  year: 2021
+  id: WWMC21
+  link: https://wwmc.io
+  deadline: '2021-02-15 23:59:59'
+  timezone: Europe/Prague
+  date: April 22-23, 2021
+  place: Prague, Czech Republic
+  sub: ML
 
 - title: MMSys
   year: 2021
@@ -208,6 +198,16 @@
   place: Shenzhen, China
   sub: SP
 
+- title: SIGMAP
+  year: 2021
+  id: sigmap21
+  link: http://www.sigmap.org/
+  deadline: '2021-02-16 23:59:00'
+  timezone: UTC-12
+  date: July 06-08, 2021
+  place: online
+  sub: SP 
+
 - title: SIGIR
   year: 2021
   id: sigir21
@@ -229,6 +229,16 @@
   date: July 18-22, 2021
   place: Shenzhen, China
   sub: ML 
+
+- title: EUSIPCO   
+  year: 2021
+  id: EUSIPCO21
+  link: https://eusipco2021.org/
+  deadline: '2021-02-12 23:59:59'
+  timezone: Europe/Dublin
+  date: July 23-27, 2021
+  place: Dublin, Ireland
+  sub: SP
 
 - title: ICMPC
   year: 2021
