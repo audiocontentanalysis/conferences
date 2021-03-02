@@ -1,14 +1,4 @@
 ---
-
-- title: EUSIPCO   
-  year: 2021
-  id: EUSIPCO21
-  link: https://eusipco2021.org/
-  deadline: '2021-03-01 23:59:59'
-  timezone: Europe/Dublin
-  date: July 23-27, 2021
-  place: Dublin, Ireland
-  sub: SP
  
 - title: SMC   
   year: 2021
@@ -131,17 +121,6 @@
   place: Prague, Czech Republic
   sub: ML
 
-- title: MMSys
-  year: 2021
-  id: mmsys21
-  link: https://2021.acmmmsys.org
-  deadline: '2020-12-14 23:59:59'
-  timezone: UTC-12
-  date: May 25-28, 2021
-  place: Istanbul, Turkey
-  sub: SP
-  note: '<b>NOTE</b>: Mandatory paper registration deadline on December 11, 2020. More info <a href=''https://2021.acmmmsys.org/index.php#call-to-action''>here</a>.'
-
 - title: ICPRAM
   year: 2021
   id: icpram21
@@ -166,6 +145,17 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on September 28, 2020. More info
     <a href=''https://iclr.cc/Conferences/2021/CallForPapers''>here</a>.'
 
+- title: MMSys
+  year: 2021
+  id: mmsys21
+  link: https://2021.acmmmsys.org
+  deadline: '2020-12-14 23:59:59'
+  timezone: UTC-12
+  date: May 25-28, 2021
+  place: Istanbul, Turkey
+  sub: SP
+  note: '<b>NOTE</b>: Mandatory paper registration deadline on December 11, 2020. More info <a href=''https://2021.acmmmsys.org/index.php#call-to-action''>here</a>.'
+
 - title: ICASSP
   year: 2021
   id: icassp21
@@ -187,6 +177,16 @@
   note: '<b>NOTE</b>: Mandatory initial submission deadline on January 22, 2021. More info
     <a href=''http://nime2021.org/cfp_paper.html''>here</a>.'  
   sub: SP 
+
+- title: EUSIPCO   
+  year: 2021
+  id: EUSIPCO21
+  link: https://eusipco2021.org/
+  deadline: '2021-03-01 23:59:59'
+  timezone: Europe/Dublin
+  date: July 23-27, 2021
+  place: Dublin, Ireland
+  sub: SP
 
 - title: WAC
   year: 2021
