@@ -1,17 +1,4 @@
 ---
- 
-- title: SMC   
-  year: 2021
-  id: SMC21
-  link: https://smcnetwork.org
-  deadline: '2021-03-12 23:59:59'
-  abstract_deadline: '2021-03-05 23:59:59'
-  date: June 29 - July 1, 2021
-  place: online
-  timezone: Europe/Rome
-  sub: SP
-  note: '<b>NOTE</b>: Mandatory abstract submission deadline on March 05, 2021. More info
-    <a href=''https://smc2021conference.org/call/call-for-papers/''>here</a>.'  
 
 - title: DAFx
   year: 2021
@@ -177,16 +164,19 @@
   note: '<b>NOTE</b>: Mandatory initial submission deadline on January 22, 2021. More info
     <a href=''http://nime2021.org/cfp_paper.html''>here</a>.'  
   sub: SP 
-
-- title: EUSIPCO   
+ 
+- title: SMC   
   year: 2021
-  id: EUSIPCO21
-  link: https://eusipco2021.org/
-  deadline: '2021-03-01 23:59:59'
-  timezone: Europe/Dublin
-  date: July 23-27, 2021
-  place: Dublin, Ireland
+  id: SMC21
+  link: https://smcnetwork.org
+  deadline: '2021-03-12 23:59:59'
+  abstract_deadline: '2021-03-05 23:59:59'
+  date: June 29 - July 1, 2021
+  place: online
+  timezone: Europe/Rome
   sub: SP
+  note: '<b>NOTE</b>: Mandatory abstract submission deadline on March 05, 2021. More info
+    <a href=''https://smc2021conference.org/call/call-for-papers/''>here</a>.'  
 
 - title: WAC
   year: 2021
@@ -214,7 +204,7 @@
   link: http://www.sigmap.org/
   deadline: '2021-02-16 23:59:00'
   timezone: UTC-12
-  date: July 06-08, 2021
+  date: July 6-8, 2021
   place: online
   sub: SP 
 
@@ -239,6 +229,16 @@
   date: July 18-22, 2021
   place: Shenzhen, China
   sub: ML 
+
+- title: EUSIPCO   
+  year: 2021
+  id: EUSIPCO21
+  link: https://eusipco2021.org/
+  deadline: '2021-03-01 23:59:59'
+  timezone: Europe/Dublin
+  date: July 23-27, 2021
+  place: Dublin, Ireland
+  sub: SP
 
 - title: ICMPC
   year: 2021
