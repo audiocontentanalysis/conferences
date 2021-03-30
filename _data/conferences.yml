@@ -10,16 +10,6 @@
   place: Vienna, Austria
   sub: SP
 
-- title: AIMC   
-  year: 2021
-  id: AIMC21
-  link: https://aimc2021.iem.at/
-  deadline: '2021-04-01 23:59:59'
-  timezone: Europe/Vienna
-  date: July 18-22, 2021
-  place: Graz, Austria
-  sub: ML
-
 - title: ACMMM
   year: 2021
   id: acmmm21
@@ -45,6 +35,16 @@
   sub: SP
   note: '<b>NOTE</b>: Mandatory abstract submission deadline on March 29, 2021. More info
     <a href=''https://dlfm.web.ox.ac.uk/home''>here</a>.'  
+
+- title: AIMC   
+  year: 2021
+  id: AIMC21
+  link: https://aimc2021.iem.at/
+  deadline: '2021-04-15 23:59:59'
+  timezone: Europe/Vienna
+  date: July 18-22, 2021
+  place: Graz, Austria
+  sub: ML
  
 - title: WASPAA
   year: 2021
@@ -67,6 +67,16 @@
   note: '<b>NOTE</b>: Mandatory initial submission deadline on May 8, 2021. More info
     <a href=''https://ismir2021.github.io''>here</a>.'  
   sub: SP 
+
+- title: MLSP   
+  year: 2021
+  id: MLSP21
+  link: https://2021.ieeemlsp.org/
+  deadline: '2021-05-31 23:59:59'
+  timezone: UTC+10
+  date: October 25-28, 2021
+  place: Gold Coast, Australia
+  sub: ML
    
 - title: AudioMostly   
   year: 2021
