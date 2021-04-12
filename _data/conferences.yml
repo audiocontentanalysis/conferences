@@ -1,15 +1,5 @@
 ---
 
-- title: DAFx
-  year: 2021
-  id: dafx21
-  link: https://dafx2020.mdw.ac.at/
-  deadline: '2021-04-10 23:59:59'
-  timezone: UTC-12
-  date: September 8-10, 2021
-  place: Vienna, Austria
-  sub: SP
-
 - title: AIMC   
   year: 2021
   id: AIMC21
@@ -269,6 +259,16 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on January 12, 2021. More info
     <a href=''https://ijcai-21.org/cfp/''>here</a>.'  
   sub: ML
+
+- title: DAFx
+  year: 2021
+  id: dafx21
+  link: https://dafx2020.mdw.ac.at/
+  deadline: '2021-04-10 23:59:59'
+  timezone: UTC-12
+  date: September 8-10, 2021
+  place: Vienna, Austria
+  sub: SP
 
 - title: ACMMM
   year: 2021
