@@ -1,15 +1,5 @@
 ---
- 
-- title: WASPAA
-  year: 2021
-  id: waspaa21
-  link: http://www.waspaa.com
-  deadline: '2021-04-25 23:59:00'
-  timezone: UTC-12
-  date: October 17-20, 2021
-  place: New Paltz, NY
-  sub: SP 
- 
+  
 - title: ISMIR
   year: 2021
   id: ismir21
@@ -279,6 +269,16 @@
   date: September 8-10, 2021
   place: Vienna, Austria
   sub: SP
+
+- title: WASPAA
+  year: 2021
+  id: waspaa21
+  link: http://www.waspaa.com
+  deadline: '2021-04-25 23:59:00'
+  timezone: UTC-12
+  date: October 17-20, 2021
+  place: New Paltz, NY
+  sub: SP 
 
 - title: ACMMM
   year: 2021
