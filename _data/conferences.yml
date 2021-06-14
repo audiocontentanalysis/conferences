@@ -1,15 +1,5 @@
 ---
  
-- title: ICDM
-  year: 2021
-  id: icdm21
-  link: https://2021.acmmmsys.org
-  deadline: '2021-06-11 23:59:59'
-  timezone: America/Los_Angeles
-  date: December 7-10, 2021
-  place: Auckland, New Zealand
-  sub: DM
-
 - title: CMMR
   year: 2021
   id: cmmr21
@@ -30,6 +20,16 @@
   place: Barcelona, Spain/online
   sub: SP
 
+- title: IEEE ISM
+  year: 2020
+  id: ism20
+  link: http://www.ieee-ism.org/
+  deadline: '2020-08-09 23:59:59'
+  timezone: UTC+07
+  date: November 29 - December 1, 2021
+  place: Naples, Italy
+  sub: ML
+
 - title: AAAI
   hindex: 95
   year: 2022
@@ -44,61 +44,6 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on August 30, 2021'
 
 
-
-- title: WWMC   
-  year: 2021
-  id: WWMC21
-  link: https://wwmc.io
-  deadline: '2021-02-15 23:59:59'
-  timezone: Europe/Prague
-  date: April 22-23, 2021
-  place: Prague, Czech Republic
-  sub: ML
-
-- title: ICPRAM
-  year: 2021
-  id: icpram21
-  link: http://www.icpram.org/
-  deadline: '2020-09-14 23:59:59'
-  timezone: UTC-12
-  date: Apr 23-25, 2021
-  place: Vienna, Austria
-  sub: ML
-
-- title: ICLR
-  hindex: 150
-  year: 2021
-  id: iclr21
-  link: http://iclr.cc/
-  deadline: '2020-10-02 07:59:59'
-  abstract_deadline: '2020-09-28 07:59:59'
-  timezone: UTC-7
-  date: May 4-7, 2021
-  place: Vienna, Austria
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on September 28, 2020. More info
-    <a href=''https://iclr.cc/Conferences/2021/CallForPapers''>here</a>.'
-
-- title: MMSys
-  year: 2021
-  id: mmsys21
-  link: https://2021.acmmmsys.org
-  deadline: '2020-12-14 23:59:59'
-  timezone: UTC-12
-  date: May 25-28, 2021
-  place: Istanbul, Turkey
-  sub: SP
-  note: '<b>NOTE</b>: Mandatory paper registration deadline on December 11, 2020. More info <a href=''https://2021.acmmmsys.org/index.php#call-to-action''>here</a>.'
-
-- title: ICASSP
-  year: 2021
-  id: icassp21
-  link: https://2021.ieeeicassp.org/
-  deadline: '2020-10-21 23:59:59'
-  timezone: UTC-12
-  date: Jun 6-11, 2021
-  place: Toronto, Canada
-  sub: SP
  
 - title: NIME
   year: 2021
@@ -302,8 +247,18 @@
   link: https://ismir2021.github.io
   deadline: '2021-05-15 23:59:00'
   timezone: UTC-12
-  date: Nov 8-12, 2021
+  date: November 8-12, 2021
   place: Online
   note: '<b>NOTE</b>: Mandatory initial submission deadline on May 8, 2021. More info
     <a href=''https://ismir2021.github.io''>here</a>.'  
   sub: SP 
+
+- title: ICDM
+  year: 2021
+  id: icdm21
+  link: https://2021.acmmmsys.org
+  deadline: '2021-06-11 23:59:59'
+  timezone: America/Los_Angeles
+  date: December 7-10, 2021
+  place: Auckland, New Zealand
+  sub: DM
