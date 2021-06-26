@@ -20,6 +20,16 @@
   place: Barcelona, Spain/online
   sub: SP
 
+- title: WWMC
+  year: 2021
+  id: wwmc2021se
+  link: https://wwmc.io/2021se
+  deadline: '2021-09-09 23:59:59'
+  timezone: Europe/Paris
+  date: October 16, 2021
+  place: Online
+  sub: ML
+  
 - title: IEEE ISM
   year: 2020
   id: ism20
