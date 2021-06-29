@@ -1,24 +1,4 @@
 ---
- 
-- title: CMMR
-  year: 2021
-  id: cmmr21
-  link: https://www.cmmr2021.gttm.jp/
-  deadline: '2021-06-15 23:59:59'
-  timezone: UTC-12
-  date: November 15-19, 2021
-  place: Tokyo, Japan
-  sub: SP
-  
-- title: DCASE
-  year: 2021
-  id: dcase21
-  link: http://dcase.community/workshop2021/
-  deadline: '2021-07-20 23:59:59'
-  timezone: UTC-12
-  date: November 15-16, 2021
-  place: Barcelona, Spain/online
-  sub: SP
 
 - title: WWMC-SE
   year: 2021
@@ -53,7 +33,17 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on August 30, 2021'
 
-
+- title: ICSC
+  year: 2022
+  id: icsc22
+  link: https://www.ieee-icsc.org
+  deadline: '2021-09-21 23:59:59'
+  abstract_deadline: '2021-09-16 23:59:59'
+  timezone: America/Los_Angeles
+  date: January 26 - 28, 2022
+  place: Laguna Hills, California
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on September 16, 2021'
  
 - title: NIME
   year: 2021
@@ -262,6 +252,26 @@
   note: '<b>NOTE</b>: Mandatory initial submission deadline on May 8, 2021. More info
     <a href=''https://ismir2021.github.io''>here</a>.'  
   sub: SP 
+ 
+- title: CMMR
+  year: 2021
+  id: cmmr21
+  link: https://www.cmmr2021.gttm.jp/
+  deadline: '2021-06-15 23:59:59'
+  timezone: UTC-12
+  date: November 15-19, 2021
+  place: Tokyo, Japan
+  sub: SP
+  
+- title: DCASE
+  year: 2021
+  id: dcase21
+  link: http://dcase.community/workshop2021/
+  deadline: '2021-07-20 23:59:59'
+  timezone: UTC-12
+  date: November 15-16, 2021
+  place: Barcelona, Spain/online
+  sub: SP
 
 - title: ICDM
   year: 2021
