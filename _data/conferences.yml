@@ -9,12 +9,22 @@
   date: October 16, 2021
   place: Online
   sub: ML
-  
+ 
+- title: IEEE SSCI
+  year: 2021
+  id: ssci21
+  link: https://attend.ieee.org/ssci-2021/
+  deadline: '2021-08-06 23:59:59'
+  timezone: UTC-12
+  date: December 4-7, 2021
+  place: Orlando, Florida
+  sub: ML
+ 
 - title: IEEE ISM
-  year: 2020
-  id: ism20
+  year: 2021
+  id: ism21
   link: http://www.ieee-ism.org/
-  deadline: '2020-08-09 23:59:59'
+  deadline: '2021-08-09 23:59:59'
   timezone: UTC+07
   date: November 29 - December 1, 2021
   place: Naples, Italy
@@ -55,7 +65,7 @@
   date: April 25 - 29, 2022
   place: Online
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on September 28, 2021'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on September 2, 2021'
  
 - title: NIME
   year: 2021
