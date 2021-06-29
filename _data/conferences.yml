@@ -44,6 +44,18 @@
   place: Laguna Hills, California
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on September 16, 2021'
+
+- title: ICLR
+  year: 2022
+  id: iclr22
+  link: https://iclr.cc/
+  deadline: '2021-10-05 16:59:59'
+  abstract_deadline: '2021-09-28 16:59:59'
+  timezone: America/Los_Angeles
+  date: April 25 - 29, 2022
+  place: Online
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on September 28, 2021'
  
 - title: NIME
   year: 2021
