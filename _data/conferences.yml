@@ -1,12 +1,12 @@
 ---
-
-- title: WWMC-SE
+ 
+- title: NLP4MusA
   year: 2021
-  id: wwmc2021se
-  link: https://wwmc.io/2021se
-  deadline: '2021-09-09 23:59:59'
-  timezone: Europe/Paris
-  date: October 16, 2021
+  id: NLP4MusA21
+  link: https://sites.google.com/view/nlp4musa-2021
+  deadline: '2021-07-21 23:59:59'
+  timezone: UTC-12
+  date: November 12, 2021
   place: Online
   sub: ML
  
@@ -42,6 +42,16 @@
   place: Vancouver, Canada
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on August 30, 2021'
+
+- title: WWMC-SE
+  year: 2021
+  id: wwmc2021se
+  link: https://wwmc.io/2021se
+  deadline: '2021-09-09 23:59:59'
+  timezone: Europe/Paris
+  date: October 16, 2021
+  place: Online
+  sub: ML
 
 - title: ICSC
   year: 2022
