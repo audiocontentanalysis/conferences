@@ -75,7 +75,16 @@
   date: April 25 - 29, 2022
   place: Online
   sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on September 2, 2021'
+
+- title: ICASSP
+  year: 2022
+  id: icassp22
+  link: https://2022.ieeeicassp.org
+  deadline: '2021-10-01 23:59:59'
+  timezone: UTC-12
+  date: May 22 - 27, 2022
+  place: Singapore
+  sub: SP
  
 - title: NIME
   year: 2021
