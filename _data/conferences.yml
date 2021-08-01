@@ -19,6 +19,16 @@
   date: December 4-7, 2021
   place: Orlando, Florida
   sub: ML
+
+- title: evomusart*
+  year: 2022
+  id: evomusart22
+  link: http://www.evostar.org/2022/evomusart/
+  deadline: '2021-11-01 23:59:59'
+  timezone: UTC-0
+  date: April 20-22, 2022
+  place: TBA
+  sub: ML
  
 - title: IEEE ISM
   year: 2021
