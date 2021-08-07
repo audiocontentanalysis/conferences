@@ -453,3 +453,123 @@
   date: May 4-8, 2020
   place: Barcelona, Spain
   sub: SP
+
+- title: NIME
+  year: 2021
+  id: nime21
+  link: http://nime2021.org
+  deadline: '2021-01-31 23:59:00'
+  timezone: UTC-12
+  date: June 15-18, 2021
+  place: Shanghai, China
+  note: '<b>NOTE</b>: Mandatory initial submission deadline on January 22, 2021. More info
+    <a href=''http://nime2021.org/cfp_paper.html''>here</a>.'  
+  sub: SP 
+ 
+- title: SMC   
+  year: 2021
+  id: SMC21
+  link: https://smcnetwork.org
+  deadline: '2021-03-12 23:59:59'
+  abstract_deadline: '2021-03-05 23:59:59'
+  date: June 29 - July 1, 2021
+  place: online
+  timezone: Europe/Rome
+  sub: SP
+  note: '<b>NOTE</b>: Mandatory abstract submission deadline on March 05, 2021. More info
+    <a href=''https://smc2021conference.org/call/call-for-papers/''>here</a>.'  
+
+- title: WAC
+  year: 2021
+  id: wac21
+  link: https://webaudioconf2020.com
+  deadline: '2020-12-21 23:59:59'
+  timezone: UTC-7
+  date: July 5-7, 2021
+  place: Barcelona, Spain
+  sub: SP
+
+- title: ICME
+  year: 2021
+  id: icme21
+  link: https://2021.ieeeicme.org/
+  deadline: '2020-11-29 23:59:59'
+  timezone: America/Los_Angeles
+  date: July 5-9, 2021
+  place: Shenzhen, China
+  sub: SP
+
+- title: SIGMAP
+  year: 2021
+  id: sigmap21
+  link: http://www.sigmap.org/
+  deadline: '2021-02-16 23:59:00'
+  timezone: UTC-12
+  date: July 6-8, 2021
+  place: online
+  sub: SP 
+
+- title: SIGIR
+  year: 2021
+  id: sigir21
+  link: http://sigir.org/sigir2021/
+  deadline: '2021-02-09 23:59:00'
+  timezone: UTC-12
+  date: July 11-15, 2021
+  place: Montreal, Canada
+  abstract_deadline: '2021-02-02 23:59:00'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on February 02, 2021. More info <a href=''http://sigir.org/sigir2021/''>here</a>.'  
+  sub: ML
+ 
+- title: IJCNN
+  year: 2021
+  id: ijcnn21
+  link: https://www.ijcnn.org
+  deadline: '2021-02-10 23:59:00'
+  timezone: UTC-12
+  date: July 18-22, 2021
+  place: Shenzhen, China
+  sub: ML 
+
+- title: AIMC   
+  year: 2021
+  id: AIMC21
+  link: https://aimc2021.iem.at/
+  deadline: '2021-04-15 23:59:59'
+  timezone: Europe/Vienna
+  date: July 18-22, 2021
+  place: Graz, Austria
+  sub: ML
+
+- title: EUSIPCO   
+  year: 2021
+  id: EUSIPCO21
+  link: https://eusipco2021.org/
+  deadline: '2021-03-01 23:59:59'
+  timezone: Europe/Dublin
+  date: July 23-27, 2021
+  place: Dublin, Ireland
+  sub: SP
+
+- title: ICMPC
+  year: 2021
+  id: icmpc21
+  link: https://sites.google.com/sheffield.ac.uk/escom2021/home
+  deadline: '2021-01-14 23:59:59'
+  timezone: UTC-12
+  date: July 28-31, 2021
+  place: online
+  sub: SP
+
+- title: DLfM   
+  year: 2021
+  id: dlfm21
+  link: https://dlfm.web.ox.ac.uk/home
+  deadline: '2021-04-05 23:59:59'
+  abstract_deadline: '2021-03-29 23:59:59'
+  date: July 28-30, 2021
+  place: online
+  timezone: UTC-12
+  sub: SP
+  note: '<b>NOTE</b>: Mandatory abstract submission deadline on March 29, 2021. More info
+    <a href=''https://dlfm.web.ox.ac.uk/home''>here</a>.'  
