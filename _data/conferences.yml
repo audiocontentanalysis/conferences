@@ -1,5 +1,15 @@
 ---
- 
+
+- title: MMM
+  year: 2022
+  id: mmm22
+  link: http://mmm2022.org
+  deadline: '2021-08-27 23:59:59'
+  timezone: UTC-12
+  date: April 5 - 8, 2022
+  place: Qui Nhon, Vietnam
+  sub: SP
+   
 - title: evomusart*
   year: 2022
   id: evomusart22
@@ -75,30 +85,37 @@
   date: May 22 - 27, 2022
   place: Singapore
   sub: SP
- 
-- title: SIGKDD
-  year: 2021
-  id: sigkdd21
-  link: https://www.kdd.org/kdd2021
-  deadline: '2021-02-08 23:59:00'
+  
+- title: EUSIPCO
+  year: 2022
+  id: eusipco22
+  link: https://2022.eusipco.org/
+  deadline: '2022-02-20 23:59:59'
   timezone: UTC-12
-  date: August 14-18, 2021
-  place: Singapore
-  sub: DM
- 
-- title: IJCAI
-  year: 2021
-  id: ijcai21
-  link: https://ijcai-21.org
-  deadline: '2021-01-18 23:59:00'
-  timezone: UTC-12
-  date: August 21-26, 2021
-  place: Montreal, Canada
-  abstract_deadline: '2021-01-12 23:59:00'
-  note: '<b>NOTE</b>: Mandatory abstract deadline on January 12, 2021. More info
-    <a href=''https://ijcai-21.org/cfp/''>here</a>.'  
+  date: August 29 - September 2, 2022
+  place: Belgrade, Serbia
+  sub: SP
+  
+- title: CSME
+  year: 2022
+  id: csme22
+  link: http://www.csedu.org/CSME.aspx
+  deadline: '2021-02-24 23:59:59'
+  timezone: Europe/Prague
+  date: April 22 - 24, 2022
+  place: Prague, Czech Republic
   sub: ML
  
+- title: SIGMAP
+  year: 2022
+  id: sigmap22
+  link: https://2022.eusipco.org/
+  deadline: '2022-03-02 23:59:59'
+  timezone: Europe/Lisbon
+  date: July 14-16, 2022
+  place: Lisbon, Portugal
+  sub: SP
+
 - title: AudioMostly   
   year: 2021
   id: audiomostly21
