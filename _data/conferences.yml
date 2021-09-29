@@ -1,14 +1,4 @@
 ---
-
-- title: MMM
-  year: 2022
-  id: mmm22
-  link: http://mmm2022.org
-  deadline: '2021-08-27 23:59:59'
-  timezone: UTC-12
-  date: April 5 - 8, 2022
-  place: Qui Nhon, Vietnam
-  sub: SP
    
 - title: evomusart*
   year: 2022
@@ -19,68 +9,12 @@
   date: April 20-22, 2022
   place: TBA
   sub: ML
- 
-- title: IEEE ISM
-  year: 2021
-  id: ism21
-  link: http://www.ieee-ism.org/
-  deadline: '2021-09-04 23:59:59'
-  timezone: America/Los_Angeles
-  date: November 29 - December 1, 2021
-  place: Naples, Italy
-  sub: ML
-
-- title: AAAI
-  hindex: 95
-  year: 2022
-  id: aaai22
-  link: https://aaai.org/Conferences/AAAI-22/
-  deadline: '2021-09-08 23:59:59'
-  abstract_deadline: '2021-08-30 23:59:59'
-  timezone: UTC-12
-  date: February 22 - March 1, 2022
-  place: Vancouver, Canada
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on August 30, 2021'
-
-- title: WWMC-SE
-  year: 2021
-  id: wwmc2021se
-  link: https://wwmc.io/2021se
-  deadline: '2021-09-09 23:59:59'
-  timezone: Europe/Paris
-  date: October 16, 2021
-  place: Online
-  sub: ML
-
-- title: ICSC
-  year: 2022
-  id: icsc22
-  link: https://www.ieee-icsc.org
-  deadline: '2021-09-21 23:59:59'
-  abstract_deadline: '2021-09-16 23:59:59'
-  timezone: America/Los_Angeles
-  date: January 26 - 28, 2022
-  place: Laguna Hills, California
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on September 16, 2021'
-
-- title: ICLR
-  year: 2022
-  id: iclr22
-  link: https://iclr.cc/
-  deadline: '2021-10-05 16:59:59'
-  abstract_deadline: '2021-09-28 16:59:59'
-  timezone: America/Los_Angeles
-  date: April 25 - 29, 2022
-  place: Online
-  sub: ML
 
 - title: ICASSP
   year: 2022
   id: icassp22
   link: https://2022.ieeeicassp.org
-  deadline: '2021-10-01 23:59:59'
+  deadline: '2021-10-06 23:59:59'
   timezone: UTC-12
   date: May 22 - 27, 2022
   place: Singapore
@@ -135,6 +69,16 @@
   date: September 8-10, 2021
   place: Vienna, Austria
   sub: SP
+
+- title: WWMC-SE
+  year: 2021
+  id: wwmc2021se
+  link: https://wwmc.io/2021se
+  deadline: '2021-09-09 23:59:59'
+  timezone: Europe/Paris
+  date: October 16, 2021
+  place: Online
+  sub: ML
 
 - title: WASPAA
   year: 2021
@@ -210,6 +154,16 @@
   date: November 15-16, 2021
   place: Barcelona, Spain/online
   sub: SP
+
+- title: IEEE ISM
+  year: 2021
+  id: ism21
+  link: http://www.ieee-ism.org/
+  deadline: '2021-09-04 23:59:59'
+  timezone: America/Los_Angeles
+  date: November 29 - December 1, 2021
+  place: Naples, Italy
+  sub: ML
  
 - title: IEEE SSCI
   year: 2021
@@ -230,3 +184,49 @@
   date: December 7-10, 2021
   place: Auckland, New Zealand
   sub: DM
+
+- title: ICSC
+  year: 2022
+  id: icsc22
+  link: https://www.ieee-icsc.org
+  deadline: '2021-09-21 23:59:59'
+  abstract_deadline: '2021-09-16 23:59:59'
+  timezone: America/Los_Angeles
+  date: January 26 - 28, 2022
+  place: Laguna Hills, California
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on September 16, 2021'
+ 
+- title: AAAI
+  hindex: 95
+  year: 2022
+  id: aaai22
+  link: https://aaai.org/Conferences/AAAI-22/
+  deadline: '2021-09-08 23:59:59'
+  abstract_deadline: '2021-08-30 23:59:59'
+  timezone: UTC-12
+  date: February 22 - March 1, 2022
+  place: Vancouver, Canada
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on August 30, 2021'
+
+- title: MMM
+  year: 2022
+  id: mmm22
+  link: http://mmm2022.org
+  deadline: '2021-08-27 23:59:59'
+  timezone: UTC-12
+  date: April 5 - 8, 2022
+  place: Qui Nhon, Vietnam
+  sub: SP
+
+- title: ICLR
+  year: 2022
+  id: iclr22
+  link: https://iclr.cc/
+  deadline: '2021-10-05 16:59:59'
+  abstract_deadline: '2021-09-28 16:59:59'
+  timezone: America/Los_Angeles
+  date: April 25 - 29, 2022
+  place: Online
+  sub: ML
