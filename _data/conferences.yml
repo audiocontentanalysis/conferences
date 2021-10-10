@@ -19,6 +19,18 @@
   date: May 22 - 27, 2022
   place: Singapore
   sub: SP
+
+- title: IJCAI
+  hindex: 105
+  year: 2022
+  id: ijcai22
+  link: https://ijcai-22.org/
+  deadline: '2022-01-14 23:59:59'
+  abstract_deadline: '2022-01-07 23:59:59'
+  timezone: UTC-12
+  date: TBD
+  place: Vienna, Austria
+  sub: ML
   
 - title: EUSIPCO
   year: 2022
