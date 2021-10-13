@@ -10,16 +10,6 @@
   place: TBA
   sub: ML
 
-- title: ICASSP
-  year: 2022
-  id: icassp22
-  link: https://2022.ieeeicassp.org
-  deadline: '2021-10-06 23:59:59'
-  timezone: UTC-12
-  date: May 22 - 27, 2022
-  place: Singapore
-  sub: SP
-
 - title: IJCAI
   hindex: 105
   year: 2022
@@ -31,6 +21,18 @@
   date: TBD
   place: Vienna, Austria
   sub: ML
+
+- title: SMC
+  year: 2022
+  id: smc22
+  link: https://smc22.grame.fr
+  deadline: '2022-02-08 23:59:59'
+  abstract_deadline: '2022-02-01 23:59:00'
+  timezone: UTC-12
+  date: June 4-12, 2022
+  place: Saint-Etienne, France
+  sub: SP
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 1, 2022. More info <a href=''https://smc22.grame.fr/calls.html#paper-call''>here</a>.'
   
 - title: EUSIPCO
   year: 2022
@@ -61,36 +63,6 @@
   date: July 14-16, 2022
   place: Lisbon, Portugal
   sub: SP
-
-- title: AudioMostly   
-  year: 2021
-  id: audiomostly21
-  link: https://audiomostly.com/2021/info/important-dates/
-  deadline: '2021-05-15 23:59:59'
-  timezone: Europe/Rome
-  date: September 1-3, 2021
-  place: Trento, Italy
-  sub: SP
-
-- title: DAFx
-  year: 2021
-  id: dafx21
-  link: https://dafx2020.mdw.ac.at/
-  deadline: '2021-04-10 23:59:59'
-  timezone: UTC-12
-  date: September 8-10, 2021
-  place: Vienna, Austria
-  sub: SP
-
-- title: WWMC-SE
-  year: 2021
-  id: wwmc2021se
-  link: https://wwmc.io/2021se
-  deadline: '2021-09-09 23:59:59'
-  timezone: Europe/Paris
-  date: October 16, 2021
-  place: Online
-  sub: ML
 
 - title: WASPAA
   year: 2021
@@ -242,3 +214,13 @@
   date: April 25 - 29, 2022
   place: Online
   sub: ML
+
+- title: ICASSP
+  year: 2022
+  id: icassp22
+  link: https://2022.ieeeicassp.org
+  deadline: '2021-10-06 23:59:59'
+  timezone: UTC-12
+  date: May 22 - 27, 2022
+  place: Singapore
+  sub: SP
