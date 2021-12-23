@@ -1,14 +1,4 @@
 ---
-   
-- title: evomusart*
-  year: 2022
-  id: evomusart22
-  link: http://www.evostar.org/2022/evomusart/
-  deadline: '2021-11-01 23:59:59'
-  timezone: UTC-0
-  date: April 20-22, 2022
-  place: TBA
-  sub: ML
 
 - title: IJCAI
   hindex: 105
@@ -18,9 +8,67 @@
   deadline: '2022-01-14 23:59:59'
   abstract_deadline: '2022-01-07 23:59:59'
   timezone: UTC-12
-  date: TBD
+  date: July 23-29, 2022
   place: Vienna, Austria
   sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 7, 2022. More info <a href=''https://ijcai-22.org/calls-papers/''>here</a>.'
+
+- title: ICMR
+  hindex: 204
+  year: 2022
+  id: icmr22
+  link: https://www.icmr2022.org
+  deadline: '2022-01-20 23:59:00'
+  timezone: UTC-12
+  date: July 27-30, 2022
+  place: Newark, NJ
+  sub: ML
+
+- title: ICML
+  hindex: 204
+  year: 2022
+  id: icml22
+  link: https://icml.cc/Conferences/2022
+  deadline: '2022-01-27 23:59:00'
+  abstract_deadline: '2022-01-20 23:59:00'
+  timezone: UTC-12
+  date: July 17-23, 2022
+  place: Baltimore, Maryland USA
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 20, 2022. More info <a href=''https://icml.cc/Conferences/2022/''>here</a>.'
+
+- title: IJCAI ST: AI, THE ARTS AND CREATIVITY
+  hindex: 105
+  year: 2022
+  id: ijcai22-st
+  link: https://ijcai-22.org/calls-creativity/
+  deadline: '2022-02-18 23:59:59'
+  timezone: UTC-12
+  date: July 23-29, 2022
+  place: Vienna, Austria
+  sub: ML
+
+- title: DAFX
+  year: 2022
+  id: dafx22
+  link: https://dafx2020.mdw.ac.at/authors/index.html
+  deadline: '2022-04-01 23:59:59'
+  timezone: UTC
+  date: September 7-9, 2022
+  place: Vienna, Austria
+  sub: SP
+
+- title: NIME
+  year: 2022
+  id: nime22
+  link: https://nime2022.org
+  deadline: '2022-01-31 23:59:59'
+  abstract_deadline: '2022-01-22 23:59:00'
+  timezone: UTC-12
+  date: June 28 - July 1, 2022
+  place: Auckland, New Zealand
+  sub: SP
+  note: '<b>NOTE</b>: Mandatory paper draft deadline on Jan 22, 2022. More info <a href=''https://nime2022.org/papers.html''>here</a>.'
 
 - title: SMC
   year: 2022
@@ -64,56 +112,6 @@
   place: Lisbon, Portugal
   sub: SP
 
-- title: CMMR
-  year: 2021
-  id: cmmr21
-  link: https://www.cmmr2021.gttm.jp/
-  deadline: '2021-06-15 23:59:59'
-  timezone: UTC-12
-  date: November 15-19, 2021
-  place: Tokyo, Japan
-  sub: SP
-  
-- title: DCASE
-  year: 2021
-  id: dcase21
-  link: http://dcase.community/workshop2021/
-  deadline: '2021-07-20 23:59:59'
-  timezone: UTC-12
-  date: November 15-16, 2021
-  place: Barcelona, Spain/online
-  sub: SP
-
-- title: IEEE ISM
-  year: 2021
-  id: ism21
-  link: http://www.ieee-ism.org/
-  deadline: '2021-09-04 23:59:59'
-  timezone: America/Los_Angeles
-  date: November 29 - December 1, 2021
-  place: Naples, Italy
-  sub: ML
- 
-- title: IEEE SSCI
-  year: 2021
-  id: ssci21
-  link: https://attend.ieee.org/ssci-2021/
-  deadline: '2021-08-06 23:59:59'
-  timezone: UTC-12
-  date: December 4-7, 2021
-  place: Orlando, Florida
-  sub: ML
-
-- title: ICDM
-  year: 2021
-  id: icdm21
-  link: https://2021.acmmmsys.org
-  deadline: '2021-06-11 23:59:59'
-  timezone: America/Los_Angeles
-  date: December 7-10, 2021
-  place: Auckland, New Zealand
-  sub: DM
-
 - title: ICSC
   year: 2022
   id: icsc22
@@ -148,6 +146,16 @@
   date: April 5 - 8, 2022
   place: Qui Nhon, Vietnam
   sub: SP
+   
+- title: evomusart*
+  year: 2022
+  id: evomusart22
+  link: http://www.evostar.org/2022/evomusart/
+  deadline: '2021-11-01 23:59:59'
+  timezone: UTC-0
+  date: April 20-22, 2022
+  place: TBA
+  sub: ML
 
 - title: ICLR
   year: 2022
