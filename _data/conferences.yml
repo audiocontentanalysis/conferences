@@ -38,9 +38,8 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 20, 2022. More info <a href=''https://icml.cc/Conferences/2022/''>here</a>.'
 
 - title: IJCAI ST: AI, THE ARTS AND CREATIVITY
-  hindex: 105
   year: 2022
-  id: ijcai22-st
+  id: ijcai22st
   link: https://ijcai-22.org/calls-creativity/
   deadline: '2022-02-18 23:59:59'
   timezone: UTC-12
