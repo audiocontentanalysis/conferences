@@ -37,6 +37,16 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 20, 2022. More info <a href=''https://icml.cc/Conferences/2022/''>here</a>.'
 
+- title: SMPC
+  year: 2022
+  id: smpc22
+  link: https://musicperception.org/smpc-conference.html
+  deadline: '2022-02-15 23:59:00'
+  timezone: UTC-8
+  date: Aug 17-23, 2022
+  place: Portland, OR
+  sub: SP
+
 - title: IJCAI-arts-creativity
   year: 2022
   id: ijcai22st
