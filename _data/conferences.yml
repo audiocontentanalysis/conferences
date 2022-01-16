@@ -1,18 +1,5 @@
 ---
 
-- title: IJCAI
-  hindex: 105
-  year: 2022
-  id: ijcai22
-  link: https://ijcai-22.org/
-  deadline: '2022-01-14 23:59:59'
-  abstract_deadline: '2022-01-07 23:59:59'
-  timezone: UTC-12
-  date: July 23-29, 2022
-  place: Vienna, Austria
-  sub: ML
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 7, 2022. More info <a href=''https://ijcai-22.org/calls-papers/''>here</a>.'
-
 - title: ICMR
   hindex: 204
   year: 2022
@@ -37,46 +24,6 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 20, 2022. More info <a href=''https://icml.cc/Conferences/2022/''>here</a>.'
 
-- title: SMPC
-  year: 2022
-  id: smpc22
-  link: https://musicperception.org/smpc-conference.html
-  deadline: '2022-02-15 23:59:00'
-  timezone: UTC-8
-  date: Aug 17-23, 2022
-  place: Portland, OR
-  sub: SP
-
-- title: IJCAI-arts-creativity
-  year: 2022
-  id: ijcai22st
-  link: https://ijcai-22.org/calls-creativity/
-  deadline: '2022-02-18 23:59:59'
-  timezone: UTC-12
-  date: July 23-29, 2022
-  place: Vienna, Austria
-  sub: ML
-
-- title: DAFX
-  year: 2022
-  id: dafx22
-  link: https://dafx2020.mdw.ac.at/authors/index.html
-  deadline: '2022-04-01 23:59:59'
-  timezone: UTC-0
-  date: September 7-9, 2022
-  place: Vienna, Austria
-  sub: SP
-
-- title: AudioMostly
-  year: 2022
-  id: audiomostly22
-  link: https://audiomostly.com/2022
-  deadline: '2022-04-15 23:59:59'
-  timezone: UTC-12
-  date: September 6-9, 2022
-  place: St. Poelten, Austria
-  sub: SP
-
 - title: NIME
   year: 2022
   id: nime22
@@ -100,6 +47,26 @@
   place: Saint-Etienne, France
   sub: SP
   note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 1, 2022. More info <a href=''https://smc22.grame.fr/calls.html#paper-call''>here</a>.'
+
+- title: SMPC
+  year: 2022
+  id: smpc22
+  link: https://musicperception.org/smpc-conference.html
+  deadline: '2022-02-15 23:59:00'
+  timezone: UTC-8
+  date: Aug 17-23, 2022
+  place: Portland, OR
+  sub: SP
+
+- title: IJCAI-arts-creativity
+  year: 2022
+  id: ijcai22st
+  link: https://ijcai-22.org/calls-creativity/
+  deadline: '2022-02-18 23:59:59'
+  timezone: UTC-12
+  date: July 23-29, 2022
+  place: Vienna, Austria
+  sub: ML
   
 - title: EUSIPCO
   year: 2022
@@ -130,6 +97,36 @@
   date: July 14-16, 2022
   place: Lisbon, Portugal
   sub: SP
+
+- title: DAFX
+  year: 2022
+  id: dafx22
+  link: https://dafx2020.mdw.ac.at/authors/index.html
+  deadline: '2022-04-01 23:59:59'
+  timezone: UTC-0
+  date: September 7-9, 2022
+  place: Vienna, Austria
+  sub: SP
+
+- title: AudioMostly
+  year: 2022
+  id: audiomostly22
+  link: https://audiomostly.com/2022
+  deadline: '2022-04-15 23:59:59'
+  timezone: UTC-12
+  date: September 6-9, 2022
+  place: St. Poelten, Austria
+  sub: SP
+
+- title: AIMC
+  year: 2022
+  id: AIMC22
+  link: https://2022.aimusiccreativity.org/#calls
+  deadline: '2022-04-25 23:59:59'
+  timezone: UTC-12
+  date: September 13-15, 2022
+  place: Online
+  sub: ML
 
 - title: ICSC
   year: 2022
@@ -196,4 +193,17 @@
   date: May 22 - 27, 2022
   place: Singapore
   sub: SP
+
+- title: IJCAI
+  hindex: 105
+  year: 2022
+  id: ijcai22
+  link: https://ijcai-22.org/
+  deadline: '2022-01-14 23:59:59'
+  abstract_deadline: '2022-01-07 23:59:59'
+  timezone: UTC-12
+  date: July 23-29, 2022
+  place: Vienna, Austria
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 7, 2022. More info <a href=''https://ijcai-22.org/calls-papers/''>here</a>.'
 
