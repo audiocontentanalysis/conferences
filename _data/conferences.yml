@@ -24,6 +24,19 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 20, 2022. More info <a href=''https://icml.cc/Conferences/2022/''>here</a>.'
 
+- title: SIGIR
+  hindex: 66
+  year: 2022
+  id: sigir22
+  link: https://sigir.org/sigir2022/
+  deadline: '2022-01-28 23:59:00'
+  timezone: UTC-12
+  date: July 11-15, 2022
+  place: Madrid, Spain
+  abstract_deadline: '2022-01-21 23:59:00'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on January 21, 2022. More info <a href=''https://sigir.org/sigir2022/call-for-papers/''>here</a>.'
+  sub: DM
+
 - title: NIME
   year: 2022
   id: nime22
@@ -47,6 +60,17 @@
   place: Saint-Etienne, France
   sub: SP
   note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 1, 2022. More info <a href=''https://smc22.grame.fr/calls.html#paper-call''>here</a>.'
+
+- title: KDD
+  hindex: 30
+  year: 2022
+  id: kdd22
+  link: https://www.kdd.org/kdd2022/
+  deadline: '2022-02-10 23:59:59'
+  timezone: UTC-12
+  date: August 14-18, 2022
+  place: Washington, DC, USA
+  sub: DM
 
 - title: SMPC
   year: 2022
@@ -107,6 +131,19 @@
   date: September 7-9, 2022
   place: Vienna, Austria
   sub: SP
+
+- title: MM
+  hindex: 58
+  year: 2022
+  id: mm22
+  link: https://2022.acmmm.org/
+  deadline: '2022-04-07 23:59:59'
+  timezone: UTC-12
+  date: October 10-14, 2022
+  place: Lisbon, Portugal
+  sub: CV
+  abstract_deadline: '2022-03-31 23:59:59'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on March 31, 2022. More info <a href=''https://2022.acmmm.org/call-for-papers/''>here</a>.'
 
 - title: AudioMostly
   year: 2022
