@@ -1,5 +1,15 @@
 ---
   
+- title: CSME
+  year: 2022
+  id: csme22
+  link: https://csedu.scitevents.org/CSME.aspx
+  deadline: '2022-02-24 23:59:59'
+  timezone: Europe/Prague
+  date: April 22 - 24, 2022
+  place: Prague, Czech Republic
+  sub: ML
+  
 - title: EUSIPCO
   year: 2022
   id: eusipco22
@@ -9,16 +19,6 @@
   date: August 29 - September 2, 2022
   place: Belgrade, Serbia
   sub: SP
-  
-- title: CSME
-  year: 2022
-  id: csme22
-  link: http://www.csedu.org/CSME.aspx
-  deadline: '2022-02-24 23:59:59'
-  timezone: Europe/Prague
-  date: April 22 - 24, 2022
-  place: Prague, Czech Republic
-  sub: ML
  
 - title: SIGMAP
   year: 2022
