@@ -1,2 +1,6 @@
 _site
 /_data/*.bak
+.bundle
+vendor
+.vscode
+.DS_Store

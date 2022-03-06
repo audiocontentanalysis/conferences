@@ -1,33 +1,14 @@
 ---
-  
-- title: CSME
+   
+- title: InterSpeech
+  hindex: 100
   year: 2022
-  id: csme22
-  link: https://csedu.scitevents.org/CSME.aspx
-  deadline: '2022-02-24 23:59:59'
-  timezone: Europe/Prague
-  date: April 22 - 24, 2022
-  place: Prague, Czech Republic
-  sub: ML
-  
-- title: EUSIPCO
-  year: 2022
-  id: eusipco22
-  link: https://2022.eusipco.org/
-  deadline: '2022-03-01 23:59:59'
-  timezone: UTC-12
-  date: August 29 - September 2, 2022
-  place: Belgrade, Serbia
-  sub: SP
- 
-- title: SIGMAP
-  year: 2022
-  id: sigmap22
-  link: https://sigmap.scitevents.org/
-  deadline: '2022-03-02 23:59:59'
-  timezone: Europe/Lisbon
-  date: July 14-16, 2022
-  place: Lisbon, Portugal
+  id: interspeech22
+  link: http://www.interspeech2022.org/
+  deadline: '2022-03-21 23:59:59'
+  timezone: UTC+9
+  date: September, 18-22, 2022
+  place: Incheon, South Korea
   sub: SP
 
 - title: DAFX
@@ -117,6 +98,16 @@
   date: April 20-22, 2022
   place: TBA
   sub: ML
+ 
+- title: CSME
+  year: 2022
+  id: csme22
+  link: https://csedu.scitevents.org/CSME.aspx
+  deadline: '2022-02-24 23:59:59'
+  timezone: Europe/Prague
+  date: April 22 - 24, 2022
+  place: Prague, Czech Republic
+  sub: ML
 
 - title: ICLR
   year: 2022
@@ -174,6 +165,16 @@
   place: Madrid, Spain
   abstract_deadline: '2022-01-21 23:59:00'
   note: '<b>NOTE</b>: Mandatory abstract deadline on January 21, 2022. More info <a href=''https://sigir.org/sigir2022/call-for-papers/''>here</a>.'
+  
+- title: SIGMAP
+  year: 2022
+  id: sigmap22
+  link: https://sigmap.scitevents.org/
+  deadline: '2022-03-02 23:59:59'
+  timezone: Europe/Lisbon
+  date: July 14-16, 2022
+  place: Lisbon, Portugal
+  sub: SP
 
 - title: ICML
   hindex: 204
@@ -240,7 +241,17 @@
   link: https://musicperception.org/smpc-conference.html
   deadline: '2022-02-15 23:59:00'
   timezone: UTC-8
-  date: Aug 17-23, 2022
+  date: August 17-23, 2022
   place: Portland, OR
+  sub: SP
+ 
+- title: EUSIPCO
+  year: 2022
+  id: eusipco22
+  link: https://2022.eusipco.org/
+  deadline: '2022-03-01 23:59:59'
+  timezone: UTC-12
+  date: August 29 - September 2, 2022
+  place: Belgrade, Serbia
   sub: SP
 
