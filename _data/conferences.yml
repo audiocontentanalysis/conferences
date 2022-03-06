@@ -55,6 +55,19 @@
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on September 16, 2021'
 
+- title: NeurIPS
+  hindex: 245
+  year: 2022
+  id: neurips22
+  link: https://neurips.cc/Conferences/2022/
+  deadline: '2022-05-19 13:00:00'
+  abstract_deadline: '2022-05-16 13:00:00'
+  timezone: America/Los_Angeles
+  date: Nov 28th - Dec 9th, 2022
+  place: New Orleans, Louisiana, USA; and virtual
+  sub: ML
+  note: '<b>NOTE</b>: Mandatory abstract deadline on May 16, 2022'
+
 - title: ISMIR
   id: ismir22
   link: https://ismir2022.ismir.net/
