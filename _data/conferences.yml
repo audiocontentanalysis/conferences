@@ -10,6 +10,16 @@
   place: Orlando, FL
   sub: DM
 
+- title: MMSP
+  year: 2022
+  id: mmsp22
+  link: https://attend.ieee.org/mmsp-2022
+  deadline: '2022-06-22 23:59:59'
+  timezone: UTC-12
+  date: September 26-28, 2022
+  place: Shanghai, China
+  sub: SP
+
 - title: DCASE
   year: 2022
   id: dcase22
