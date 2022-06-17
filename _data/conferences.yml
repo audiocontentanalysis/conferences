@@ -1,15 +1,5 @@
 ---
 
-- title: ICDM
-  year: 2022
-  id: icdm22
-  link: https://icdm22.cse.usf.edu/
-  deadline: '2022-06-10 23:59:59'
-  timezone: UTC-12
-  date: November 30 - December 3, 2022
-  place: Orlando, FL
-  sub: DM
-
 - title: MMSP
   year: 2022
   id: mmsp22
@@ -32,28 +22,15 @@
   abstract_deadline: '2022-05-13 23:59:59'
   note: '<b>NOTE</b>: Mandatory abstract deadline on July 7, 2022. More info <a href=''https://ismir2022.ismir.net/calls/cfp/''>here</a>.'
 
-- title: ISMIR
-  id: ismir22
-  link: https://ismir2022.ismir.net/
-  deadline: '2022-05-20 23:59:59'
-  timezone: UTC-12
-  date: December 4-8, 2022
-  place: Bengaluru, India
-  sub: SP
-  abstract_deadline: '2022-05-13 23:59:59'
-  note: '<b>NOTE</b>: Mandatory abstract deadline on May 13, 2022. More info <a href=''https://ismir2022.ismir.net/calls/cfp/''>here</a>.'
-
-- title: SMC
+- title: ISM
   year: 2022
-  id: smc22
-  link: https://smc22.grame.fr
-  deadline: '2022-02-08 23:59:59'
-  abstract_deadline: '2022-02-01 23:59:00'
+  id: ism22
+  link: https://www.ieee-ism.org/
+  deadline: '2022-08-09 23:59:59'
   timezone: UTC-12
-  date: June 4-12, 2022
-  place: Saint-Etienne, France
+  date: September 26-28, 2022
+  place: Naples, Italy
   sub: SP
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 1, 2022. More info <a href=''https://smc22.grame.fr/calls.html#paper-call''>here</a>.'
 
 - title: ICAD
   year: 2022
@@ -245,4 +222,25 @@
   place: New Orleans, Louisiana, USA; and virtual
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on May 16, 2022'
+
+- title: ICDM
+  year: 2022
+  id: icdm22
+  link: https://icdm22.cse.usf.edu/
+  deadline: '2022-06-10 23:59:59'
+  timezone: UTC-12
+  date: November 30 - December 3, 2022
+  place: Orlando, FL
+  sub: DM
+
+- title: ISMIR
+  id: ismir22
+  link: https://ismir2022.ismir.net/
+  deadline: '2022-05-20 23:59:59'
+  timezone: UTC-12
+  date: December 4-8, 2022
+  place: Bengaluru, India
+  sub: SP
+  abstract_deadline: '2022-05-13 23:59:59'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on May 13, 2022. More info <a href=''https://ismir2022.ismir.net/calls/cfp/''>here</a>.'
 
