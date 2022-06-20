@@ -117,7 +117,7 @@
   place: Baltimore, Maryland USA
   sub: ML
   note: '<b>NOTE</b>: Mandatory abstract deadline on Jan 20, 2022. More info <a href=''https://icml.cc/Conferences/2022/''>here</a>.'
-  sub: DM
+  sub: ML
 
 - title: IJCAI-arts-creativity
   year: 2022
@@ -162,7 +162,7 @@
   timezone: UTC-12
   date: August 14-18, 2022
   place: Washington, DC, USA
-  sub: DM
+  sub: ML
 
 - title: SMPC
   year: 2022
@@ -260,7 +260,7 @@
   timezone: UTC-12
   date: November 30 - December 3, 2022
   place: Orlando, FL
-  sub: DM
+  sub: ML
 
 - title: ISMIR
   id: ismir22
