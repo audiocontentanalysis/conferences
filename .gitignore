@@ -5,3 +5,4 @@ vendor
 .vscode
 .DS_Store
 *.bak
+.idea

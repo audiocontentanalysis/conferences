@@ -1,5 +1,6 @@
 ---
 
+
 - title: MMSP
   year: 2022
   id: mmsp22
@@ -9,6 +10,19 @@
   date: September 26-28, 2022
   place: Shanghai, China
   sub: SP
+  
+- title: ACML
+  year: 2022
+  id: acml22
+  link: https://www.acml-conf.org/2022
+  deadline: '2022-06-23 23:59:00'
+  timezone: UTC-12
+  place: Hyderabad, India
+  date: December 12-14, 2022
+  start: 2022-12-12
+  end: 2022-12-14
+  hindex: 20
+  sub: ML
 
 - title: DCASE
   year: 2022
@@ -21,6 +35,21 @@
   sub: SP
   abstract_deadline: '2022-05-13 23:59:59'
   note: '<b>NOTE</b>: Mandatory abstract deadline on July 7, 2022. More info <a href=''https://ismir2022.ismir.net/calls/cfp/''>here</a>.'
+
+- title: AAAI
+  year: 2023
+  id: aaai23
+  full_name: AAAI Conference on Artificial Intelligence
+  link: https://aaai.org/Conferences/AAAI-23/
+  deadline: '2022-08-15 23:59:59'
+  abstract_deadline: '2022-08-08 23:59:59'
+  timezone: UTC-12
+  place: Washington, DC, USA
+  date: February 7 - February 14, 2023
+  start: 2023-02-07
+  end: 2023-02-14
+  hindex: 95
+  sub: ML
 
 - title: ISM
   year: 2022

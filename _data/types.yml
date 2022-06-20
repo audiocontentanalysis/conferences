@@ -1,7 +1,13 @@
 ---
 - name: Machine Learning
   sub: ML
+  color: "#ffd300"
+- name: Music
+  sub: MU
+  color: "#deff0a"
+- name: Audio
+  sub: AU
+  color: "#0aefff"
 - name: Signal Processing
   sub: SP
-- name: Data Mining/Information Retrieval
-  sub: DM
+  color: "#580aff"

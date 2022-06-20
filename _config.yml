@@ -12,6 +12,6 @@ github_username: alexanderlerch
 github_repo: conference-deadlines
 
 markdown: kramdown
-ga_id: UA-112994517-2
+ga_id:
 
 include: ['_pages']
