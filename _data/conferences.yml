@@ -61,6 +61,36 @@
   place: Naples, Italy
   sub: SP
 
+- title: MMM
+  year: 2023
+  id: mmm23
+  link: https://www.mmm2023.no
+  deadline: '2022-08-19 23:59:59'
+  timezone: UTC-12
+  date: January 9-12, 2023
+  place: Bergen, Norway
+  sub: SP
+
+- title: ICASSP
+  year: 2023
+  id: icassp23
+  link: http://2023.acmmmsys.org/
+  deadline: '2022-10-19 23:59:59'
+  timezone: UTC-12
+  date: June 4-9, 2023
+  place: Rhodes Island, Greece
+  sub: SP
+
+- title: MMSys
+  year: 2023
+  id: mmsys23
+  link: http://2023.acmmmsys.org/
+  deadline: '2022-11-18 23:59:59'
+  timezone: UTC-12
+  date: June 7-10, 2023
+  place: Vancouver, Canada
+  sub: SP
+
 - title: ICAD
   year: 2022
   id: icad22
