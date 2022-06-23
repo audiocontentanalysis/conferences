@@ -8,8 +8,8 @@ baseurl: "/conferences"
 
 twitter_username: alexander lerch
 #twitter_hashtag: machinelearning
-github_username: alexanderlerch
-github_repo: conference-deadlines
+github_username: audiocontentanalysis
+github_repo: conferences
 
 markdown: kramdown
 ga_id:
