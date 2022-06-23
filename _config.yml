@@ -3,8 +3,8 @@ title: MIR Conference Deadlines # (Maintained by @alexanderlerch)
 description: Countdowns to top Music Information Retrieval/ Music AI/ Music Signal Processing conference deadlines
 author: Alexander Lerch
 
-domain: "mir-conferences.audiocontentanalysis.org"
-baseurl: ""
+domain: "audiocontentanalysis.org"
+baseurl: "conference"
 
 twitter_username: alexander lerch
 #twitter_hashtag: machinelearning
