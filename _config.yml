@@ -4,7 +4,7 @@ description: Countdowns to top Music Information Retrieval/ Music AI/ Music Sign
 author: Alexander Lerch
 
 domain: "audiocontentanalysis.org"
-baseurl: "conference"
+baseurl: "/conferences"
 
 twitter_username: alexander lerch
 #twitter_hashtag: machinelearning
