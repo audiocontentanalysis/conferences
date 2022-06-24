@@ -1,14 +1,12 @@
-## AI Deadlines [![Build Status](https://travis-ci.com/abhshkdz/ai-deadlines.svg?branch=gh-pages)](https://travis-ci.com/abhshkdz/ai-deadlines)
+## MIR Deadlines 
 
-Countdown timers to keep track of a bunch of CV/NLP/ML/RO conference deadlines.
+Countdown timers to keep track of conference deadlines related to ML/DSP for music. This has been [happily forked](https://github.com/paperswithcode/ai-deadlines).
 
 ## Contributing
 
-[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/0)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/0)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/1)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/1)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/2)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/2)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/3)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/3)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/4)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/4)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/5)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/5)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/6)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/6)[![](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/images/7)](https://sourcerer.io/fame/abhshkdz/abhshkdz/ai-deadlines/links/7)
-
 Contributions are very welcome!
 
-To keep things minimal, I'm only looking to list top-tier conferences in AI as per [conferenceranks.com][6] and my judgement calls. Please feel free to maintain a separate fork if you don't see your sub-field or conference of interest listed.
+To keep things minimal, I'm only looking to list conferences that allow publications on music and related topics.
 
 To add or update a deadline:
 - Fork the repository
@@ -39,21 +37,9 @@ To add or update a deadline:
     ```
 - Send a pull request
 
-## Forks & other useful listings
-
-- [geodeadlin.es][3] by @LukasMosser
-- [neuro-deadlines][4] by @tbryn
-- [ai-challenge-deadlines][5] by @dieg0as
-- [CV-oriented ai-deadlines (with an emphasis on medical images)][8] by @duducheng
-- [es-deadlines (Embedded Systems, Computer Architecture, and Cyber-physical Systems)][9] by @AlexVonB and @k0nze
-- [2019-2020 International Conferences in AI, CV, DM, NLP and Robotics][10] by @JackieTseng
-- [ccf-deadlines][11] by @ccfddl
-- [netdeadlines.com][12] by @albertgranalcoz
-- [ad-deadlines.com][13] by @daniel-bogdoll
-
 ## License
 
-This project is licensed under [MIT][1].
+The originating project has been licensed under the MIT license by [PapersWithCode}(https://github.com/paperswithcode).
 
 It uses:
 
