@@ -1,20 +1,15 @@
 ---
 
 
-- title: AAAI
+- title: MMM
   year: 2023
-  id: aaai23
-  full_name: AAAI Conference on Artificial Intelligence
-  link: https://aaai.org/Conferences/AAAI-23/
-  deadline: '2022-08-15 23:59:59'
-  abstract_deadline: '2022-08-08 23:59:59'
+  id: mmm23
+  link: https://www.mmm2023.no
+  deadline: '2022-09-02 23:59:59'
   timezone: UTC-12
-  place: Washington, DC, USA
-  date: February 7 - February 14, 2023
-  start: 2023-02-07
-  end: 2023-02-14
-  hindex: 95
-  sub: ML
+  date: January 9-12, 2023
+  place: Bergen, Norway
+  sub: SP
 
 - title: ISM
   year: 2022
@@ -24,16 +19,6 @@
   timezone: UTC-7
   date: December 5-7, 2022
   place: Naples, Italy
-  sub: SP
-
-- title: MMM
-  year: 2023
-  id: mmm23
-  link: https://www.mmm2023.no
-  deadline: '2022-08-19 23:59:59'
-  timezone: UTC-12
-  date: January 9-12, 2023
-  place: Bergen, Norway
   sub: SP
 
 - title: ICASSP
@@ -270,5 +255,20 @@
   start: 2022-12-12
   end: 2022-12-14
   hindex: 20
+  sub: ML
+
+- title: AAAI
+  year: 2023
+  id: aaai23
+  full_name: AAAI Conference on Artificial Intelligence
+  link: https://aaai.org/Conferences/AAAI-23/
+  deadline: '2022-08-15 23:59:59'
+  abstract_deadline: '2022-08-08 23:59:59'
+  timezone: UTC-12
+  place: Washington, DC, USA
+  date: February 7 - February 14, 2023
+  start: 2023-02-07
+  end: 2023-02-14
+  hindex: 95
   sub: ML
 
