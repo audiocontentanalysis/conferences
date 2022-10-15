@@ -45,8 +45,8 @@
 - title: ICASSP
   year: 2023
   id: icassp23
-  link: http://2023.acmmmsys.org/
-  deadline: '2022-10-19 23:59:59'
+  link: https://2023.ieeeicassp.org/
+  deadline: '2022-10-26 23:59:59'
   timezone: UTC-12
   date: June 4-9, 2023
   place: Rhodes Island, Greece
@@ -62,6 +62,16 @@
   place: Vancouver, Canada
   sub: SP
 
+- title: ICME
+  year: 2023
+  id: icme23
+  link: https://www.2023.ieeeicme.org/
+  deadline: '2023-12-11 23:59:59'
+  timezone: UTC-12
+  date: July 10-14, 2023
+  place: Brisbane, Australia
+  sub: SP
+
 - title: IJCNN
   year: 2023
   id: ijcnn23
@@ -74,6 +84,16 @@
   start: 2023-06-18
   end: 2023-06-123
   sub: ML
+
+- title: EUSIPCO
+  year: 2023
+  id: eusipco23
+  link: http://eusipco2023.org/index.html
+  deadline: '2023-02-20 23:59:59'
+  timezone: UTC-12
+  date: September 4-8, 2023
+  place: Helsinki, Finland
+  sub: SP
 
 - title: CSME
   year: 2023
@@ -88,6 +108,16 @@
   end: 2023-06-123
   sub: ML
   note: part of CSEDU 2023
+
+- title: DAFx
+  year: 2023
+  id: dafx23
+  link: https://dafx23.create.aau.dk/index.php/authorscalls/
+  deadline: '2023-03-31 23:59:59'
+  timezone: UTC-12
+  date: September 4-8, 2023
+  place: Copenhagen, Denmark
+  sub: SP
 
 - title: MM
   hindex: 58
