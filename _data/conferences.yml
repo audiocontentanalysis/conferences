@@ -17,31 +17,6 @@
   sub: ML
   note: part of evostar 2023
 
-- title: ICLR
-  year: 2023
-  id: iclr23
-  link: https://iclr.cc/
-  deadline: '2022-09-28 23:59:59'
-  abstract_deadline: '2022-09-21 23:59:59'
-  timezone: UTC-12
-  place: Kigali, Rwanda
-  date: May 01-05, 2023
-  start: 2023-05-01
-  end: 2022-05-05
-  hindex: 286
-  sub: ML
-  note: Mandatory abstract deadline on September 21, 2022. More info <a href='https://iclr.cc/Conferences/2023/CallForPapers'>here</a>.
-
-- title: ISM
-  year: 2022
-  id: ism22
-  link: https://www.ieee-ism.org/
-  deadline: '2022-09-30 23:59:59'
-  timezone: UTC-8
-  date: December 5-7, 2022
-  place: Naples, Italy
-  sub: SP
-
 - title: ICASSP
   year: 2023
   id: icassp23
@@ -66,7 +41,7 @@
   year: 2023
   id: icme23
   link: https://www.2023.ieeeicme.org/
-  deadline: '2023-12-11 23:59:59'
+  deadline: '2022-12-11 23:59:59'
   timezone: UTC-12
   date: July 10-14, 2023
   place: Brisbane, Australia
@@ -84,6 +59,18 @@
   start: 2023-06-18
   end: 2023-06-123
   sub: ML
+
+- title: SMC
+  year: 2023
+  id: smc23
+  link: https://smcnetwork.org/smc2023/
+  deadline: '2023-02-08 23:59:59'
+  abstract_deadline: 2023-02-01 23:59
+  timezone: UTC-8
+  date: June 12-17, 2023
+  place: Stockholm, Sweden
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 1, 20223. More info <a href=''https://smcnetwork.org/smc2023/#dates''>here</a>.'
+  sub: SP
 
 - title: EUSIPCO
   year: 2023
@@ -112,7 +99,7 @@
 - title: DAFx
   year: 2023
   id: dafx23
-  link: https://dafx23.create.aau.dk/index.php/authorscalls/
+  link: https://dafx23.create.aau.dk
   deadline: '2023-03-31 23:59:59'
   timezone: UTC-12
   date: September 4-8, 2023
@@ -177,6 +164,16 @@
   sub: SP
   abstract_deadline: '2022-05-13 23:59:59'
   note: '<b>NOTE</b>: Mandatory abstract deadline on May 13, 2022. More info <a href=''https://ismir2022.ismir.net/calls/cfp/''>here</a>.'
+
+- title: ISM
+  year: 2022
+  id: ism22
+  link: https://www.ieee-ism.org/
+  deadline: '2022-09-30 23:59:59'
+  timezone: UTC-8
+  date: December 5-7, 2022
+  place: Naples, Italy
+  sub: SP
   
 - title: ACML
   year: 2022
@@ -215,4 +212,19 @@
   end: 2023-02-14
   hindex: 95
   sub: ML
+
+- title: ICLR
+  year: 2023
+  id: iclr23
+  link: https://iclr.cc/
+  deadline: '2022-09-28 23:59:59'
+  abstract_deadline: '2022-09-21 23:59:59'
+  timezone: UTC-12
+  place: Kigali, Rwanda
+  date: May 01-05, 2023
+  start: 2023-05-01
+  end: 2022-05-05
+  hindex: 286
+  sub: ML
+  note: Mandatory abstract deadline on September 21, 2022. More info <a href='https://iclr.cc/Conferences/2023/CallForPapers'>here</a>.
 
