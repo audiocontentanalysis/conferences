@@ -1,31 +1,5 @@
 ---
 
-- title: evoMUSART
-  year: 2023
-  id: evomusart23
-  full_name: 12th International Conference on Artificial Intelligence in Music, Sound, Art and Design
-  link: https://www.evostar.org/2023/evomusart/
-  deadline: 2022-11-01 23:59
-  abstract_deadline: 2022-11-01 23:59
-  timezone: UTC-12
-  place: Brno, Czech Republic
-  date: April, 12-14, 2023
-  start: 2023-04-12
-  end: 2023-04-14
-  paperslink: https://evomusart-index.dei.uc.pt/
-  hindex: 12
-  sub: ML
-  note: part of evostar 2023
-
-- title: ICASSP
-  year: 2023
-  id: icassp23
-  link: https://2023.ieeeicassp.org/
-  deadline: '2022-10-26 23:59:59'
-  timezone: UTC-12
-  date: June 4-9, 2023
-  place: Rhodes Island, Greece
-  sub: SP
 
 - title: MMSys
   year: 2023
@@ -95,6 +69,16 @@
   end: 2023-06-123
   sub: ML
   note: part of CSEDU 2023
+
+- title: ICAD
+  year: 2023
+  id: icad23
+  link: https://icad2023.icad.org/
+  deadline: '2023-03-01 23:59:59'
+  timezone: UTC-12
+  date: June 26 - July 1, 2023
+  place: Norrköping, Sweden
+  sub: SP
 
 - title: DAFx
   year: 2023
@@ -213,6 +197,23 @@
   hindex: 95
   sub: ML
 
+- title: evoMUSART
+  year: 2023
+  id: evomusart23
+  full_name: 12th International Conference on Artificial Intelligence in Music, Sound, Art and Design
+  link: https://www.evostar.org/2023/evomusart/
+  deadline: 2022-11-01 23:59
+  abstract_deadline: 2022-11-01 23:59
+  timezone: UTC-12
+  place: Brno, Czech Republic
+  date: April, 12-14, 2023
+  start: 2023-04-12
+  end: 2023-04-14
+  paperslink: https://evomusart-index.dei.uc.pt/
+  hindex: 12
+  sub: ML
+  note: part of evostar 2023
+
 - title: ICLR
   year: 2023
   id: iclr23
@@ -227,4 +228,14 @@
   hindex: 286
   sub: ML
   note: Mandatory abstract deadline on September 21, 2022. More info <a href='https://iclr.cc/Conferences/2023/CallForPapers'>here</a>.
+
+- title: ICASSP
+  year: 2023
+  id: icassp23
+  link: https://2023.ieeeicassp.org/
+  deadline: '2022-10-26 23:59:59'
+  timezone: UTC-12
+  date: June 4-9, 2023
+  place: Rhodes Island, Greece
+  sub: SP
 
