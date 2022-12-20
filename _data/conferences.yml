@@ -92,7 +92,7 @@
   place: Prague, Czech Republic
   date: June 18-23, 2023
   start: 2023-06-18
-  end: 2023-06-123
+  end: 2023-06-23
   sub: ML
   note: part of CSEDU 2023
 
@@ -105,6 +105,20 @@
   date: June 26 - July 1, 2023
   place: Norrköping, Sweden
   sub: SP
+
+- title: AIMC
+  year: 2023
+  id: ijcnn23
+  full_name: International Conference on AI and Musical Creativity
+  link: https://aimc2023.pubpub.org/
+  deadline: '2023-03-15 23:59:59'
+  timezone: UTC-0
+  place: Sussex, UK
+  date: August 31 - September 1, 2023
+  start: 2023-08-31
+  end: 2023-09-01
+  abstract_deadline: '2023-03-07 23:59:59'
+  note: '<b>NOTE</b>: Mandatory abstract deadline on March 7, 2023. More info <a href=''https://aimc2023.pubpub.org/cfp''>here</a>.'
 
 - title: DAFx
   year: 2023
