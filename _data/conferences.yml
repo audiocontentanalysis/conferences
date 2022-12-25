@@ -130,6 +130,16 @@
   place: Copenhagen, Denmark
   sub: SP
 
+- title: CMMR
+  year: 2023
+  id: cmmr23
+  link: https://cmmr2023.gttm.jp/
+  deadline: '2023-04-30 23:59:59'
+  timezone: UTC-12
+  date: November 13 - 17, 2023
+  place: Tokyo, Japan
+  sub: SP
+
 - title: MM
   hindex: 58
   year: 2022
