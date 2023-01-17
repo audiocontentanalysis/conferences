@@ -130,6 +130,18 @@
   place: Copenhagen, Denmark
   sub: SP
 
+- title: ISMIR
+  year: 2023
+  id: ismir23
+  link: https://drive.google.com/file/d/17lQ5sx5dKvm-FPjkzTLo7Qbz0uoLycAF/view?usp=share_link
+  deadline: '2023-04-14 23:59:59'
+  abstract_deadline: 2023-04-06 23:59
+  timezone: UTC-12
+  date: November 5 - 9, 2023
+  place: Milan, Italy
+  note: '<b>NOTE</b>: Mandatory abstract deadline on April 6, 20223. More info <a href=''https://drive.google.com/file/d/17lQ5sx5dKvm-FPjkzTLo7Qbz0uoLycAF/view?usp=share_link''>here</a>.'
+  sub: SP
+
 - title: CMMR
   year: 2023
   id: cmmr23
