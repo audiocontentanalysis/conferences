@@ -1,26 +1,6 @@
 ---
 
 
-- title: MMSys
-  year: 2023
-  id: mmsys23
-  link: http://2023.acmmmsys.org/
-  deadline: '2022-11-18 23:59:59'
-  timezone: UTC-12
-  date: June 7-10, 2023
-  place: Vancouver, Canada
-  sub: SP
-
-- title: ICME
-  year: 2023
-  id: icme23
-  link: https://www.2023.ieeeicme.org/
-  deadline: '2022-12-11 23:59:59'
-  timezone: UTC-12
-  date: July 10-14, 2023
-  place: Brisbane, Australia
-  sub: SP
-
 - title: IJCNN
   year: 2023
   id: ijcnn23
@@ -108,7 +88,7 @@
 
 - title: AIMC
   year: 2023
-  id: ijcnn23
+  id: aimc23
   full_name: International Conference on AI and Musical Creativity
   link: https://aimc2023.pubpub.org/
   deadline: '2023-03-15 23:59:59'
@@ -140,7 +120,7 @@
   date: November 5 - 9, 2023
   place: Milan, Italy
   note: '<b>NOTE</b>: Mandatory abstract deadline on April 6, 20223. More info <a href=''https://drive.google.com/file/d/17lQ5sx5dKvm-FPjkzTLo7Qbz0uoLycAF/view?usp=share_link''>here</a>.'
-  sub: SP
+  sub: ML
 
 - title: CMMR
   year: 2023
@@ -150,16 +130,6 @@
   timezone: UTC-12
   date: November 13 - 17, 2023
   place: Tokyo, Japan
-  sub: SP
-
-- title: MMM
-  year: 2023
-  id: mmm23
-  link: https://www.mmm2023.no
-  deadline: '2022-09-02 23:59:59'
-  timezone: UTC-12
-  date: January 9-12, 2023
-  place: Bergen, Norway
   sub: SP
 
 - title: AAAI
@@ -217,5 +187,25 @@
   timezone: UTC-12
   date: June 4-9, 2023
   place: Rhodes Island, Greece
+  sub: SP
+
+- title: MMSys
+  year: 2023
+  id: mmsys23
+  link: http://2023.acmmmsys.org/
+  deadline: '2022-11-18 23:59:59'
+  timezone: UTC-12
+  date: June 7-10, 2023
+  place: Vancouver, Canada
+  sub: SP
+
+- title: ICME
+  year: 2023
+  id: icme23
+  link: https://www.2023.ieeeicme.org/
+  deadline: '2022-12-11 23:59:59'
+  timezone: UTC-12
+  date: July 10-14, 2023
+  place: Brisbane, Australia
   sub: SP
 
