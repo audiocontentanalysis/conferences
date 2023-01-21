@@ -132,6 +132,16 @@
   place: Tokyo, Japan
   sub: SP
 
+- title: AudioMostly
+  year: 2023
+  id: audiomostly23
+  link: https://audiomostly.com/2023
+  deadline: '2023-05-01 23:59:59'
+  timezone: UTC-0
+  date: August 30 - September 1, 2023
+  place: Edinburgh, UK
+  sub: SP
+
 - title: AAAI
   year: 2023
   id: aaai23
