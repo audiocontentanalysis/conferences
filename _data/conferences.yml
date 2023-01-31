@@ -86,6 +86,16 @@
   place: Norrköping, Sweden
   sub: SP
 
+- title: Interspeech
+  year: 2023
+  id: interspeech23
+  link: https://www.interspeech2023.org
+  deadline: '2023-03-01 23:59:59'
+  timezone: UTC-0
+  date: August 20 - 24, 2023
+  place: Dublin, Ireland
+  sub: SP
+
 - title: AIMC
   year: 2023
   id: aimc23
