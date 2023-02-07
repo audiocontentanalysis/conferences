@@ -1,57 +1,5 @@
 ---
 
-
-- title: IJCNN
-  year: 2023
-  id: ijcnn23
-  full_name: International Joint Conference on Neural Networks
-  link: https://2023.ijcnn.org/
-  deadline: '2023-01-31 23:59:59'
-  timezone: UTC-12
-  place: Queensland, Australia
-  date: June 18-23, 2023
-  start: 2023-06-18
-  end: 2023-06-123
-  sub: ML
-
-- title: IJCAI
-  year: 2023
-  id: ijcai23
-  link: https://ijcai-23.org/
-  deadline: '2023-01-18 23:59:59'
-  timezone: UTC-12
-  place: Cape Town, South Africa
-  date: August 19-25, 2023
-  start: 2023-08-19
-  end: 2023-08-25
-  hindex: 120
-  sub: ML
-  note: Mandatory abstract deadline on Jan 11, 2023, and supplementary material deadline on Jan 23, 2023. More info <a href='https://ijcai-23.org/'>here</a>.
-
-- title: ICMR
-  year: 2023
-  id: icmr23
-  link: https://icmr2023.org
-  deadline: '2023-01-31 23:59:59'
-  timezone: UTC-12
-  place: Thessaloniki, Greece
-  date: June 12-15, 2023
-  start: 2023-06-12
-  end: 2023-05-15
-  sub: ML
-
-- title: SMC
-  year: 2023
-  id: smc23
-  link: https://smcnetwork.org/smc2023/
-  deadline: '2023-02-08 23:59:59'
-  abstract_deadline: 2023-02-01 23:59
-  timezone: UTC-8
-  date: June 12-17, 2023
-  place: Stockholm, Sweden
-  note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 1, 20223. More info <a href=''https://smcnetwork.org/smc2023/#dates''>here</a>.'
-  sub: SP
-
 - title: EUSIPCO
   year: 2023
   id: eusipco23
@@ -131,6 +79,20 @@
   place: Milan, Italy
   note: '<b>NOTE</b>: Mandatory abstract deadline on April 6, 20223. More info <a href=''https://drive.google.com/file/d/17lQ5sx5dKvm-FPjkzTLo7Qbz0uoLycAF/view?usp=share_link''>here</a>.'
   sub: ML
+
+- title: WASPAA
+  year: 2023
+  id: waspaa23
+  link: http://waspaa.com
+  deadline: '2023-04-28 23:59:59'
+  abstract_deadline: 2023-04-21 23:59
+  timezone: UTC-12
+  place: New Paltz
+  date: October 22-25, 2023
+  start: 2023-10-22
+  end: 2023-10-25
+  sub: SP
+  note: Mandatory abstract deadline on Apr 21, 2023. More info <a href='https://waspaa.com/call-for-papers-2/'>here</a>.
 
 - title: CMMR
   year: 2023
@@ -219,6 +181,43 @@
   place: Vancouver, Canada
   sub: SP
 
+- title: ICMR
+  year: 2023
+  id: icmr23
+  link: https://icmr2023.org
+  deadline: '2023-01-31 23:59:59'
+  timezone: UTC-12
+  place: Thessaloniki, Greece
+  date: June 12-15, 2023
+  start: 2023-06-12
+  end: 2023-05-15
+  sub: ML
+
+- title: SMC
+  year: 2023
+  id: smc23
+  link: https://smcnetwork.org/smc2023/
+  deadline: '2023-02-08 23:59:59'
+  abstract_deadline: 2023-02-01 23:59
+  timezone: UTC-8
+  date: June 12-17, 2023
+  place: Stockholm, Sweden
+  note: '<b>NOTE</b>: Mandatory abstract deadline on Feb 1, 20223. More info <a href=''https://smcnetwork.org/smc2023/#dates''>here</a>.'
+  sub: SP
+
+- title: IJCNN
+  year: 2023
+  id: ijcnn23
+  full_name: International Joint Conference on Neural Networks
+  link: https://2023.ijcnn.org/
+  deadline: '2023-01-31 23:59:59'
+  timezone: UTC-12
+  place: Queensland, Australia
+  date: June 18-23, 2023
+  start: 2023-06-18
+  end: 2023-06-123
+  sub: ML
+
 - title: ICME
   year: 2023
   id: icme23
@@ -228,4 +227,18 @@
   date: July 10-14, 2023
   place: Brisbane, Australia
   sub: SP
+
+- title: IJCAI
+  year: 2023
+  id: ijcai23
+  link: https://ijcai-23.org/
+  deadline: '2023-01-18 23:59:59'
+  timezone: UTC-12
+  place: Cape Town, South Africa
+  date: August 19-25, 2023
+  start: 2023-08-19
+  end: 2023-08-25
+  hindex: 120
+  sub: ML
+  note: Mandatory abstract deadline on Jan 11, 2023, and supplementary material deadline on Jan 23, 2023. More info <a href='https://ijcai-23.org/'>here</a>.
 
