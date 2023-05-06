@@ -1,59 +1,12 @@
 ---
 
-- title: DAFx
-  year: 2023
-  id: dafx23
-  link: https://dafx23.create.aau.dk
-  deadline: '2023-03-31 23:59:59'
-  timezone: UTC-12
-  date: September 4-8, 2023
-  place: Copenhagen, Denmark
-  sub: SP
-
-- title: ISMIR
-  year: 2023
-  id: ismir23
-  link: https://drive.google.com/file/d/17lQ5sx5dKvm-FPjkzTLo7Qbz0uoLycAF/view?usp=share_link
-  deadline: '2023-04-14 23:59:59'
-  abstract_deadline: 2023-04-06 23:59
-  timezone: UTC-12
-  date: November 5 - 9, 2023
-  place: Milan, Italy
-  note: '<b>NOTE</b>: Mandatory abstract deadline on April 6, 20223. More info <a href=''https://drive.google.com/file/d/17lQ5sx5dKvm-FPjkzTLo7Qbz0uoLycAF/view?usp=share_link''>here</a>.'
-  sub: ML
-
-- title: WASPAA
-  year: 2023
-  id: waspaa23
-  link: http://waspaa.com
-  deadline: '2023-04-28 23:59:59'
-  abstract_deadline: 2023-04-21 23:59
-  timezone: UTC-12
-  place: New Paltz
-  date: October 22-25, 2023
-  start: 2023-10-22
-  end: 2023-10-25
-  sub: SP
-  note: Mandatory abstract deadline on Apr 21, 2023. More info <a href='https://waspaa.com/call-for-papers-2/'>here</a>.
-
-- title: CMMR
-  year: 2023
-  id: cmmr23
-  link: https://cmmr2023.gttm.jp/
-  deadline: '2023-04-30 23:59:59'
-  timezone: UTC-12
-  date: November 13 - 17, 2023
-  place: Tokyo, Japan
-  start: 2023-11-13
-  end: 2023-11-17
-  sub: SP
 
 - title: ICMC
   year: 2023
   id: icmc23
-  link: http://waspaa.com
-  deadline: '2023-05-05 23:59:59'
-  timezone: UTC-12
+  link: http://icmc2023.org.cn/_pc_/home_page/index
+  deadline: '2023-05-20 23:59:59'
+  timezone: UTC+08
   place: Shenzhen, China
   date: October 15-20, 2023
   start: 2023-10-22
@@ -69,53 +22,6 @@
   date: August 30 - September 1, 2023
   place: Edinburgh, UK
   sub: SP
-
-- title: AAAI
-  year: 2023
-  id: aaai23
-  full_name: AAAI Conference on Artificial Intelligence
-  link: https://aaai.org/Conferences/AAAI-23/
-  deadline: '2022-08-15 23:59:59'
-  abstract_deadline: '2022-08-08 23:59:59'
-  timezone: UTC-12
-  place: Washington, DC, USA
-  date: February 7 - February 14, 2023
-  start: 2023-02-07
-  end: 2023-02-14
-  hindex: 95
-  sub: ML
-
-- title: evoMUSART
-  year: 2023
-  id: evomusart23
-  full_name: 12th International Conference on Artificial Intelligence in Music, Sound, Art and Design
-  link: https://www.evostar.org/2023/evomusart/
-  deadline: 2022-11-01 23:59
-  abstract_deadline: 2022-11-01 23:59
-  timezone: UTC-12
-  place: Brno, Czech Republic
-  date: April, 12-14, 2023
-  start: 2023-04-12
-  end: 2023-04-14
-  paperslink: https://evomusart-index.dei.uc.pt/
-  hindex: 12
-  sub: ML
-  note: part of evostar 2023
-
-- title: ICLR
-  year: 2023
-  id: iclr23
-  link: https://iclr.cc/
-  deadline: '2022-09-28 23:59:59'
-  abstract_deadline: '2022-09-21 23:59:59'
-  timezone: UTC-12
-  place: Kigali, Rwanda
-  date: May 01-05, 2023
-  start: 2023-05-01
-  end: 2022-05-05
-  hindex: 286
-  sub: ML
-  note: Mandatory abstract deadline on September 21, 2022. More info <a href='https://iclr.cc/Conferences/2023/CallForPapers'>here</a>.
 
 - title: ICASSP
   year: 2023
@@ -254,5 +160,52 @@
   timezone: UTC-12
   date: September 4-8, 2023
   place: Helsinki, Finland
+  sub: SP
+- title: DAFx
+  year: 2023
+  id: dafx23
+  link: https://dafx23.create.aau.dk
+  deadline: '2023-03-31 23:59:59'
+  timezone: UTC-12
+  date: September 4-8, 2023
+  place: Copenhagen, Denmark
+  sub: SP
+
+- title: WASPAA
+  year: 2023
+  id: waspaa23
+  link: http://waspaa.com
+  deadline: '2023-04-28 23:59:59'
+  abstract_deadline: 2023-04-21 23:59
+  timezone: UTC-12
+  place: New Paltz
+  date: October 22-25, 2023
+  start: 2023-10-22
+  end: 2023-10-25
+  sub: SP
+  note: Mandatory abstract deadline on Apr 21, 2023. More info <a href='https://waspaa.com/call-for-papers-2/'>here</a>.
+
+- title: ISMIR
+  year: 2023
+  id: ismir23
+  link: https://drive.google.com/file/d/17lQ5sx5dKvm-FPjkzTLo7Qbz0uoLycAF/view?usp=share_link
+  deadline: '2023-04-14 23:59:59'
+  abstract_deadline: 2023-04-06 23:59
+  timezone: UTC-12
+  date: November 5 - 9, 2023
+  place: Milan, Italy
+  note: '<b>NOTE</b>: Mandatory abstract deadline on April 6, 20223. More info <a href=''https://drive.google.com/file/d/17lQ5sx5dKvm-FPjkzTLo7Qbz0uoLycAF/view?usp=share_link''>here</a>.'
+  sub: ML
+
+- title: CMMR
+  year: 2023
+  id: cmmr23
+  link: https://cmmr2023.gttm.jp/
+  deadline: '2023-04-30 23:59:59'
+  timezone: UTC-12
+  date: November 13 - 17, 2023
+  place: Tokyo, Japan
+  start: 2023-11-13
+  end: 2023-11-17
   sub: SP
 
