@@ -33,8 +33,26 @@
   deadline: '2023-05-08 23:59:59'
   timezone: UTC-0
   date: August 30 - September 1, 2023
+  start: 2023-08-30
+  end: 2023-09-01
   place: Edinburgh, UK
   sub: SP
+  
+- title: DCASE
+  year: 2023
+  id: dcase23
+  full_name: Workshop on Detection and Classification of Acoustic Scenes and Events
+  link: https://dcase.community/workshop2023/index/
+  deadline: '2023-06-14 23:59:00'
+  abstract_deadline: '2023-06-07 23:59:00'
+  timezone: UTC-12
+  place: Tampere, Finland
+  date: September 21-22, 2023
+  start: 2023-09-21
+  end: 2023-09-22
+  sub: ML
+  note: Mandatory abstract deadline on June 7, 2023.
+  
 - title: ACML
   year: 2023
   id: acml23
@@ -46,6 +64,18 @@
   start: 2023-11-11
   end: 2023-11-14
   sub: ML
+
+- title: DLfM
+  year: 2023
+  id: dlfm23
+  link: https://dlfm.web.ox.ac.uk/
+  deadline: '2023-06-30 23:59:59'
+  timezone: UTC-12
+  date: November 10, 2023
+  start: 2023-11-10
+  end: 2023-11-10
+  place: Milan, Italy
+  sub: SP
   
 - title: SIGIR-AP
   year: 2023
