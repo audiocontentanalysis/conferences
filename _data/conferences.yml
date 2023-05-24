@@ -1,42 +1,4 @@
 ---
-
-- title: NeurIPS
-  year: 2023
-  id: neurips23
-  link: https://neurips.cc/Conferences/2023/
-  deadline: '2023-05-17 20:00:00'
-  abstract_deadline: '2023-05-11 20:00:00'
-  timezone: UTC
-  place: New Orleans, Louisiana, USA
-  date: December 10 - December 16, 2023
-  start: 2023-12-10
-  end: 2023-12-16
-  sub: ML
-  note: Mandatory abstract deadline on May 11, 2023
-
-- title: ICMC
-  year: 2023
-  id: icmc23
-  link: http://icmc2023.org.cn/_pc_/home_page/index
-  deadline: '2023-05-20 23:59:59'
-  timezone: UTC+08
-  place: Shenzhen, China
-  date: October 15-20, 2023
-  start: 2023-10-22
-  end: 2023-10-25
-  sub: SP
-
-- title: AudioMostly
-  year: 2023
-  id: audiomostly23
-  link: https://audiomostly.com/2023
-  deadline: '2023-05-08 23:59:59'
-  timezone: UTC-0
-  date: August 30 - September 1, 2023
-  start: 2023-08-30
-  end: 2023-09-01
-  place: Edinburgh, UK
-  sub: SP
   
 - title: DCASE
   year: 2023
@@ -91,6 +53,18 @@
   end: 2023-11-29
   sub: ML
   note: Mandatory abstract deadline on June 26, 2023. More info <a href='http://www.sigir-ap.org/sigir-ap-2023/call-for-papers/'>here</a>.
+
+- title: MMRP23
+  year: 2023
+  id: mmrp23
+  link: http://mmrp23.lim.di.unimi.it/
+  deadline: '2023-07-15 23:59:59'
+  timezone: UTC-12
+  place: Pisa, Italy
+  date: October 15-20, 2023
+  start: 2023-10-27
+  end: 2023-10-27
+  sub: SP
   
 - title: AAAI
   year: 2024
@@ -222,6 +196,18 @@
   place: Dublin, Ireland
   sub: SP
 
+- title: AudioMostly
+  year: 2023
+  id: audiomostly23
+  link: https://audiomostly.com/2023
+  deadline: '2023-05-08 23:59:59'
+  timezone: UTC-0
+  date: August 30 - September 1, 2023
+  start: 2023-08-30
+  end: 2023-09-01
+  place: Edinburgh, UK
+  sub: SP
+
 - title: AIMC
   year: 2023
   id: aimc23
@@ -253,6 +239,18 @@
   timezone: UTC-12
   date: September 4-8, 2023
   place: Copenhagen, Denmark
+  sub: SP
+
+- title: ICMC
+  year: 2023
+  id: icmc23
+  link: http://icmc2023.org.cn/_pc_/home_page/index
+  deadline: '2023-05-20 23:59:59'
+  timezone: UTC+08
+  place: Shenzhen, China
+  date: October 15-20, 2023
+  start: 2023-10-22
+  end: 2023-10-25
   sub: SP
 
 - title: WASPAA
@@ -292,4 +290,18 @@
   start: 2023-11-13
   end: 2023-11-17
   sub: SP
+
+- title: NeurIPS
+  year: 2023
+  id: neurips23
+  link: https://neurips.cc/Conferences/2023/
+  deadline: '2023-05-17 20:00:00'
+  abstract_deadline: '2023-05-11 20:00:00'
+  timezone: UTC
+  place: New Orleans, Louisiana, USA
+  date: December 10 - December 16, 2023
+  start: 2023-12-10
+  end: 2023-12-16
+  sub: ML
+  note: Mandatory abstract deadline on May 11, 2023
 
