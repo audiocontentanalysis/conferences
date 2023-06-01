@@ -14,6 +14,18 @@
   end: 2023-09-22
   sub: ML
   note: Mandatory abstract deadline on June 7, 2023.
+
+- title: MMSP
+  year: 2023
+  id: mmsp23
+  link: https://attend.ieee.org/mmsp-2023/
+  deadline: '2023-06-14 23:59:59'
+  timezone: UTC+02
+  place: Poitiers, France
+  date: September 27-29, 2023
+  start: 2023-09-27
+  end: 2023-09-29
+  sub: SP
   
 - title: ACML
   year: 2023
@@ -276,6 +288,8 @@
   timezone: UTC-12
   date: November 5 - 9, 2023
   place: Milan, Italy
+  start: 2023-11-05
+  end: 2023-11-09
   note: '<b>NOTE</b>: Mandatory abstract deadline on April 6, 20223. More info <a href=''https://drive.google.com/file/d/17lQ5sx5dKvm-FPjkzTLo7Qbz0uoLycAF/view?usp=share_link''>here</a>.'
   sub: ML
 
