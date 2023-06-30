@@ -1,49 +1,11 @@
 ---
-  
-- title: DCASE
-  year: 2023
-  id: dcase23
-  full_name: Workshop on Detection and Classification of Acoustic Scenes and Events
-  link: https://dcase.community/workshop2023/index/
-  deadline: '2023-06-14 23:59:00'
-  abstract_deadline: '2023-06-07 23:59:00'
-  timezone: UTC-12
-  place: Tampere, Finland
-  date: September 21-22, 2023
-  start: 2023-09-21
-  end: 2023-09-22
-  sub: ML
-  note: Mandatory abstract deadline on June 7, 2023.
 
-- title: MMSP
-  year: 2023
-  id: mmsp23
-  link: https://attend.ieee.org/mmsp-2023/
-  deadline: '2023-06-14 23:59:59'
-  timezone: UTC+02
-  place: Poitiers, France
-  date: September 27-29, 2023
-  start: 2023-09-27
-  end: 2023-09-29
-  sub: SP
-  
-- title: ACML
-  year: 2023
-  id: acml23
-  link: https://www.acml-conf.org/2023
-  deadline: '2023-06-23 23:59:00'
-  timezone: UTC-12
-  place: Istanbul, Türkiye
-  date: November 11-14, 2023
-  start: 2023-11-11
-  end: 2023-11-14
-  sub: ML
 
 - title: DLfM
   year: 2023
   id: dlfm23
   link: https://dlfm.web.ox.ac.uk/
-  deadline: '2023-06-30 23:59:59'
+  deadline: '2023-07-07 23:59:59'
   timezone: UTC-12
   date: November 10, 2023
   start: 2023-11-10
@@ -252,7 +214,34 @@
   date: September 4-8, 2023
   place: Copenhagen, Denmark
   sub: SP
-
+ 
+- title: DCASE
+  year: 2023
+  id: dcase23
+  full_name: Workshop on Detection and Classification of Acoustic Scenes and Events
+  link: https://dcase.community/workshop2023/index/
+  deadline: '2023-06-14 23:59:00'
+  abstract_deadline: '2023-06-07 23:59:00'
+  timezone: UTC-12
+  place: Tampere, Finland
+  date: September 21-22, 2023
+  start: 2023-09-21
+  end: 2023-09-22
+  sub: ML
+  note: Mandatory abstract deadline on June 7, 2023.
+ 
+- title: MMSP
+  year: 2023
+  id: mmsp23
+  link: https://attend.ieee.org/mmsp-2023/
+  deadline: '2023-06-14 23:59:59'
+  timezone: UTC+02
+  place: Poitiers, France
+  date: September 27-29, 2023
+  start: 2023-09-27
+  end: 2023-09-29
+  sub: SP
+  
 - title: ICMC
   year: 2023
   id: icmc23
@@ -293,6 +282,18 @@
   note: '<b>NOTE</b>: Mandatory abstract deadline on April 6, 20223. More info <a href=''https://drive.google.com/file/d/17lQ5sx5dKvm-FPjkzTLo7Qbz0uoLycAF/view?usp=share_link''>here</a>.'
   sub: ML
 
+- title: ACML
+  year: 2023
+  id: acml23
+  link: https://www.acml-conf.org/2023
+  deadline: '2023-06-23 23:59:00'
+  timezone: UTC-12
+  place: Istanbul, Türkiye
+  date: November 11-14, 2023
+  start: 2023-11-11
+  end: 2023-11-14
+  sub: ML
+  
 - title: CMMR
   year: 2023
   id: cmmr23
