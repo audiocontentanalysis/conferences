@@ -1,6 +1,5 @@
 ---
 
-
 - title: MMRP
   year: 2023
   id: mmrp23
@@ -39,6 +38,20 @@
   start: 2024-04-14
   end: 2024-04-19
   sub: SP
+
+- title: ICLR
+  year: 2024
+  id: iclr24
+  link: https://iclr.cc/Conferences/2024
+  deadline: '2023-09-28 23:59:59'
+  abstract_deadline: '2023-09-21 23:59:59'
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: May 07-11, 2024
+  start: 2024-05-07
+  end: 2024-05-11
+  sub: ML
+  note: Mandatory abstract deadline on September 21, 2023. More info <a href='https://iclr.cc/Conferences/2024/CallForPapers'>here</a>.
 
 - title: IJCAI
   year: 2023
