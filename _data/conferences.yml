@@ -1,138 +1,16 @@
 ---
-
-- title: ISM
-  year: 2023
-  id: ism23
-  link: http://www.ieee-ism.org/
-  deadline: '2023-09-18 23:59:59'
-  timezone: UTC-07
-  place: Laguna Hills, California
-  date: December 11-13, 2023
-  start: 2023-12-11
-  end: 2023-12-13
-  sub: SP
-
-- title: ICASSP
+- title: ICPRAI
   year: 2024
-  id: icassp24
-  link: https://2024.ieeeicassp.org/
-  deadline: '2023-09-06 23:59:59'
-  timezone: UTC-12
-  date: April 14-19, 2024
-  place: Seoul, Korea
-  start: 2024-04-14
-  end: 2024-04-19
-  sub: SP
-
-- title: ICLR
-  year: 2024
-  id: iclr24
-  link: https://iclr.cc/Conferences/2024
-  deadline: '2023-09-28 23:59:59'
-  abstract_deadline: '2023-09-21 23:59:59'
-  timezone: UTC-12
-  place: Vienna, Austria
-  date: May 07-11, 2024
-  start: 2024-05-07
-  end: 2024-05-11
+  id: icprai24
+  full_name: International Conference on Pattern Recognition and Artificial Intelligence
+  link: http://icprai2024.org/
+  deadline: '2023-12-15 23:59:59'
+  timezone: UTC+9
+  place: Jeju Island, South Korea
+  date: Jun 18-21, 2024
+  start: 2024-06-18
+  end: 2024-06-21
   sub: ML
-  note: Mandatory abstract deadline on September 21, 2023. More info <a href='https://iclr.cc/Conferences/2024/CallForPapers'>here</a>.
-
-- title: IJCAI
-  year: 2023
-  id: ijcai23
-  link: https://ijcai-23.org/
-  deadline: '2023-01-18 23:59:59'
-  timezone: UTC-12
-  place: Cape Town, South Africa
-  date: August 19-25, 2023
-  start: 2023-08-19
-  end: 2023-08-25
-  hindex: 120
-  sub: ML
-  note: Mandatory abstract deadline on Jan 11, 2023, and supplementary material deadline on Jan 23, 2023. More info <a href='https://ijcai-23.org/'>here</a>.
-
-- title: Interspeech
-  year: 2023
-  id: interspeech23
-  link: https://www.interspeech2023.org
-  deadline: '2023-03-01 23:59:59'
-  timezone: UTC-0
-  date: August 20 - 24, 2023
-  place: Dublin, Ireland
-  sub: SP
-
-- title: AudioMostly
-  year: 2023
-  id: audiomostly23
-  link: https://audiomostly.com/2023
-  deadline: '2023-05-08 23:59:59'
-  timezone: UTC-0
-  date: August 30 - September 1, 2023
-  start: 2023-08-30
-  end: 2023-09-01
-  place: Edinburgh, UK
-  sub: SP
-
-- title: AIMC
-  year: 2023
-  id: aimc23
-  full_name: International Conference on AI and Musical Creativity
-  link: https://aimc2023.pubpub.org/
-  deadline: '2023-03-15 23:59:59'
-  timezone: UTC-0
-  place: Sussex, UK
-  date: August 31 - September 1, 2023
-  start: 2023-08-31
-  end: 2023-09-01
-  abstract_deadline: '2023-03-07 23:59:59'
-  note: '<b>NOTE</b>: Mandatory abstract deadline on March 7, 2023. More info <a href=''https://aimc2023.pubpub.org/cfp''>here</a>.'
-
-- title: EUSIPCO
-  year: 2023
-  id: eusipco23
-  link: http://eusipco2023.org/index.html
-  deadline: '2023-03-10 23:59:59'
-  timezone: UTC-12
-  date: September 4-8, 2023
-  place: Helsinki, Finland
-  sub: SP
-- title: DAFx
-  year: 2023
-  id: dafx23
-  link: https://dafx23.create.aau.dk
-  deadline: '2023-03-31 23:59:59'
-  timezone: UTC-12
-  date: September 4-8, 2023
-  place: Copenhagen, Denmark
-  sub: SP
- 
-- title: DCASE
-  year: 2023
-  id: dcase23
-  full_name: Workshop on Detection and Classification of Acoustic Scenes and Events
-  link: https://dcase.community/workshop2023/index/
-  deadline: '2023-06-14 23:59:00'
-  abstract_deadline: '2023-06-07 23:59:00'
-  timezone: UTC-12
-  place: Tampere, Finland
-  date: September 21-22, 2023
-  start: 2023-09-21
-  end: 2023-09-22
-  sub: ML
-  note: Mandatory abstract deadline on June 7, 2023.
- 
-- title: MMSP
-  year: 2023
-  id: mmsp23
-  link: https://attend.ieee.org/mmsp-2023/
-  deadline: '2023-06-14 23:59:59'
-  timezone: UTC+02
-  place: Poitiers, France
-  date: September 27-29, 2023
-  start: 2023-09-27
-  end: 2023-09-29
-  sub: SP
 
 - title: MMRP
   year: 2023
@@ -250,6 +128,18 @@
   end: 2023-12-16
   sub: ML
   note: Mandatory abstract deadline on May 11, 2023
+
+- title: ISM
+  year: 2023
+  id: ism23
+  link: http://www.ieee-ism.org/
+  deadline: '2023-09-18 23:59:59'
+  timezone: UTC-07
+  place: Laguna Hills, California
+  date: December 11-13, 2023
+  start: 2023-12-11
+  end: 2023-12-13
+  sub: SP
   
 - title: AAAI
   year: 2024
@@ -265,4 +155,30 @@
   end: 2024-02-28
   sub: ML
   note: Mandatory abstract deadline on Aug 08, 2023, and supplementary material deadline on Aug 18, 2023. More info <a href='https://aaai.org/aaai-conference/'>here</a>.
+
+- title: ICASSP
+  year: 2024
+  id: icassp24
+  link: https://2024.ieeeicassp.org/
+  deadline: '2023-09-06 23:59:59'
+  timezone: UTC-12
+  date: April 14-19, 2024
+  place: Seoul, Korea
+  start: 2024-04-14
+  end: 2024-04-19
+  sub: SP
+
+- title: ICLR
+  year: 2024
+  id: iclr24
+  link: https://iclr.cc/Conferences/2024
+  deadline: '2023-09-28 23:59:59'
+  abstract_deadline: '2023-09-21 23:59:59'
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: May 07-11, 2024
+  start: 2024-05-07
+  end: 2024-05-11
+  sub: ML
+  note: Mandatory abstract deadline on September 21, 2023. More info <a href='https://iclr.cc/Conferences/2024/CallForPapers'>here</a>.
 
