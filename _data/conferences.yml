@@ -11,30 +11,37 @@
   start: 2024-06-18
   end: 2024-06-21
   sub: ML
-
-- title: MMRP
-  year: 2023
-  id: mmrp23
-  link: http://mmrp23.lim.di.unimi.it/
-  deadline: '2023-07-31 23:59:59'
-  timezone: UTC-12
-  place: Pisa, Italy
-  date: October 15-20, 2023
-  start: 2023-10-27
-  end: 2023-10-27
-  sub: SP
   
-- title: ICMC
-  year: 2023
-  id: icmc23
-  link: http://icmc2023.org.cn/_pc_/home_page/index
-  deadline: '2023-05-20 23:59:59'
-  timezone: UTC+08
-  place: Shenzhen, China
-  date: October 15-20, 2023
-  start: 2023-10-22
-  end: 2023-10-25
-  sub: SP
+- title: SIGIR
+  year: 2024
+  id: sigir24
+  link: https://sigir-2024.github.io
+  deadline: '2024-01-25 23:59:00'
+  abstract_deadline: '2024-01-18 23:59:00'
+  timezone: UTC-12
+  place: Washington D.C., USA
+  date: July 14-18, 2024
+  start: 2024-07-14
+  end: 2024-07-18
+  hindex: 66
+  sub: DM
+  note: Mandatory abstract deadline on January 18, 2024. More info <a href='https://sigir-2024.github.io/call_for_papers.html'>here</a>.
+
+- title: IJCAI-PRICAI
+  year: 2024
+  id: ijcai24
+  full_name: International Joint Conference on Artificial Intelligence and Pacific Rim International Conference on Artificial Intelligence
+  link: https://ijcai24.org/
+  deadline: '2024-01-17 23:59:59'
+  abstract_deadline: '2024-01-10 23:59:59'
+  timezone: UTC-12
+  place: Jeju, South Korea
+  date: August 03-09, 2024
+  start: 2024-08-03
+  end: 2024-08-09
+  hindex: 133
+  sub: ML
+  note: Mandatory abstract deadline on January 10, 2024 and optional supplementary material deadline on January 24, 2024. More info <a href='https://ijcai24.org/'>here</a>.
 
 - title: WASPAA
   year: 2023
