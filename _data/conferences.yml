@@ -42,6 +42,19 @@
   sub: ML
   note: Mandatory abstract deadline on January 18, 2024. More info <a href='https://sigir-2024.github.io/call_for_papers.html'>here</a>.
   
+- title: CSME
+  year: 2024
+  id: csme24
+  full_name: 5th International Special Session on Computer Supported Music Education at CSEDU
+  link: https://csedu.scitevents.org/CSME.aspx
+  deadline: '2024-02-29 23:59:00'
+  timezone: UTC+01
+  place: Angers, France
+  date: May 2-4, 2024
+  start: 2024-05-02
+  end: 2024-05-04
+  sub: ML
+  
 - title: IS2
   year: 2024
   id: is224
