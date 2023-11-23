@@ -1,4 +1,5 @@
 ---
+
 - title: ICPRAI
   year: 2024
   id: icprai24
@@ -41,6 +42,19 @@
   end: 2024-07-18
   sub: ML
   note: Mandatory abstract deadline on January 18, 2024. More info <a href='https://sigir-2024.github.io/call_for_papers.html'>here</a>.
+
+- title: DLfM
+  year: 2024
+  id: dlfm24
+  full_name: International Conference on Digital Libraries for Musicology
+  link: https://dlfm.web.ox.ac.uk/
+  deadline: '2024-02-12 23:59:59'
+  timezone: UTC-12
+  place: Stellenbosch, South Africa
+  date: Jun 23-28, 2024
+  start: 2024-06-23
+  end: 2024-06-28
+  sub: SP
   
 - title: CSME
   year: 2024
