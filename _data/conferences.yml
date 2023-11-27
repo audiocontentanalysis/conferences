@@ -68,7 +68,35 @@
   start: 2024-05-02
   end: 2024-05-04
   sub: ML
+
+- title: SMC
+  year: 2024
+  id: smc24
+  full_name: Sound and Music Computing Conference
+  link: https://smcnetwork.org/smc2024/
+  deadline: '2024-03-11 23:59:59'
+  abstract_deadline: '2024-02-24 23:59:59'
+  timezone: UTC-12
+  place: Porto, Portugal
+  date: July 04-06, 2024
+  start: 2024-07-04
+  end: 2024-07-06
+  sub: ML
+  note: Mandatory abstract deadline on February 24, 2024. More info <a href='https://smcnetwork.org/smc2024/#submit'>here</a>.
   
+- title: DAFx
+  year: 2024
+  id: dafx24
+  full_name: Conference on Digital Audio Effects
+  link: https://dafx24.surrey.ac.uk/call-for-papers/
+  deadline: '2024-03-20 23:59:00'
+  timezone: UTC+00
+  place: Surrey, UK
+  date: September 4-6, 2024
+  start: 2024-09-04
+  end: 2024-09-06
+  sub: SP
+   
 - title: IS2
   year: 2024
   id: is224
@@ -81,21 +109,6 @@
   start: 2024-09-30
   end: 2024-10-02
   sub: ML
-
-- title: SIGIR-AP
-  year: 2023
-  id: sigirap23
-  full_name: 1st International ACM SIGIR Conference on Information Retrieval in the Asia Pacific
-  link: http://www.sigir-ap.org/sigir-ap-2023/
-  deadline: '2023-07-03 23:59:00'
-  abstract_deadline: '2023-06-26 23:59:00'
-  timezone: UTC-12
-  place: Beijing, China
-  date: November 26-29, 2023
-  start: 2023-11-26
-  end: 2023-11-29
-  sub: ML
-  note: Mandatory abstract deadline on June 26, 2023. More info <a href='http://www.sigir-ap.org/sigir-ap-2023/call-for-papers/'>here</a>.
 
 - title: NeurIPS
   year: 2023
