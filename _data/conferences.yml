@@ -55,6 +55,18 @@
   end: 2024-07-27
   sub: ML
 
+- title: AIMC
+  year: 2024
+  id: aimc24
+  link: https://aimc2024.pubpub.org/
+  deadline: '2024-02-15 11:59:00'
+  timezone: UTC+00
+  place: Oxford, UK
+  date: September 9-11, 2024
+  start: 2024-09-09
+  end: 2024-09-11
+  sub: ML
+
 - title: DLfM
   year: 2024
   id: dlfm24
