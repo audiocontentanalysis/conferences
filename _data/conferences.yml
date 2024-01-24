@@ -1,48 +1,5 @@
 ---
 
-- title: ICPRAI
-  year: 2024
-  id: icprai24
-  full_name: International Conference on Pattern Recognition and Artificial Intelligence
-  link: http://icprai2024.org/
-  deadline: '2023-12-15 23:59:59'
-  timezone: UTC+9
-  place: Jeju Island, South Korea
-  date: Jun 18-21, 2024
-  start: 2024-06-18
-  end: 2024-06-21
-  sub: ML
-
-- title: IJCAI
-  year: 2024
-  id: ijcai24
-  full_name: International Joint Conference on Artificial Intelligence
-  link: https://ijcai24.org/
-  deadline: '2024-01-17 23:59:59'
-  abstract_deadline: '2024-01-10 23:59:59'
-  timezone: UTC-12
-  place: Jeju, South Korea
-  date: August 03-09, 2024
-  start: 2024-08-03
-  end: 2024-08-09
-  sub: ML
-  note: Mandatory abstract deadline on January 10, 2024 and optional supplementary material deadline on January 24, 2024. More info <a href='https://ijcai24.org/'>here</a>.
-  
-- title: SIGIR
-  year: 2024
-  id: sigir24
-  full_name: ACM SIGIR Conference on Research and Development in Information Retrieval 
-  link: https://sigir-2024.github.io
-  deadline: '2024-01-25 23:59:00'
-  abstract_deadline: '2024-01-18 23:59:00'
-  timezone: UTC-12
-  place: Washington D.C., USA
-  date: July 14-18, 2024
-  start: 2024-07-14
-  end: 2024-07-18
-  sub: ML
-  note: Mandatory abstract deadline on January 18, 2024. More info <a href='https://sigir-2024.github.io/call_for_papers.html'>here</a>.
-
 - title: ICML
   year: 2024
   id: icml24
@@ -53,6 +10,19 @@
   date: July 21-27, 2024
   start: 2024-07-21
   end: 2024-07-27
+  sub: ML
+
+- title: KDD
+  year: 2024
+  id: kdd24  
+  link: https://kdd2024.kdd.org/
+  deadline: '2024-02-08 23:59:59'
+  abstract_deadline: '2024-02-01 23:59:59'
+  timezone: UTC-12
+  place: Barcelona, Spain
+  date: August 25-29, 2024
+  start: 2024-08-25
+  end: 2024-08-29
   sub: ML
 
 - title: AIMC
@@ -133,7 +103,34 @@
   start: 2024-09-04
   end: 2024-09-06
   sub: SP
-
+  
+- title: AIMS
+  year: 2024
+  id: aims24
+  full_name: International Conference in AI Music Studies
+  link: https://boblsturm.github.io/aimusicstudies2024/
+  deadline: '2024-03-28 23:59:00'
+  timezone: UTC+01
+  place: Stockholm, Sweden
+  date: December 10-12, 2024
+  start: 2024-12-10
+  end: 2024-12-12
+  sub: ML
+  
+- title: MM
+  year: 2024
+  id: mm24
+  link: https://2024.acmmm.org/
+  deadline: '2024-04-08 23:59:59'
+  abstract_deadline: '2024-04-12 23:59:59'
+  timezone: UTC-12
+  place: Melbourne, Australia
+  data: October 28 - November 1, 2024
+  start: 2024-10-28
+  end: 2024-11-01
+  sub: SP
+  note: Mandatory abstract deadline on April 8, 2024. More info <a href='https://2024.acmmm.org/regular-papers'>here</a>.
+  
 - title: ECAI
   year: 2024
   id: ecai24
@@ -202,4 +199,47 @@
   end: 2024-05-11
   sub: ML
   note: Mandatory abstract deadline on September 21, 2023. More info <a href='https://iclr.cc/Conferences/2024/CallForPapers'>here</a>.
+
+- title: ICPRAI
+  year: 2024
+  id: icprai24
+  full_name: International Conference on Pattern Recognition and Artificial Intelligence
+  link: http://icprai2024.org/
+  deadline: '2023-12-15 23:59:59'
+  timezone: UTC+9
+  place: Jeju Island, South Korea
+  date: Jun 18-21, 2024
+  start: 2024-06-18
+  end: 2024-06-21
+  sub: ML
+  
+- title: SIGIR
+  year: 2024
+  id: sigir24
+  full_name: ACM SIGIR Conference on Research and Development in Information Retrieval 
+  link: https://sigir-2024.github.io
+  deadline: '2024-01-25 23:59:00'
+  abstract_deadline: '2024-01-18 23:59:00'
+  timezone: UTC-12
+  place: Washington D.C., USA
+  date: July 14-18, 2024
+  start: 2024-07-14
+  end: 2024-07-18
+  sub: ML
+  note: Mandatory abstract deadline on January 18, 2024. More info <a href='https://sigir-2024.github.io/call_for_papers.html'>here</a>.
+
+- title: IJCAI
+  year: 2024
+  id: ijcai24
+  full_name: International Joint Conference on Artificial Intelligence
+  link: https://ijcai24.org/
+  deadline: '2024-01-17 23:59:59'
+  abstract_deadline: '2024-01-10 23:59:59'
+  timezone: UTC-12
+  place: Jeju, South Korea
+  date: August 03-09, 2024
+  start: 2024-08-03
+  end: 2024-08-09
+  sub: ML
+  note: Mandatory abstract deadline on January 10, 2024 and optional supplementary material deadline on January 24, 2024. More info <a href='https://ijcai24.org/'>here</a>.
 
