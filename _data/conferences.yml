@@ -42,12 +42,14 @@
   id: dlfm24
   full_name: International Conference on Digital Libraries for Musicology
   link: https://dlfm.web.ox.ac.uk/
-  deadline: '2024-02-12 23:59:59'
+  deadline: '2024-02-22 23:59:59'
+  abstract_deadline: '2024-02-12 23:59:59'
   timezone: UTC-12
   place: Stellenbosch, South Africa
   date: Jun 23-28, 2024
   start: 2024-06-23
   end: 2024-06-28
+  note: Mandatory abstract deadline on February 12, 2024. More info <a href='https://dlfm.web.ox.ac.uk/'>here</a>.
   sub: SP
   
 - title: CSME
