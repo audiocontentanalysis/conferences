@@ -64,6 +64,18 @@
   start: 2024-05-02
   end: 2024-05-04
   sub: ML
+
+- title: InterSpeech
+  year: 2024
+  id: interspeech24  
+  link: https://interspeech2024.org
+  deadline: '2024-03-02 23:59:59'
+  timezone: UTC+02
+  place: Kos, Greece
+  date: September 1-5, 2024
+  start: 2024-09-01
+  end: 2024-09-05
+  sub: SP
   
 - title: EUSIPCO
   year: 2024
