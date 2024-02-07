@@ -149,7 +149,7 @@
   year: 2024
   id: ismir24  # title as lower case + last two digits of year
   full_name: The 25th International Society for Music Information Retrieval Conference (ISMIR 2024 # full conference name
-  link: link-to-website.com
+  link: https://ismir.net/
   deadline: 2024-04-12 23:59
   abstract_deadline: 2024-04-05 23:59
   timezone: UTC-12
@@ -158,6 +158,7 @@
   start: 2024-11-10
   end: 2024-11-14
   sub: ML
+  note: For now here is the announcement of the call for papers: https://groups.google.com/a/ismir.net/g/community/c/RFRZYe9DGwI
   
 - title: ECAI
   year: 2024
