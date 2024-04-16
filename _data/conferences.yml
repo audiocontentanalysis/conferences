@@ -1,165 +1,18 @@
 ---
-
-- title: DLfM
-  year: 2024
-  id: dlfm24
-  full_name: International Conference on Digital Libraries for Musicology
-  link: https://dlfm.web.ox.ac.uk/
-  deadline: '2024-02-22 23:59:59'
-  abstract_deadline: '2024-02-12 23:59:59'
-  timezone: UTC-12
-  place: Stellenbosch, South Africa
-  date: Jun 23-28, 2024
-  start: 2024-06-23
-  end: 2024-06-28
-  note: Mandatory abstract deadline on February 12, 2024. More info <a href='https://dlfm.web.ox.ac.uk/'>here</a>.
-  sub: SP
   
-- title: CSME
+- title: RecSys
   year: 2024
-  id: csme24
-  full_name: 5th International Special Session on Computer Supported Music Education at CSEDU
-  link: https://csedu.scitevents.org/CSME.aspx
-  deadline: '2024-02-29 23:59:00'
-  timezone: UTC+01
-  place: Angers, France
-  date: May 2-4, 2024
-  start: 2024-05-02
-  end: 2024-05-04
+  id: recsys24
+  link: https://recsys.acm.org/recsys24
+  deadline: '2024-04-29 23:59:59'
+  abstract_deadline: '2024-04-22 23:59:59'
+  timezone: UTC-01
+  place: Bari, Italy
+  data: October 14 - 18, 2024
+  start: 2024-10-14
+  end: 2024-14-18
   sub: ML
-
-- title: InterSpeech
-  year: 2024
-  id: interspeech24  
-  link: https://interspeech2024.org
-  deadline: '2024-03-02 23:59:59'
-  timezone: UTC+02
-  place: Kos, Greece
-  date: September 1-5, 2024
-  start: 2024-09-01
-  end: 2024-09-05
-  sub: SP
-  
-- title: EUSIPCO
-  year: 2024
-  id: eusipco24
-  full_name: European Signal Processing Conference 
-  link: https://eusipcolyon.sciencesconf.org/
-  deadline: '2024-03-03 23:59:00'
-  timezone: UTC+01
-  place: Lyons, France
-  date: August 26-30, 2024
-  start: 2024-08-26
-  end: 2024-08-30
-  sub: SP
-
-- title: AIMC
-  year: 2024
-  id: aimc24
-  link: https://aimc2024.pubpub.org/
-  deadline: '2024-03-10 11:59:00'
-  timezone: UTC+00
-  place: Oxford, UK
-  date: September 9-11, 2024
-  start: 2024-09-09
-  end: 2024-09-11
-  sub: ML
-
-- title: SMC
-  year: 2024
-  id: smc24
-  full_name: Sound and Music Computing Conference
-  link: https://smcnetwork.org/smc2024/
-  deadline: '2024-03-11 23:59:59'
-  abstract_deadline: '2024-02-24 23:59:59'
-  timezone: UTC-12
-  place: Porto, Portugal
-  date: July 04-06, 2024
-  start: 2024-07-04
-  end: 2024-07-06
-  sub: SP
-  note: Mandatory abstract deadline on February 24, 2024. More info <a href='https://smcnetwork.org/smc2024/#submit'>here</a>.
-  
-- title: DAFx
-  year: 2024
-  id: dafx24
-  full_name: Conference on Digital Audio Effects
-  link: https://dafx24.surrey.ac.uk/call-for-papers/
-  deadline: '2024-03-20 23:59:00'
-  timezone: UTC+00
-  place: Surrey, UK
-  date: September 4-6, 2024
-  start: 2024-09-04
-  end: 2024-09-06
-  sub: SP
-
-- title: CBMI
-  year: 2024
-  id: cbmi24
-  full_name: International Conference on Content-based Multimedia Indexing 
-  link: https://cbmi2024.org/
-  deadline: '2024-03-22 23:59:59'
-  timezone: UTC+00
-  place: Reykjavik, Iceland
-  date: September 18-20, 2024
-  start: 2024-09-18
-  end: 2024-09-20
-  sub: SP
-  note: Special Session on Audio - Content based Indexing for audio and music. From analysis to synthesis.
-  
-- title: SAIM
-  year: 2024
-  id: saim24
-  full_name: AES International Symposium on AI and the Musician
-  link: https://csedu.scitevents.org/CSME.aspx
-  deadline: '2024-03-22 23:59:00'
-  timezone: UTC-05
-  place: Boston
-  date: June 6-8, 2024
-  start: 2024-06-06
-  end: 2024-06-08
-  sub: ML
-  
-- title: AIMS
-  year: 2024
-  id: aims24
-  full_name: International Conference in AI Music Studies
-  link: https://boblsturm.github.io/aimusicstudies2024/
-  deadline: '2024-03-28 23:59:00'
-  timezone: UTC+01
-  place: Stockholm, Sweden
-  date: December 10-12, 2024
-  start: 2024-12-10
-  end: 2024-12-12
-  sub: ML
-  
-- title: MM
-  year: 2024
-  id: mm24
-  link: https://2024.acmmm.org/
-  deadline: '2024-04-12 23:59:59'
-  abstract_deadline: '2024-04-08 23:59:59'
-  timezone: UTC-12
-  place: Melbourne, Australia
-  data: October 28 - November 1, 2024
-  start: 2024-10-28
-  end: 2024-11-01
-  sub: SP
-  note: Mandatory abstract deadline on April 8, 2024. More info <a href='https://2024.acmmm.org/regular-papers'>here</a>.
-  
-- title: ISMIR
-  year: 2024
-  id: ismir24
-  link: https://ismir2024.ismir.net/
-  deadline: '2024-04-12 23:59:59'
-  abstract_deadline: '2024-04-05 23:59:59'
-  timezone: UTC-12
-  place: San Francisco, USA
-  data: October 28 - November 1, 2024
-  start: 2024-11-10
-  end: 2024-11-14
-  sub: ML
-  note: Mandatory abstract deadline on April 5, 2024. More info <a href='https://ismir2024.ismir.net/'>here</a>.
+  note: Mandatory abstract deadline on April 22, 2024. More info <a href='https://recsys.acm.org/recsys24/dates/'>here</a>.
   
 - title: ECAI
   year: 2024
@@ -189,32 +42,18 @@
   end: 2024-10-02
   sub: ML
   
-- title: AAAI
+- title: CSME
   year: 2024
-  id: aaai24
-  full_name: AAAI Conference on Artificial Intelligence
-  link: https://aaai.org/aaai-conference/
-  deadline: '2023-08-15 23:59:59'
-  abstract_deadline: '2023-08-08 23:59:59'
-  timezone: UTC-12
-  place: Vancouver, Canada
-  date: February 20 - February 28, 2024
-  start: 2024-02-20
-  end: 2024-02-28
+  id: csme24
+  full_name: 5th International Special Session on Computer Supported Music Education at CSEDU
+  link: https://csedu.scitevents.org/CSME.aspx
+  deadline: '2024-02-29 23:59:00'
+  timezone: UTC+01
+  place: Angers, France
+  date: May 2-4, 2024
+  start: 2024-05-02
+  end: 2024-05-04
   sub: ML
-  note: Mandatory abstract deadline on Aug 08, 2023, and supplementary material deadline on Aug 18, 2023. More info <a href='https://aaai.org/aaai-conference/'>here</a>.
-
-- title: ICASSP
-  year: 2024
-  id: icassp24
-  link: https://2024.ieeeicassp.org/
-  deadline: '2023-09-06 23:59:59'
-  timezone: UTC-12
-  date: April 14-19, 2024
-  place: Seoul, Korea
-  start: 2024-04-14
-  end: 2024-04-19
-  sub: SP
 
 - title: ICLR
   year: 2024
@@ -229,6 +68,19 @@
   end: 2024-05-11
   sub: ML
   note: Mandatory abstract deadline on September 21, 2023. More info <a href='https://iclr.cc/Conferences/2024/CallForPapers'>here</a>.
+  
+- title: SAIM
+  year: 2024
+  id: saim24
+  full_name: AES International Symposium on AI and the Musician
+  link: https://csedu.scitevents.org/CSME.aspx
+  deadline: '2024-03-22 23:59:00'
+  timezone: UTC-05
+  place: Boston
+  date: June 6-8, 2024
+  start: 2024-06-06
+  end: 2024-06-08
+  sub: ML
 
 - title: ICPRAI
   year: 2024
@@ -242,6 +94,36 @@
   start: 2024-06-18
   end: 2024-06-21
   sub: ML
+
+- title: DLfM
+  year: 2024
+  id: dlfm24
+  full_name: International Conference on Digital Libraries for Musicology
+  link: https://dlfm.web.ox.ac.uk/
+  deadline: '2024-02-22 23:59:59'
+  abstract_deadline: '2024-02-12 23:59:59'
+  timezone: UTC-12
+  place: Stellenbosch, South Africa
+  date: Jun 23-28, 2024
+  start: 2024-06-23
+  end: 2024-06-28
+  note: Mandatory abstract deadline on February 12, 2024. More info <a href='https://dlfm.web.ox.ac.uk/'>here</a>.
+  sub: SP
+
+- title: SMC
+  year: 2024
+  id: smc24
+  full_name: Sound and Music Computing Conference
+  link: https://smcnetwork.org/smc2024/
+  deadline: '2024-03-11 23:59:59'
+  abstract_deadline: '2024-02-24 23:59:59'
+  timezone: UTC-12
+  place: Porto, Portugal
+  date: July 04-06, 2024
+  start: 2024-07-04
+  end: 2024-07-06
+  sub: SP
+  note: Mandatory abstract deadline on February 24, 2024. More info <a href='https://smcnetwork.org/smc2024/#submit'>here</a>.
   
 - title: SIGIR
   year: 2024
@@ -296,5 +178,110 @@
   date: August 25-29, 2024
   start: 2024-08-25
   end: 2024-08-29
+  sub: ML
+  
+- title: EUSIPCO
+  year: 2024
+  id: eusipco24
+  full_name: European Signal Processing Conference 
+  link: https://eusipcolyon.sciencesconf.org/
+  deadline: '2024-03-03 23:59:00'
+  timezone: UTC+01
+  place: Lyons, France
+  date: August 26-30, 2024
+  start: 2024-08-26
+  end: 2024-08-30
+  sub: SP
+
+- title: InterSpeech
+  year: 2024
+  id: interspeech24  
+  link: https://interspeech2024.org
+  deadline: '2024-03-02 23:59:59'
+  timezone: UTC+02
+  place: Kos, Greece
+  date: September 1-5, 2024
+  start: 2024-09-01
+  end: 2024-09-05
+  sub: SP
+  
+- title: DAFx
+  year: 2024
+  id: dafx24
+  full_name: Conference on Digital Audio Effects
+  link: https://dafx24.surrey.ac.uk/call-for-papers/
+  deadline: '2024-03-20 23:59:00'
+  timezone: UTC+00
+  place: Surrey, UK
+  date: September 4-6, 2024
+  start: 2024-09-04
+  end: 2024-09-06
+  sub: SP
+
+- title: AIMC
+  year: 2024
+  id: aimc24
+  link: https://aimc2024.pubpub.org/
+  deadline: '2024-03-10 11:59:00'
+  timezone: UTC+00
+  place: Oxford, UK
+  date: September 9-11, 2024
+  start: 2024-09-09
+  end: 2024-09-11
+  sub: ML
+
+- title: CBMI
+  year: 2024
+  id: cbmi24
+  full_name: International Conference on Content-based Multimedia Indexing 
+  link: https://cbmi2024.org/
+  deadline: '2024-03-22 23:59:59'
+  timezone: UTC+00
+  place: Reykjavik, Iceland
+  date: September 18-20, 2024
+  start: 2024-09-18
+  end: 2024-09-20
+  sub: SP
+  note: Special Session on Audio - Content based Indexing for audio and music. From analysis to synthesis.
+  
+- title: MM
+  year: 2024
+  id: mm24
+  link: https://2024.acmmm.org/
+  deadline: '2024-04-12 23:59:59'
+  abstract_deadline: '2024-04-08 23:59:59'
+  timezone: UTC-12
+  place: Melbourne, Australia
+  data: October 28 - November 1, 2024
+  start: 2024-10-28
+  end: 2024-11-01
+  sub: SP
+  note: Mandatory abstract deadline on April 8, 2024. More info <a href='https://2024.acmmm.org/regular-papers'>here</a>.
+  
+- title: ISMIR
+  year: 2024
+  id: ismir24
+  link: https://ismir2024.ismir.net/
+  deadline: '2024-04-12 23:59:59'
+  abstract_deadline: '2024-04-05 23:59:59'
+  timezone: UTC-12
+  place: San Francisco, USA
+  data: November 10 - 14, 2024
+  start: 2024-11-10
+  end: 2024-11-14
+  sub: ML
+  note: Mandatory abstract deadline on April 5, 2024. More info <a href='https://ismir2024.ismir.net/'>here</a>.
+  
+- title: AIMS
+  year: 2024
+  id: aims24
+  full_name: International Conference in AI Music Studies
+  link: https://boblsturm.github.io/aimusicstudies2024/
+  deadline: '2024-03-28 23:59:00'
+  timezone: UTC+01
+  place: Stockholm, Sweden
+  date: December 10-12, 2024
+  start: 2024-12-10
+  end: 2024-12-12
   sub: ML
 
