@@ -25,6 +25,21 @@
   start: 2024-09-18
   end: 2024-09-20
   sub: SP
+
+- title: NeurIPS
+  year: 2024
+  id: neurips24
+  full_name: Conference on Neural Information Processing Systems
+  link: https://nips.cc/Conferences/2024
+  deadline: '2024-05-22 23:59:59'
+  abstract_deadline: '2024-05-15 23:59:59'
+  timezone: UTC
+  place: Vancouver, Canada
+  date: December 9 - December 15, 2024
+  start: 2024-12-09
+  end: 2023-12-15
+  sub: ML
+  note: Mandatory abstract deadline on May 15, 2024
   
 - title: IS2
   year: 2024
