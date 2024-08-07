@@ -159,19 +159,6 @@
   end: 2024-09-09
   sub: ML
 
-- title: MML
-  year: 2024
-  id: mml24
-  full_name: International Workshop on Machine Learning and Music
-  link: https://mml2024.weebly.com/
-  deadline: '2024-06-25 23:59:00'
-  timezone: UTC+03
-  place: Vilnius, Lithuania
-  date: September 9, 2024
-  start: 2024-09-09
-  end: 2024-09-09
-  sub: ML
-
 - title: AIMC
   year: 2024
   id: aimc24
