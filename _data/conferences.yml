@@ -1,31 +1,5 @@
 ---
  
-- title: MML
-  year: 2024
-  id: mml24
-  full_name: International Workshop on Machine Learning and Music
-  link: https://mml2024.weebly.com/
-  deadline: '2024-06-25 23:59:00'
-  timezone: UTC+03
-  place: Vilnius, Lithuania
-  date: September 9, 2024
-  start: 2024-09-09
-  end: 2024-09-09
-  sub: ML
-  
-- title: IS2
-  year: 2024
-  id: is224
-  full_name: International Symposium on the Internet of Sounds
-  link: https://internetofsounds.net/is2_2024/
-  deadline: '2024-07-10 23:59:00'
-  timezone: UTC+01
-  place: Erlangen, Germany
-  date: September 30 - October 2, 2024
-  start: 2024-09-30
-  end: 2024-10-02
-  sub: ML
-
 - title: AAAI
   year: 2025
   id: aaai25
@@ -53,6 +27,19 @@
   start: 2025-04-6
   end: 2025-04-11
   sub: SP
+  
+- title: AIMG
+  year: 2024
+  id: aimg24
+  full_name: Workshop on AI Music Generation at IEEE Big Data
+  link: https://www.intellisky.org/workshops/AIMG2024/workshop_AIMG2024.html
+  deadline: '2024-10-01 23:59:00'
+  timezone: UTC-05
+  place: Washington, DC
+  date: December 15-18, 2024
+  start: 2024-12-15
+  end: 2024-12-18
+  sub: ML
   
 - title: SAIM
   year: 2024
@@ -203,6 +190,19 @@
   end: 2024-09-06
   sub: SP
 
+- title: MML
+  year: 2024
+  id: mml24
+  full_name: International Workshop on Machine Learning and Music
+  link: https://mml2024.weebly.com/
+  deadline: '2024-06-25 23:59:00'
+  timezone: UTC+03
+  place: Vilnius, Lithuania
+  date: September 9, 2024
+  start: 2024-09-09
+  end: 2024-09-09
+  sub: ML
+
 - title: AIMC
   year: 2024
   id: aimc24
@@ -241,6 +241,19 @@
   start: 2024-09-18
   end: 2024-09-20
   sub: SP
+  
+- title: IS2
+  year: 2024
+  id: is224
+  full_name: International Symposium on the Internet of Sounds
+  link: https://internetofsounds.net/is2_2024/
+  deadline: '2024-07-10 23:59:00'
+  timezone: UTC+01
+  place: Erlangen, Germany
+  date: September 30 - October 2, 2024
+  start: 2024-09-30
+  end: 2024-10-02
+  sub: ML
   
 - title: RecSys
   year: 2024
