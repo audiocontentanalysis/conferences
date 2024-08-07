@@ -1,5 +1,6 @@
 ---
  
+
 - title: AAAI
   year: 2025
   id: aaai25
@@ -15,6 +16,19 @@
   hindex: 212
   sub: ML
   note: Mandatory abstract deadline on Aug 07, 2024, and supplementary material deadline on Aug 19, 2024. More info <a href='https://aaai.org/aaai-conference/save-the-date-aaai-25/'>here</a>.
+ 
+- title: MMM
+  year: 2025
+  id: mmm25
+  full_name: International Conference on Multimedia Modeling
+  link: https://mmm2025.net/calls/
+  deadline: '2024-08-19 23:59:00'
+  timezone: UTC-12
+  place: Nara, Japan
+  date: January 7-10, 2025
+  start: 2025-01-07
+  end: 2025-01-10
+  sub: ML
 
 - title: ICASSP
   year: 2025
@@ -41,76 +55,18 @@
   end: 2024-12-18
   sub: ML
   
-- title: SAIM
-  year: 2024
-  id: saim24
-  full_name: AES International Symposium on AI and the Musician
-  link: https://csedu.scitevents.org/CSME.aspx
-  deadline: '2024-03-22 23:59:00'
-  timezone: UTC-05
-  place: Boston
-  date: June 6-8, 2024
-  start: 2024-06-06
-  end: 2024-06-08
+- title: AES-AIMLA
+  year: 2025
+  id: aimla25
+  full_name: AES International Conference on Artificial Intelligence and Machine Learning for Audio
+  link: https://aes2.org/events-calendar/2025-aes-international-conference-on-artificial-intelligence-and-machine-learning-for-audio/
+  deadline: '2025-02-25 23:59:00'
+  timezone: UTC+00
+  place: London, UK
+  date: September 8 - 10, 2025
+  start: 2025-09-08
+  end: 2025-09-10
   sub: ML
-
-- title: ICPRAI
-  year: 2024
-  id: icprai24
-  full_name: International Conference on Pattern Recognition and Artificial Intelligence
-  link: http://icprai2024.org/
-  deadline: '2023-12-15 23:59:59'
-  timezone: UTC+9
-  place: Jeju Island, South Korea
-  date: Jun 18-21, 2024
-  start: 2024-06-18
-  end: 2024-06-21
-  sub: ML
-
-- title: DLfM
-  year: 2024
-  id: dlfm24
-  full_name: International Conference on Digital Libraries for Musicology
-  link: https://dlfm.web.ox.ac.uk/
-  deadline: '2024-02-22 23:59:59'
-  abstract_deadline: '2024-02-12 23:59:59'
-  timezone: UTC-12
-  place: Stellenbosch, South Africa
-  date: Jun 23-28, 2024
-  start: 2024-06-23
-  end: 2024-06-28
-  note: Mandatory abstract deadline on February 12, 2024. More info <a href='https://dlfm.web.ox.ac.uk/'>here</a>.
-  sub: SP
-
-- title: SMC
-  year: 2024
-  id: smc24
-  full_name: Sound and Music Computing Conference
-  link: https://smcnetwork.org/smc2024/
-  deadline: '2024-03-11 23:59:59'
-  abstract_deadline: '2024-02-24 23:59:59'
-  timezone: UTC-12
-  place: Porto, Portugal
-  date: July 04-06, 2024
-  start: 2024-07-04
-  end: 2024-07-06
-  sub: SP
-  note: Mandatory abstract deadline on February 24, 2024. More info <a href='https://smcnetwork.org/smc2024/#submit'>here</a>.
-  
-- title: SIGIR
-  year: 2024
-  id: sigir24
-  full_name: ACM SIGIR Conference on Research and Development in Information Retrieval 
-  link: https://sigir-2024.github.io
-  deadline: '2024-01-25 23:59:00'
-  abstract_deadline: '2024-01-18 23:59:00'
-  timezone: UTC-12
-  place: Washington D.C., USA
-  date: July 14-18, 2024
-  start: 2024-07-14
-  end: 2024-07-18
-  sub: ML
-  note: Mandatory abstract deadline on January 18, 2024. More info <a href='https://sigir-2024.github.io/call_for_papers.html'>here</a>.
 
 - title: ICML
   year: 2024
@@ -189,6 +145,19 @@
   start: 2024-09-04
   end: 2024-09-06
   sub: SP
+ 
+- title: MML
+  year: 2024
+  id: mml24
+  full_name: International Workshop on Machine Learning and Music
+  link: https://mml2024.weebly.com/
+  deadline: '2024-06-25 23:59:00'
+  timezone: UTC+03
+  place: Vilnius, Lithuania
+  date: September 9, 2024
+  start: 2024-09-09
+  end: 2024-09-09
+  sub: ML
 
 - title: MML
   year: 2024
