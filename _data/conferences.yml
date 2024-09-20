@@ -24,6 +24,21 @@
   start: 2024-12-11
   end: 2024-12-13
   sub: ML  
+
+- title: ICLR
+  year: 2025
+  id: iclr25
+  link: https://iclr.cc/Conferences/2025/CallForPapers
+  deadline: '2024-10-01 23:59:59'
+  abstract_deadline: '2024-09-27 23:59:59'
+  timezone: UTC-12
+  place: Singapore
+  date: Apr 24-28, 2025
+  start: 2025-04-24
+  end: 2025-04-28
+  hindex: 304
+  sub: ML
+  note: Mandatory abstract deadline on September 27, 2024. More info <a href='https://iclr.cc/Conferences/2025/CallForPapers'>here</a>.
   
 - title: AIMG
   year: 2024
