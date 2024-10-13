@@ -1,71 +1,17 @@
 ---
-  
-- title: ICASSP
-  year: 2025
-  id: icassp25
-  link: https://2025.ieeeicassp.org/
-  deadline: '2024-09-09 23:59:59'
-  timezone: UTC-12
-  place: Hyderabad, India
-  date: April 6-11, 2025
-  start: 2025-04-6
-  end: 2025-04-11
-  sub: SP
  
-- title: ISM
-  year: 2024
-  id: ism24
-  full_name: International Symposium on Multimedia 
-  link: http://www.ieee-ism.org/
-  deadline: '2024-09-22 23:59:00'
-  timezone: UTC-12
-  place: Tokyo, Japan
-  date: December 11-13, 2024
-  start: 2024-12-11
-  end: 2024-12-13
-  sub: ML  
-
-- title: ICLR
+- title: AI for Music
   year: 2025
-  id: iclr25
-  link: https://iclr.cc/Conferences/2025/CallForPapers
-  deadline: '2024-10-01 23:59:59'
-  abstract_deadline: '2024-09-27 23:59:59'
-  timezone: UTC-12
-  place: Singapore
-  date: Apr 24-28, 2025
-  start: 2025-04-24
-  end: 2025-04-28
-  sub: ML
-  note: Mandatory abstract deadline on September 27, 2024. More info <a href='https://iclr.cc/Conferences/2025/CallForPapers'>here</a>.
-  
-- title: AIMG
-  year: 2024
-  id: aimg24
-  full_name: Workshop on AI Music Generation at IEEE Big Data
-  link: https://www.intellisky.org/workshops/AIMG2024/workshop_AIMG2024.html
-  deadline: '2024-10-01 23:59:00'
+  id: ai2mus25
+  full_name: AI for Music Workshop at AAAI
+  link: https://ai4musicians.org/2025aaai.html
+  deadline: '2024-11-22 23:59:00'
   timezone: UTC-05
-  place: Washington, DC
-  date: December 15-18, 2024
-  start: 2024-12-15
-  end: 2024-12-18
-  sub: ML
-
-- title: ECIR
-  year: 2025
-  id: ecir25
-  full_name: European Conference on Information Retrieval
-  link: https://ecir2025.eu/
-  deadline: '2024-10-09 23:59:59'
-  abstract_deadline: '2024-10-02 23:59:59'
-  timezone: UTC-12
-  place: Lucca, Tuscany, Italy
-  date: April 6 - April 10, 2025
-  start: 2025-04-06
-  end: 2025-04-10
-  sub: ML
-  note: Abstract deadline on Oct 2, 2024. More info <a href='https://ecir2025.eu/'>here</a>.  
+  place: Philadelphia
+  date: March 3, 2025
+  start: 2025-03-03
+  end: 2025-03-03
+  sub: ML  
   
 - title: AES-AIMLA
   year: 2025
@@ -254,6 +200,32 @@
   start: 2024-12-10
   end: 2024-12-12
   sub: ML
+ 
+- title: ISM
+  year: 2024
+  id: ism24
+  full_name: International Symposium on Multimedia 
+  link: http://www.ieee-ism.org/
+  deadline: '2024-09-22 23:59:00'
+  timezone: UTC-12
+  place: Tokyo, Japan
+  date: December 11-13, 2024
+  start: 2024-12-11
+  end: 2024-12-13
+  sub: ML  
+  
+- title: AIMG
+  year: 2024
+  id: aimg24
+  full_name: Workshop on AI Music Generation at IEEE Big Data
+  link: https://www.intellisky.org/workshops/AIMG2024/workshop_AIMG2024.html
+  deadline: '2024-10-01 23:59:00'
+  timezone: UTC-05
+  place: Washington, DC
+  date: December 15-18, 2024
+  start: 2024-12-15
+  end: 2024-12-18
+  sub: ML
 
 - title: MMM
   year: 2025
@@ -283,4 +255,45 @@
   sub: ML
   note: Mandatory abstract deadline on Aug 07, 2024, and supplementary material deadline on Aug 19, 2024. More info <a href='https://aaai.org/aaai-conference/save-the-date-aaai-25/'>here</a>.
   sub: ML
+  
+- title: ICASSP
+  year: 2025
+  id: icassp25
+  link: https://2025.ieeeicassp.org/
+  deadline: '2024-09-09 23:59:59'
+  timezone: UTC-12
+  place: Hyderabad, India
+  date: April 6-11, 2025
+  start: 2025-04-6
+  end: 2025-04-11
+  sub: SP
+
+- title: ECIR
+  year: 2025
+  id: ecir25
+  full_name: European Conference on Information Retrieval
+  link: https://ecir2025.eu/
+  deadline: '2024-10-09 23:59:59'
+  abstract_deadline: '2024-10-02 23:59:59'
+  timezone: UTC-12
+  place: Lucca, Tuscany, Italy
+  date: April 6 - April 10, 2025
+  start: 2025-04-06
+  end: 2025-04-10
+  sub: ML
+  note: Abstract deadline on Oct 2, 2024. More info <a href='https://ecir2025.eu/'>here</a>.  
+
+- title: ICLR
+  year: 2025
+  id: iclr25
+  link: https://iclr.cc/Conferences/2025/CallForPapers
+  deadline: '2024-10-01 23:59:59'
+  abstract_deadline: '2024-09-27 23:59:59'
+  timezone: UTC-12
+  place: Singapore
+  date: Apr 24-28, 2025
+  start: 2025-04-24
+  end: 2025-04-28
+  sub: ML
+  note: Mandatory abstract deadline on September 27, 2024. More info <a href='https://iclr.cc/Conferences/2025/CallForPapers'>here</a>.
 
