@@ -2,7 +2,7 @@
  
 - title: AI for Music
   year: 2025
-  id: ai2mus25
+  id: ai4mus25
   full_name: AI for Music Workshop at AAAI
   link: https://ai4musicians.org/2025aaai.html
   deadline: '2024-11-22 23:59:00'
@@ -37,114 +37,20 @@
   start: 2024-09-01
   end: 2024-09-05
   sub: SP
-  
-- title: DAFx
-  year: 2024
-  id: dafx24
-  full_name: Conference on Digital Audio Effects
-  link: https://dafx24.surrey.ac.uk/call-for-papers/
-  deadline: '2024-03-20 23:59:00'
-  timezone: UTC+00
-  place: Surrey, UK
-  date: September 4-6, 2024
-  start: 2024-09-04
-  end: 2024-09-06
-  sub: SP
- 
-- title: MML
-  year: 2024
-  id: mml24
-  full_name: International Workshop on Machine Learning and Music
-  link: https://mml2024.weebly.com/
-  deadline: '2024-06-25 23:59:00'
-  timezone: UTC+03
-  place: Vilnius, Lithuania
-  date: September 9, 2024
-  start: 2024-09-09
-  end: 2024-09-09
-  sub: ML
 
-- title: AIMC
-  year: 2024
-  id: aimc24
-  link: https://aimc2024.pubpub.org/
-  deadline: '2024-03-10 11:59:00'
-  timezone: UTC+00
-  place: Oxford, UK
-  date: September 9-11, 2024
-  start: 2024-09-09
-  end: 2024-09-11
-  sub: ML
-
-- title: CBMI
-  year: 2024
-  id: cbmi24
-  full_name: International Conference on Content-based Multimedia Indexing 
-  link: https://cbmi2024.org/
-  deadline: '2024-03-22 23:59:59'
-  timezone: UTC+00
-  place: Reykjavik, Iceland
-  date: September 18-20, 2024
-  start: 2024-09-18
-  end: 2024-09-20
+- title: SMC
+  year: 2025
+  id: smc25
+  full_name: Sound and Music Computing Conference
+  link: https://smc25.iem.at
+  deadline: '2025-03-03 23:59:00'
+  timezone: UTC+02
+  place: Graz, Austria
+  date: July 7 - 12, 2025
+  start: 2025-07-07
+  end: 2025-07-12
   sub: SP
-  note: Special Session on Audio - Content based Indexing for audio and music. From analysis to synthesis.
 
-- title: AudioMostly
-  year: 2024
-  id: am24
-  full_name: Audio Mostly
-  link: hhttps://audiomostly.com/
-  deadline: '2024-05-19 23:59:00'
-  timezone: UTC+01
-  place: Milan, Italy
-  date: September 18 - September 20, 2024
-  start: 2024-09-18
-  end: 2024-09-20
-  sub: SP
-  
-- title: IS2
-  year: 2024
-  id: is224
-  full_name: International Symposium on the Internet of Sounds
-  link: https://internetofsounds.net/is2_2024/
-  deadline: '2024-07-10 23:59:00'
-  timezone: UTC+01
-  place: Erlangen, Germany
-  date: September 30 - October 2, 2024
-  start: 2024-09-30
-  end: 2024-10-02
-  sub: ML
-  
-- title: RecSys
-  year: 2024
-  id: recsys24
-  link: https://recsys.acm.org/recsys24
-  deadline: '2024-04-29 23:59:59'
-  abstract_deadline: '2024-04-22 23:59:59'
-  timezone: UTC+01
-  place: Bari, Italy
-  data: October 14 - 18, 2024
-  start: 2024-10-14
-  end: 2024-10-18
-  sub: ML
-  note: Mandatory abstract deadline on April 22, 2024. More info <a href='https://recsys.acm.org/recsys24/dates/'>here</a>.
-  
-- title: ECAI
-  year: 2024
-  id: ecai24
-  full_name: European Conference on Artificial Intelligence
-  link: https://www.ecai2024.eu/
-  deadline: '2024-04-25 23:59:59'
-  abstract_deadline: '2024-04-19 23:59:59'
-  timezone: UTC-12
-  place: Santiago de Compostela, Spain
-  date: October 19-24, 2024
-  start: 2024-10-19
-  end: 2024-10-24
-  sub: ML
-  note: Mandatory abstract deadline on April 19, 2024. More info <a href='https://www.ecai2024.eu/calls/main-track'>here</a>.
-  
 - title: MM
   year: 2024
   id: mm24
