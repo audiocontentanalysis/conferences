@@ -12,6 +12,19 @@
   start: 2025-03-03
   end: 2025-03-03
   sub: ML  
+ 
+- title: IJCNN
+  year: 2025
+  id: ijcai25
+  full_name: International Joint Conference on Neural Networks
+  link: https://2025.ijcnn.org/
+  deadline: '2025-01-15 23:59:00'
+  timezone: UTC+01
+  place: Rome, Italy
+  date: June 30 - July 5, 2025
+  start: 2025-06-30
+  end: 2025-07-05
+  sub: ML
   
 - title: IJCAI
   year: 2025
@@ -21,7 +34,7 @@
   deadline: '2025-01-23 23:59:00'
   abstract_deadline: '2025-01-16 23:59:59'
   timezone: UTC-12
-  place: Montreal, CA
+  place: Montreal, Canada
   date: August 16 - 22, 2025
   start: 2025-08-16
   end: 2025-08-22
