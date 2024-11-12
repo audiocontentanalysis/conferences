@@ -94,6 +94,19 @@
   start: 2025-07-07
   end: 2025-07-12
   sub: SP
+
+- title: MLSP
+  year: 2025
+  id: mlsp25
+  full_name: IEEE Workshop on Machine Learning for Signal Processing
+  link: https://2025.ieeemlsp.org
+  deadline: '2025-03-03 23:59:00'
+  timezone: UTC-12
+  place: Istanbul, Turkey
+  date: August 31 - September 3, 2025
+  start: 2025-08-31
+  end: 2025-09-03
+  sub: SP, ML
   
 - title: ISMIR
   year: 2024
