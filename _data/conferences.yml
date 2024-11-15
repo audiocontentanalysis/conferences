@@ -25,6 +25,19 @@
   start: 2025-06-30
   end: 2025-07-05
   sub: ML
+ 
+- title: ICMC
+  year: 2025
+  id: icmc25
+  full_name: International Computer Music Conference
+  link: https://icmc2025.sites.northeastern.edu/
+  deadline: '2025-01-15 23:59:00'
+  timezone: UTC-12
+  place: Boston, Mass
+  date: June 8 - 14, 2025
+  start: 2025-06-08
+  end: 2025-06-14
+  sub: SP
   
 - title: IJCAI
   year: 2025
