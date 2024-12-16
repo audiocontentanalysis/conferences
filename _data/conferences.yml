@@ -54,6 +54,19 @@
   sub: ML
   note: Mandatory abstract deadline on Jan 16, 2025. 
   
+- title: CSEDU
+  year: 2025
+  id: csedu25
+  full_name: Conference on Computer Supported Education 
+  link: https://csedu.scitevents.org/CSME.aspx
+  deadline: '2025-01-30 23:59:00'
+  timezone: UTC+00
+  place: Porto, Portugal
+  date: April 1 - 3, 2025
+  start: 2025-04-01
+  end: 2025-04-03
+  sub: SP
+  
 - title: ICML
   year: 2025
   id: icml25
