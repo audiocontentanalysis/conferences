@@ -96,6 +96,18 @@
   sub: ML
   note: Mandatory abstract deadline on Jan 23, 2025. 
   
+- title: InterSpeech
+  year: 2025
+  id: interspeech25
+  link: http://www.interspeech2025.org/
+  deadline: '2025-02-12 23:59:59'
+  timezone: UTC-12
+  place: Rotterdam, The Netherlands
+  date: August 17 - August 21, 2025
+  start: 2025-08-17
+  end: 2025-09-21
+  sub: SP
+ 
 - title: AES-AIMLA
   year: 2025
   id: aimla25
