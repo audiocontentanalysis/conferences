@@ -173,6 +173,21 @@
   end: 2025-07-04
   sub: SP
 
+- title: ECAI
+  year: 2025
+  id: ecai25
+  full_name: European Conference on Artificial Intelligence
+  link: https://ecai2025.org
+  deadline: '2025-05-06 23:59:59'
+  abstract_deadline: '2025-04-29 23:59:59'
+  timezone: UTC-12
+  place: Bologna, Italy
+  date: October 25-30, 2025
+  start: 2025-10-25
+  end: 2025-10-30
+  sub: ML
+  note: Mandatory abstract deadline on April 29, 2025. More info <a href='https://ecai2025.org'>here</a>.
+  
 - title: NeurIPS
   year: 2024
   id: neurips24
