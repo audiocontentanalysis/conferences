@@ -53,6 +53,20 @@
   end: 2025-08-22
   sub: ML
   note: Mandatory abstract deadline on Jan 16, 2025. 
+
+- title: SIGIR
+  year: 2025
+  id: sigir25
+  link: https://sigir2025.dei.unipd.it
+  deadline: '2025-01-23 23:59:59'
+  abstract_deadline: '2025-01-16 23:59:59'
+  timezone: UTC-12
+  place: Padua, Italy
+  date: July 13-18, 2025
+  start: 2025-07-13
+  end: 2025-07-18
+  sub: ML
+  note: Mandatory abstract deadline on January 16, 2025. More info <a href='https://sigir2025.dei.unipd.it'>here</a>.  
   
 - title: CSEDU
   year: 2025
