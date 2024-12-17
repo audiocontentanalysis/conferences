@@ -75,10 +75,10 @@
   abstract_deadline: '2025-01-23 23:59:00'
   deadline: '2025-01-31 23:59:59'
   timezone: UTC+00
-  place: Montreal, CA
-  date: August 16 - 22, 2025
-  start: 2025-07-15
-  end: 2025-07-17
+  place: Vancouver, CA
+  date: July 13 - 19, 2025
+  start: 2025-07-13
+  end: 2025-07-19
   sub: ML
   note: Mandatory abstract deadline on Jan 23, 2025. 
   
