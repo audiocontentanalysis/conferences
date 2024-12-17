@@ -97,6 +97,19 @@
   sub: ML
   note: Mandatory abstract deadline on Jan 23, 2025. 
   
+- title: UAI
+  year: 2025
+  id: uai25
+  full_name: Conference on Uncertainty in Artificial Intelligence
+  link: https://www.auai.org/uai2025/
+  deadline: '2025-02-10 23:59:59'
+  timezone: UTC-12
+  place: Rio de Janeiro, Brazil
+  date: July 21-25, 2025
+  start: 2025-07-21
+  end: 2025-07-25
+  sub: ML
+  
 - title: InterSpeech
   year: 2025
   id: interspeech25
