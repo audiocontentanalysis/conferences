@@ -188,6 +188,21 @@
   end: 2025-09-25
   sub: ML
   note: Mandatory abstract deadline on March 24, 2025. 
+  
+- title: AIMC
+  year: 2025
+  id: AIMC25
+  full_name: Conference on AI Music Creativity
+  link: https://aimusiccreativity.org/2025/
+  deadline: '2025-04-11 23:59:00'
+  abstract_deadline: '2025-04-04 23:59:59'
+  timezone: UTC+01
+  place: Brussels, Belgium
+  date: September 10 - 12, 2025
+  start: 2025-09-10
+  end: 2025-09-12
+  sub: ML
+  note: Mandatory abstract deadline on April 04, 2025. 
 
 - title: ECAI
   year: 2025
