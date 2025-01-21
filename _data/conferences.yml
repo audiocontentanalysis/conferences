@@ -68,6 +68,19 @@
   start: 2025-04-01
   end: 2025-04-03
   sub: SP
+ 
+- title: ICMPC
+  year: 2025
+  id: icmpc25
+  full_name: International Conference on Music Perception and Cognition 
+  link: https://csedu.scitevents.org/CSME.aspx
+  deadline: '2025-01-31 23:59:00'
+  timezone: UTC-03
+  place: Sao Paulo, Brazil
+  date: July 21 - 25, 2025
+  start: 2025-07-21
+  end: 2025-07-25
+  sub: SP
   
 - title: ICML
   year: 2025
