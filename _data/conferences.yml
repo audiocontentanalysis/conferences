@@ -131,6 +131,22 @@
   end: 2025-07-04
   sub: SP
   
+- title: ICANN
+  year: 2025
+  id: icann25
+  full_name: International Conference on Artificial Neural Networks
+  link: https://e-nns.org/icann2025/
+  deadline: 2025-03-15 23:59
+  abstract_deadline: 2025-03-15 23:59
+  timezone: UTC-12
+  place: Kaunas, Lithuania
+  date: September, 9-12, 2025
+  start: 2025-09-09
+  end: 2025-09-12
+  paperslink: https://link.springer.com/conference/icann
+  sub: ML
+  note: Deadline for full paper submission at 15 March 2025. More info <a href='https://e-nns.org/icann2025'>here</a>.  
+  
 - title: ISMIR
   year: 2025
   id: ismir25
