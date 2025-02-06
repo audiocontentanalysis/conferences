@@ -1,45 +1,4 @@
 ---
- 
-- title: ICMPC
-  year: 2025
-  id: icmpc25
-  full_name: International Conference on Music Perception and Cognition 
-  link: https://csedu.scitevents.org/CSME.aspx
-  deadline: '2025-01-31 23:59:00'
-  timezone: UTC-03
-  place: Sao Paulo, Brazil
-  date: July 21 - 25, 2025
-  start: 2025-07-21
-  end: 2025-07-25
-  sub: SP
-  
-- title: ICML
-  year: 2025
-  id: icml25
-  full_name: International Conference on Machine Learning
-  link: https://icml.cc/Conferences/2025
-  abstract_deadline: '2025-01-23 23:59:00'
-  deadline: '2025-01-31 23:59:59'
-  timezone: UTC+00
-  place: Vancouver, CA
-  date: July 13 - 19, 2025
-  start: 2025-07-13
-  end: 2025-07-19
-  sub: ML
-  note: Mandatory abstract deadline on Jan 23, 2025. 
-  
-- title: CSEDU
-  year: 2025
-  id: csedu25
-  full_name: Conference on Computer Supported Education 
-  link: https://csedu.scitevents.org/CSME.aspx
-  deadline: '2025-02-03 23:59:00'
-  timezone: UTC+00
-  place: Porto, Portugal
-  date: April 1 - 3, 2025
-  start: 2025-04-01
-  end: 2025-04-03
-  sub: SP
   
 - title: UAI
   year: 2025
@@ -190,6 +149,21 @@
   sub: ML
   note: Mandatory abstract deadline on April 04, 2025. 
 
+- title: WASPAA
+  year: 2025
+  id: waspaa25
+  full_name: IEEE Workshop on Applications of Signal Processing to Audio and Acoustics 
+  link: http://waspaa.com/
+  abstract_deadline: '2025-04-23 23:59:59'
+  deadline: '2025-04-30 23:59:00'
+  timezone: UTC-03
+  place: Sao Paulo, Brazil
+  date: July 21 - 25, 2025
+  start: 2025-10-12
+  end: 2025-10-15
+  sub: SP
+  note: Mandatory abstract deadline on April 23, 2025. 
+
 - title: ECAI
   year: 2025
   id: ecai25
@@ -235,6 +209,19 @@
   end: 2025-03-03
   sub: ML  
   
+- title: CSEDU
+  year: 2025
+  id: csedu25
+  full_name: Conference on Computer Supported Education 
+  link: https://csedu.scitevents.org/CSME.aspx
+  deadline: '2025-02-03 23:59:00'
+  timezone: UTC+00
+  place: Porto, Portugal
+  date: April 1 - 3, 2025
+  start: 2025-04-01
+  end: 2025-04-03
+  sub: SP
+  
 - title: ICASSP
   year: 2025
   id: icassp25
@@ -243,7 +230,7 @@
   timezone: UTC-12
   place: Hyderabad, India
   date: April 6-11, 2025
-  start: 2025-04-6
+  start: 2025-04-06
   end: 2025-04-11
   sub: SP
 
@@ -301,6 +288,21 @@
   start: 2025-06-30
   end: 2025-07-05
   sub: ML
+   
+- title: ICML
+  year: 2025
+  id: icml25
+  full_name: International Conference on Machine Learning
+  link: https://icml.cc/Conferences/2025
+  abstract_deadline: '2025-01-23 23:59:00'
+  deadline: '2025-01-31 23:59:59'
+  timezone: UTC+00
+  place: Vancouver, CA
+  date: July 13 - 19, 2025
+  start: 2025-07-13
+  end: 2025-07-19
+  sub: ML
+  note: Mandatory abstract deadline on Jan 23, 2025. 
 
 - title: SIGIR
   year: 2025
@@ -316,6 +318,19 @@
   end: 2025-07-18
   sub: ML
   note: Mandatory abstract deadline on January 16, 2025. More info <a href='https://sigir2025.dei.unipd.it'>here</a>.  
+
+- title: ICMPC
+  year: 2025
+  id: icmpc25
+  full_name: International Conference on Music Perception and Cognition 
+  link: https://csedu.scitevents.org/CSME.aspx
+  deadline: '2025-01-31 23:59:00'
+  timezone: UTC-03
+  place: Sao Paulo, Brazil
+  date: July 21 - 25, 2025
+  start: 2025-07-21
+  end: 2025-07-25
+  sub: SP
    
 - title: IJCAI
   year: 2025
