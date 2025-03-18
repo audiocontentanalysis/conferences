@@ -1,86 +1,5 @@
 ---
  
-- title: AES-AIMLA
-  year: 2025
-  id: aimla25
-  full_name: AES International Conference on Artificial Intelligence and Machine Learning for Audio
-  link: https://aes2.org/events-calendar/2025-aes-international-conference-on-artificial-intelligence-and-machine-learning-for-audio/
-  deadline: '2025-02-25 23:59:00'
-  timezone: UTC+00
-  place: London, UK
-  date: September 8 - 10, 2025
-  start: 2025-09-08
-  end: 2025-09-10
-  sub: ML
-
-- title: EUSIPCO
-  year: 2025
-  id: eusipco25
-  full_name: European Signal Processing Conference
-  link: https://eusipco2025.org/
-  deadline: '2025-03-01 23:59:00'
-  timezone: UTC+02
-  place: Palermo, Italy
-  date: July 7 - 12, 2025
-  start: 2025-09-08
-  end: 2025-09-12
-  sub: SP
-
-- title: SMC
-  year: 2025
-  id: smc25
-  full_name: Sound and Music Computing Conference
-  link: https://smc25.iem.at
-  deadline: '2025-03-03 23:59:00'
-  timezone: UTC+02
-  place: Graz, Austria
-  date: July 7 - 12, 2025
-  start: 2025-07-07
-  end: 2025-07-12
-  sub: SP
-
-- title: MLSP
-  year: 2025
-  id: mlsp25
-  full_name: IEEE Workshop on Machine Learning for Signal Processing
-  link: https://2025.ieeemlsp.org
-  deadline: '2025-03-03 23:59:00'
-  timezone: UTC-12
-  place: Istanbul, Turkey
-  date: August 31 - September 3, 2025
-  start: 2025-08-31
-  end: 2025-09-03
-  sub: ML
-
-- title: Audio Mostly
-  year: 2025
-  id: am25
-  full_name: Audio Mostly
-  link: https://audiomostly.com/2025/info/important-dates/
-  deadline: '2025-03-07 23:59:00'
-  timezone: UTC+00
-  place: Coimbra, Portugal
-  date: June 30 - July 4, 2025
-  start: 2025-06-30
-  end: 2025-07-04
-  sub: SP
-  
-- title: ICANN
-  year: 2025
-  id: icann25
-  full_name: International Conference on Artificial Neural Networks
-  link: https://e-nns.org/icann2025/
-  deadline: 2025-03-15 23:59
-  abstract_deadline: 2025-03-15 23:59
-  timezone: UTC-12
-  place: Kaunas, Lithuania
-  date: September, 9-12, 2025
-  start: 2025-09-09
-  end: 2025-09-12
-  paperslink: https://link.springer.com/conference/icann
-  sub: ML
-  note: Deadline for full paper submission at 15 March 2025. More info <a href='https://e-nns.org/icann2025'>here</a>.  
-  
 - title: ISMIR
   year: 2025
   id: ismir25
@@ -95,7 +14,8 @@
   end: 2025-09-25
   sub: ML
   note: Mandatory abstract deadline on March 24, 2025. 
-  
+
+   
 - title: DAFx
   year: 2025
   id: dafx25
@@ -123,6 +43,19 @@
   end: 2025-09-12
   sub: ML
   note: Mandatory abstract deadline on April 04, 2025. 
+
+- title: MLSP
+  year: 2025
+  id: mlsp25
+  full_name: IEEE Workshop on Machine Learning for Signal Processing
+  link: https://2025.ieeemlsp.org
+  deadline: '2025-04-22 23:59:00'
+  timezone: UTC-12
+  place: Istanbul, Turkey
+  date: August 31 - September 3, 2025
+  start: 2025-08-31
+  end: 2025-09-03
+  sub: ML
 
 - title: WASPAA
   year: 2025
@@ -263,6 +196,19 @@
   start: 2025-06-30
   end: 2025-07-05
   sub: ML
+
+- title: Audio Mostly
+  year: 2025
+  id: am25
+  full_name: Audio Mostly
+  link: https://audiomostly.com/2025/info/important-dates/
+  deadline: '2025-03-07 23:59:00'
+  timezone: UTC+00
+  place: Coimbra, Portugal
+  date: June 30 - July 4, 2025
+  start: 2025-06-30
+  end: 2025-07-04
+  sub: SP
    
 - title: ICML
   year: 2025
@@ -335,6 +281,32 @@
   sub: ML
   note: Mandatory abstract deadline on Jan 16, 2025. 
  
+- title: EUSIPCO
+  year: 2025
+  id: eusipco25
+  full_name: European Signal Processing Conference
+  link: https://eusipco2025.org/
+  deadline: '2025-03-01 23:59:00'
+  timezone: UTC+02
+  place: Palermo, Italy
+  date: July 7 - 12, 2025
+  start: 2025-09-08
+  end: 2025-09-12
+  sub: SP
+
+- title: SMC
+  year: 2025
+  id: smc25
+  full_name: Sound and Music Computing Conference
+  link: https://smc25.iem.at
+  deadline: '2025-03-03 23:59:00'
+  timezone: UTC+02
+  place: Graz, Austria
+  date: July 7 - 12, 2025
+  start: 2025-07-07
+  end: 2025-07-12
+  sub: SP
+ 
 - title: InterSpeech
   year: 2025
   id: interspeech25
@@ -347,3 +319,32 @@
   end: 2025-09-21
   sub: SP
 
+- title: AES-AIMLA
+  year: 2025
+  id: aimla25
+  full_name: AES International Conference on Artificial Intelligence and Machine Learning for Audio
+  link: https://aes2.org/events-calendar/2025-aes-international-conference-on-artificial-intelligence-and-machine-learning-for-audio/
+  deadline: '2025-02-25 23:59:00'
+  timezone: UTC+00
+  place: London, UK
+  date: September 8 - 10, 2025
+  start: 2025-09-08
+  end: 2025-09-10
+  sub: ML
+ 
+- title: ICANN
+  year: 2025
+  id: icann25
+  full_name: International Conference on Artificial Neural Networks
+  link: https://e-nns.org/icann2025/
+  deadline: 2025-03-15 23:59
+  abstract_deadline: 2025-03-15 23:59
+  timezone: UTC-12
+  place: Kaunas, Lithuania
+  date: September, 9-12, 2025
+  start: 2025-09-09
+  end: 2025-09-12
+  paperslink: https://link.springer.com/conference/icann
+  sub: ML
+  note: Deadline for full paper submission at 15 March 2025. More info <a href='https://e-nns.org/icann2025'>here</a>.  
+ 
