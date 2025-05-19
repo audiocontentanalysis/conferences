@@ -1,63 +1,16 @@
 ---
-
-- title: MLSP
+    
+- title: ICDM
   year: 2025
-  id: mlsp25
-  full_name: IEEE Workshop on Machine Learning for Signal Processing
-  link: https://2025.ieeemlsp.org
-  deadline: '2025-04-29 23:59:00'
+  id: icdm25
+  link: https://www3.cs.stonybrook.edu/~icdm2025/cfp.html
+  deadline: '2025-06-06 23:59:59'
   timezone: UTC-12
-  place: Istanbul, Turkey
-  date: August 31 - September 3, 2025
-  start: 2025-08-31
-  end: 2025-09-03
+  place: Washington, DC
+  date: November 12-15, 2026
+  start: 2025-11-12
+  end: 2025-11-15
   sub: ML
-
-- title: WASPAA
-  year: 2025
-  id: waspaa25
-  full_name: IEEE Workshop on Applications of Signal Processing to Audio and Acoustics 
-  link: http://waspaa.com/
-  abstract_deadline: '2025-04-23 23:59:59'
-  deadline: '2025-05-07 23:59:00'
-  timezone: UTC-03
-  place: Lake Tahoe, CA
-  date: October 12 - 15, 2025
-  start: 2025-10-12
-  end: 2025-10-15
-  sub: SP
-  note: Mandatory abstract deadline on April 23, 2025. 
-
-- title: ECAI
-  year: 2025
-  id: ecai25
-  full_name: European Conference on Artificial Intelligence
-  link: https://ecai2025.org
-  deadline: '2025-05-06 23:59:59'
-  abstract_deadline: '2025-04-29 23:59:59'
-  timezone: UTC-12
-  place: Bologna, Italy
-  date: October 25-30, 2025
-  start: 2025-10-25
-  end: 2025-10-30
-  sub: ML
-  note: Mandatory abstract deadline on April 29, 2025. More info <a href='https://ecai2025.org'>here</a>.
-  
-- title: NeurIPS
-  year: 2025
-  id: neurips25
-  full_name: Conference on Neural Information Processing Systems
-  hindex: 309
-  link: https://nips.cc/Conferences/2025
-  deadline: '2025-05-15 19:59:59'
-  abstract_deadline: '2025-05-11 19:59:59'
-  timezone: UTC
-  place: San Diego, California (US)
-  date: December 2 - December 7, 2025
-  start: 2025-12-02
-  end: 2025-12-7
-  sub: ML
-  note: Mandatory abstract deadline on May 11, 2025
    
 - title: AAAI
   year: 2026
@@ -82,20 +35,6 @@
   start: 2026-05-03
   end: 2026-05-08
   sub: ML
- 
-- title: ICLR
-  year: 2025
-  id: iclr25
-  link: https://iclr.cc/Conferences/2025/CallForPapers
-  deadline: '2024-10-01 23:59:59'
-  abstract_deadline: '2024-09-27 23:59:59'
-  timezone: UTC-12
-  place: Singapore
-  date: Apr 24-28, 2025
-  start: 2025-04-24
-  end: 2025-04-28
-  sub: ML
-  note: Mandatory abstract deadline on September 27, 2024. More info <a href='https://iclr.cc/Conferences/2025/CallForPapers'>here</a>.
 
 - title: ICMC
   year: 2025
@@ -244,6 +183,19 @@
   start: 2025-08-17
   end: 2025-09-21
   sub: SP
+
+- title: MLSP
+  year: 2025
+  id: mlsp25
+  full_name: IEEE Workshop on Machine Learning for Signal Processing
+  link: https://2025.ieeemlsp.org
+  deadline: '2025-04-29 23:59:00'
+  timezone: UTC-12
+  place: Istanbul, Turkey
+  date: August 31 - September 3, 2025
+  start: 2025-08-31
+  end: 2025-09-03
+  sub: ML
    
 - title: DAFx
   year: 2025
@@ -316,3 +268,49 @@
   end: 2025-09-25
   sub: ML
   note: Mandatory abstract deadline on March 24, 2025. 
+
+- title: WASPAA
+  year: 2025
+  id: waspaa25
+  full_name: IEEE Workshop on Applications of Signal Processing to Audio and Acoustics 
+  link: http://waspaa.com/
+  abstract_deadline: '2025-04-23 23:59:59'
+  deadline: '2025-05-07 23:59:00'
+  timezone: UTC-03
+  place: Lake Tahoe, CA
+  date: October 12 - 15, 2025
+  start: 2025-10-12
+  end: 2025-10-15
+  sub: SP
+  note: Mandatory abstract deadline on April 23, 2025. 
+
+- title: ECAI
+  year: 2025
+  id: ecai25
+  full_name: European Conference on Artificial Intelligence
+  link: https://ecai2025.org
+  deadline: '2025-05-06 23:59:59'
+  abstract_deadline: '2025-04-29 23:59:59'
+  timezone: UTC-12
+  place: Bologna, Italy
+  date: October 25-30, 2025
+  start: 2025-10-25
+  end: 2025-10-30
+  sub: ML
+  note: Mandatory abstract deadline on April 29, 2025. More info <a href='https://ecai2025.org'>here</a>.
+ 
+- title: NeurIPS
+  year: 2025
+  id: neurips25
+  full_name: Conference on Neural Information Processing Systems
+  hindex: 309
+  link: https://nips.cc/Conferences/2025
+  deadline: '2025-05-15 19:59:59'
+  abstract_deadline: '2025-05-11 19:59:59'
+  timezone: UTC
+  place: San Diego, California (US)
+  date: December 2 - December 7, 2025
+  start: 2025-12-02
+  end: 2025-12-7
+  sub: ML
+  note: Mandatory abstract deadline on May 11, 2025
