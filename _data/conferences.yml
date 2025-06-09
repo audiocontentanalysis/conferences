@@ -1,16 +1,5 @@
 ---
-    
-- title: ICDM
-  year: 2025
-  id: icdm25
-  link: https://www3.cs.stonybrook.edu/~icdm2025/cfp.html
-  deadline: '2025-06-06 23:59:59'
-  timezone: UTC-12
-  place: Washington, DC
-  date: November 12-15, 2026
-  start: 2025-11-12
-  end: 2025-11-15
-  sub: ML
+
    
 - title: AAAI
   year: 2026
@@ -298,7 +287,19 @@
   end: 2025-10-30
   sub: ML
   note: Mandatory abstract deadline on April 29, 2025. More info <a href='https://ecai2025.org'>here</a>.
- 
+     
+- title: ICDM
+  year: 2025
+  id: icdm25
+  link: https://www3.cs.stonybrook.edu/~icdm2025/cfp.html
+  deadline: '2025-06-06 23:59:59'
+  timezone: UTC-12
+  place: Washington, DC
+  date: November 12-15, 2025
+  start: 2025-11-12
+  end: 2025-11-15
+  sub: ML
+  
 - title: NeurIPS
   year: 2025
   id: neurips25
