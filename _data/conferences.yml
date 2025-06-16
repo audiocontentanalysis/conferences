@@ -38,19 +38,30 @@
   date: May 3-8, 2026
   start: 2026-05-03
   end: 2026-05-08
-  sub: ML
-
-- title: ICMC
-  year: 2025
-  id: icmc25
-  full_name: International Computer Music Conference
-  link: https://icmc2025.sites.northeastern.edu/
-  deadline: '2025-01-22 23:59:00'
+  sub: SP
+   
+- title: IJCNN
+  year: 2026
+  id: ijcnn26
+  link: https://attend.ieee.org/wcci-2026
+  deadline: '2026-01-31 23:59:59'
   timezone: UTC-12
-  place: Boston, Mass
-  date: June 8 - 14, 2025
-  start: 2025-06-08
-  end: 2025-06-14
+  place: Maastricht, Netherlands
+  date: June 22-26, 2026
+  start: 2026-06-22
+  end: 2026-06-26
+  sub: ML
+  
+- title: Interspeech
+  year: 2026
+  id: interspeech26
+  link: https://interspeech2026.org/
+  deadline: '2026-03-02 23:59:59'
+  timezone: UTC-12
+  place: Sydney, Australia
+  date: September 27 - October 1, 2026
+  start: 2026-09-27
+  end: 2026-10-01
   sub: SP
   
 - title: IJCNN
