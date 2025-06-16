@@ -16,8 +16,8 @@
 - title: DCASE
   year: 2025
   id: dcase25
-  full_name: International Conference on Machine Learning
-  link: https://icml.cc/Conferences/2025
+  full_name: Workshop on Detection and Classification of Acoustic Scenes and Events
+  link: https://dcase.community/workshop2025/
   abstract_deadline: '2025-07-04 23:59:00'
   deadline: '2025-07-07 23:59:59'
   timezone: UTC+00
