@@ -52,6 +52,18 @@
   end: 2026-06-26
   sub: ML
   
+- title: ICLR
+  year: 2026
+  id: iclr26
+  link: https://iclr.cc/Conferences/2026
+  abstract_deadline: '2025-09-19 23:59:00'
+  deadline: '2026-09-24 23:59:59'
+  timezone: UTC-12
+  place: TBA
+  date: TBA
+  sub: ML
+  note: Mandatory abstract deadline on Sep 19, 2025. 
+  
 - title: Interspeech
   year: 2026
   id: interspeech26
