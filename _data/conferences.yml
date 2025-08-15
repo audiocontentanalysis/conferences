@@ -1,33 +1,6 @@
 ---
 
    
-- title: AAAI
-  year: 2026
-  id: aaai26
-  link: https://aaai.org/conference/aaai/aaai-26/
-  deadline: '2025-07-07 23:59:59'
-  timezone: UTC-12
-  place: Singapore
-  date: January 20-27, 2026
-  start: 2026-01-20
-  end: 2026-01-27
-  sub: ML
-   
-- title: DCASE
-  year: 2025
-  id: dcase25
-  full_name: Workshop on Detection and Classification of Acoustic Scenes and Events
-  link: https://dcase.community/workshop2025/
-  abstract_deadline: '2025-07-04 23:59:00'
-  deadline: '2025-07-07 23:59:59'
-  timezone: UTC+00
-  place: Barcelona, Spain
-  date: October 30 - 31, 2025
-  start: 2025-10-30
-  end: 2025-10-31
-  sub: ML
-  note: Mandatory abstract deadline on July 4, 2025. 
-  
 - title: ICASSP
   year: 2026
   id: icassp26
@@ -75,89 +48,7 @@
   start: 2026-09-27
   end: 2026-10-01
   sub: SP
-  
-- title: IJCNN
-  year: 2025
-  id: ijcnn25
-  full_name: International Joint Conference on Neural Networks
-  link: https://2025.ijcnn.org/
-  deadline: '2025-01-15 23:59:00'
-  timezone: UTC+01
-  place: Rome, Italy
-  date: June 30 - July 5, 2025
-  start: 2025-06-30
-  end: 2025-07-05
-  sub: ML
-
-- title: Audio Mostly
-  year: 2025
-  id: am25
-  full_name: Audio Mostly
-  link: https://audiomostly.com/2025/info/important-dates/
-  deadline: '2025-03-07 23:59:00'
-  timezone: UTC+00
-  place: Coimbra, Portugal
-  date: June 30 - July 4, 2025
-  start: 2025-06-30
-  end: 2025-07-04
-  sub: SP
-   
-- title: ICML
-  year: 2025
-  id: icml25
-  full_name: International Conference on Machine Learning
-  link: https://icml.cc/Conferences/2025
-  abstract_deadline: '2025-01-23 23:59:00'
-  deadline: '2025-01-31 23:59:59'
-  timezone: UTC+00
-  place: Vancouver, CA
-  date: July 13 - 19, 2025
-  start: 2025-07-13
-  end: 2025-07-19
-  sub: ML
-  note: Mandatory abstract deadline on Jan 23, 2025. 
-
-- title: SIGIR
-  year: 2025
-  id: sigir25
-  full_name: ACM SIGIR Conference on Research and Development in Information Retrieval 
-  link: https://sigir2025.dei.unipd.it
-  deadline: '2025-01-23 23:59:59'
-  abstract_deadline: '2025-01-16 23:59:59'
-  timezone: UTC-12
-  place: Padua, Italy
-  date: July 13-18, 2025
-  start: 2025-07-13
-  end: 2025-07-18
-  sub: ML
-  note: Mandatory abstract deadline on January 16, 2025. More info <a href='https://sigir2025.dei.unipd.it'>here</a>.  
-
-- title: ICMPC
-  year: 2025
-  id: icmpc25
-  full_name: International Conference on Music Perception and Cognition 
-  link: https://csedu.scitevents.org/CSME.aspx
-  deadline: '2025-01-31 23:59:00'
-  timezone: UTC-03
-  place: Sao Paulo, Brazil
-  date: July 21 - 25, 2025
-  start: 2025-07-21
-  end: 2025-07-25
-  sub: SP
-  
-- title: UAI
-  year: 2025
-  id: uai25
-  full_name: Conference on Uncertainty in Artificial Intelligence
-  link: https://www.auai.org/uai2025/
-  deadline: '2025-02-10 23:59:59'
-  timezone: UTC-12
-  place: Rio de Janeiro, Brazil
-  date: July 21-25, 2025
-  start: 2025-07-21
-  end: 2025-07-25
-  sub: ML
-  
+ 
 - title: EUSIPCO
   year: 2025
   id: eusipco25
@@ -169,19 +60,6 @@
   date: July 7 - 12, 2025
   start: 2025-09-08
   end: 2025-09-12
-  sub: SP
-
-- title: SMC
-  year: 2025
-  id: smc25
-  full_name: Sound and Music Computing Conference
-  link: https://smc25.iem.at
-  deadline: '2025-03-03 23:59:00'
-  timezone: UTC+02
-  place: Graz, Austria
-  date: July 7 - 12, 2025
-  start: 2025-07-07
-  end: 2025-07-12
   sub: SP
    
 - title: IJCAI
@@ -325,6 +203,21 @@
   end: 2025-10-30
   sub: ML
   note: Mandatory abstract deadline on April 29, 2025. More info <a href='https://ecai2025.org'>here</a>.
+  
+- title: DCASE
+  year: 2025
+  id: dcase25
+  full_name: Workshop on Detection and Classification of Acoustic Scenes and Events
+  link: https://dcase.community/workshop2025/
+  abstract_deadline: '2025-07-04 23:59:00'
+  deadline: '2025-07-07 23:59:59'
+  timezone: UTC+00
+  place: Barcelona, Spain
+  date: October 30 - 31, 2025
+  start: 2025-10-30
+  end: 2025-10-31
+  sub: ML
+  note: Mandatory abstract deadline on July 4, 2025. 
      
 - title: ICDM
   year: 2025
@@ -353,3 +246,15 @@
   end: 2025-12-7
   sub: ML
   note: Mandatory abstract deadline on May 11, 2025
+   
+- title: AAAI
+  year: 2026
+  id: aaai26
+  link: https://aaai.org/conference/aaai/aaai-26/
+  deadline: '2025-07-07 23:59:59'
+  timezone: UTC-12
+  place: Singapore
+  date: January 20-27, 2026
+  start: 2026-01-20
+  end: 2026-01-27
+  sub: ML
