@@ -15,6 +15,19 @@
   sub: SP
   note: Mandatory paper registration deadline on Sep 19, 2025. 
   
+- title: AIMG
+  year: 2025
+  id: aimg25
+  full_name: Workshop on AI Music Generation with AI Music Competition 
+  link: https://www.intellisky.org/workshops/AIMG2025/workshop_AIMG2025.html
+  deadline: '2025-10-06 23:59'
+  timezone: UTC-12
+  place: online
+  date: December 8, 2025
+  start: 2026-12-08
+  end: 2026-12-08
+  sub: ML
+  
 - title: evoMUSART
   year: 2026
   id: evomusart26
