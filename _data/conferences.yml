@@ -1,5 +1,4 @@
 ---
-
     
 - title: ACM MMSys
   year: 2026
@@ -39,6 +38,19 @@
   date: April 8-10, 2026
   start: 2026-04-08
   end: 2026-04-10
+  sub: ML
+ 
+- title: ICPR
+  year: 2026
+  id: icpr26
+  full_name: International Conference on Pattern Recognition
+  link: https://icpr2026.org
+  deadline: '2025-12-20 23:59'
+  timezone: UTC-12
+  place: Lyon, France
+  date: August 17-22, 2026
+  start: 2026-08-17
+  end: 2026-0-22
   sub: ML
     
 - title: IJCNN
