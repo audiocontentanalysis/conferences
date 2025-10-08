@@ -1,19 +1,5 @@
 ---
-    
-- title: ACM MMSys
-  year: 2026
-  id: mmsys26
-  link: https://2026.acmmmsys.org/
-  deadline: '2025-09-26 23:59:59'
-  abstract_deadline: '2025-09-19 23:59:59'
-  timezone: UTC-12
-  place: Hongkong, China
-  date: April 4-8, 2026
-  start: 2026-04-04
-  end: 2026-04-08
-  sub: SP
-  note: Mandatory paper registration deadline on Sep 19, 2025. 
-  
+   
 - title: AIMG
   year: 2025
   id: aimg25
@@ -65,18 +51,6 @@
   end: 2026-06-26
   sub: ML
   
-- title: ICLR
-  year: 2026
-  id: iclr26
-  link: https://iclr.cc/Conferences/2026
-  abstract_deadline: '2025-09-19 23:59:00'
-  deadline: '2025-09-24 23:59:59'
-  timezone: UTC-12
-  place: Rio de Janeiro, Brazil
-  date: April 23 - 27, 2026
-  sub: ML
-  note: Mandatory abstract deadline on Sep 19, 2025. 
-  
 - title: Interspeech
   year: 2026
   id: interspeech26
@@ -88,36 +62,6 @@
   start: 2026-09-27
   end: 2026-10-01
   sub: SP
-
-- title: ISMIR
-  year: 2025
-  id: ismir25
-  full_name: International Society for Music Information Retrieval Conference
-  link: https://ismir2025.ismir.net/
-  deadline: '2025-03-28 23:59:00'
-  abstract_deadline: '2025-03-21 23:59:59'
-  timezone: UTC-12
-  place: Daejeon, Korea
-  date: September 21 - 25, 2025
-  start: 2025-09-21
-  end: 2025-09-25
-  sub: ML
-  note: Mandatory abstract deadline on March 24, 2025. 
-
-- title: WASPAA
-  year: 2025
-  id: waspaa25
-  full_name: IEEE Workshop on Applications of Signal Processing to Audio and Acoustics 
-  link: http://waspaa.com/
-  abstract_deadline: '2025-04-23 23:59:59'
-  deadline: '2025-05-07 23:59:00'
-  timezone: UTC-03
-  place: Lake Tahoe, CA
-  date: October 12 - 15, 2025
-  start: 2025-10-12
-  end: 2025-10-15
-  sub: SP
-  note: Mandatory abstract deadline on April 23, 2025. 
 
 - title: ECAI
   year: 2025
@@ -188,6 +132,32 @@
   start: 2026-01-20
   end: 2026-01-27
   sub: ML
+   
+- title: ACM MMSys
+  year: 2026
+  id: mmsys26
+  link: https://2026.acmmmsys.org/
+  deadline: '2025-09-26 23:59:59'
+  abstract_deadline: '2025-09-19 23:59:59'
+  timezone: UTC-12
+  place: Hongkong, China
+  date: April 4-8, 2026
+  start: 2026-04-04
+  end: 2026-04-08
+  sub: SP
+  note: Mandatory paper registration deadline on Sep 19, 2025. 
+  
+- title: ICLR
+  year: 2026
+  id: iclr26
+  link: https://iclr.cc/Conferences/2026
+  abstract_deadline: '2025-09-19 23:59:00'
+  deadline: '2025-09-24 23:59:59'
+  timezone: UTC-12
+  place: Rio de Janeiro, Brazil
+  date: April 23 - 27, 2026
+  sub: ML
+  note: Mandatory abstract deadline on Sep 19, 2025. 
   
 - title: ICASSP
   year: 2026
