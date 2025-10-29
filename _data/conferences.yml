@@ -36,9 +36,9 @@
   abstract_deadline: '2025-11-14 23:59:59'
   timezone: UTC+00
   place: London, UK
-  date: December 16, 2026
-  start: 2026-12-16
-  end: 2026-12-16
+  date: December 16, 2025
+  start: 2025-12-16
+  end: 2025-12-16
   sub: SP
   note: Mandatory paper registration deadline on Nov 14, 2025. 
   
