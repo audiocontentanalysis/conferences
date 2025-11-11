@@ -106,6 +106,18 @@
   end: 2026-06-26
   sub: ML
   
+- title: EUSIPCO
+  year: 2026
+  id: eusipco26
+  link: https://eusipco2026.org/submissions/
+  deadline: '2026-02-06 23:59:59'
+  timezone: UTC-12
+  place: Bruges, Belgium
+  date: August 31 - September 4, 2026
+  start: 2026-08-31
+  end: 2026-09-04
+  sub: SP
+  
 - title: Interspeech
   year: 2026
   id: interspeech26
