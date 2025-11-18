@@ -77,7 +77,7 @@
   place: Lyon, France
   date: August 17-22, 2026
   start: 2026-08-17
-  end: 2026-0-22
+  end: 2026-08-22
   sub: ML
   
 - title: ICMC
@@ -105,6 +105,21 @@
   end: 2026-08-21
   sub: SP
   note: Mandatory paper registration deadline on Jan 12, 2026. 
+
+- title: SIGIR
+  year: 2026
+  id: sigir26
+  full_name: ACM SIGIR Conference on Research and Development in Information Retrieval
+  link: https://sigir2026.org/en-AU/pages/attending/key-dates
+  deadline: '2026-01-22 23:59'
+  abstract_deadline: '2026-01-15 23:59:59'
+  timezone: UTC-12
+  place: Melbourne, Australia
+  date: July 20-24, 2026
+  start: 2026-07-20
+  end: 2026-07-24
+  sub: ML
+  note: Mandatory paper registration deadline on Jan 15, 2026. 
     
 - title: IJCNN
   year: 2026
