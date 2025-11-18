@@ -141,6 +141,18 @@
   start: 2026-09-27
   end: 2026-10-01
   sub: SP
+    
+- title: ICANN
+  year: 2026
+  id: icann26
+  link: https://e-nns.org/icann2026/important-dates/
+  deadline: '2026-03-16 23:59:59'
+  timezone: UTC-12
+  place: Padua, Italy
+  date: September 14-17, 2026
+  start: 2026-09-14
+  end: 2026-09-17
+  sub: ML
 
 - title: ECAI
   year: 2025
