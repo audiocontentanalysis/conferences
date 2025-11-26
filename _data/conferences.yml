@@ -93,6 +93,18 @@
   end: 2026-07-24
   sub: ML
   note: Mandatory paper registration deadline on Jan 15, 2026. 
+  
+- title: DLfM
+  year: 2026
+  id: dlfm26
+  link: https://dlfm.web.ox.ac.uk/2026-cfp
+  deadline: '2026-01-23 23:59:59'
+  timezone: UTC+01
+  place: Thessaloniki, Greece
+  date: July 2, 2026
+  start: 2026-07-02
+  end: 2026-07-02
+  sub: SP
     
 - title: IJCNN
   year: 2026
