@@ -173,6 +173,19 @@
   start: 2026-05-18
   end: 2026-05-20
   sub: SP
+ 
+- title: DAFx
+  year: 2026
+  id: csme26
+  full_name: International Conference on Digital Audio Effects
+  link: https://dafx26.mit.edu/call-for-papers/
+  deadline: '2026-03-30 23:59'
+  timezone: UTC-12
+  place: Boston, MA
+  date: September 1 - 4, 2026
+  start: 2026-09-01
+  end: 2026-09-04
+  sub: SP
 
 - title: AIMC
   year: 2026
