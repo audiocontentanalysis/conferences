@@ -1,33 +1,5 @@
 ---
-   
-- title: DMRN+20
-  year: 2025
-  id: dmrn25
-  full_name: Digital Music Research Network One-day Workshop 2025
-  link: https://www.qmul.ac.uk/dmrn/dmrn20/
-  deadline: '2025-11-21 23:59:59'
-  abstract_deadline: '2025-11-14 23:59:59'
-  timezone: UTC+00
-  place: London, UK
-  date: December 16, 2025
-  start: 2025-12-16
-  end: 2025-12-16
-  sub: SP
-  note: Mandatory paper registration deadline on Nov 14, 2025. 
-  
-- title: ICME
-  year: 2026
-  id: icme26
-  full_name: IEEE International Conference on Multimedia and Expo
-  link: https://2026.ieeeicme.org/
-  deadline: '2025-12-12 23:59:59'
-  timezone: UTC-12
-  place: Bangkok, Thailand
-  date: July 5 - 9, 2026
-  start: 2026-07-05
-  end: 2026-07-09
-  sub: SP
-   
+    
 - title: NLP4MusA
   year: 2026
   id: nlp4musa2026
@@ -66,7 +38,19 @@
   start: 2026-05-10
   end: 2026-05-16
   sub: SP
- 
+  
+- title: ICME
+  year: 2026
+  id: icme26
+  full_name: IEEE International Conference on Multimedia and Expo
+  link: https://2026.ieeeicme.org/
+  deadline: '2025-12-31 23:59:59'
+  timezone: UTC-12
+  place: Bangkok, Thailand
+  date: July 5 - 9, 2026
+  start: 2026-07-05
+  end: 2026-07-09
+
 - title: IJCAI
   year: 2026
   id: ijcai26
@@ -201,35 +185,22 @@
   end: 2026-09-18
   sub: ML
   note: Mandatory abstract submission deadline on April 4, 2026. 
-  
-- title: NeurIPS
-  year: 2025
-  id: neurips25
-  full_name: Conference on Neural Information Processing Systems
-  hindex: 309
-  link: https://nips.cc/Conferences/2025
-  deadline: '2025-05-15 19:59:59'
-  abstract_deadline: '2025-05-11 19:59:59'
-  timezone: UTC
-  place: San Diego, California (US)
-  date: December 2 - December 7, 2025
-  start: 2025-12-02
-  end: 2025-12-7
-  sub: ML
-  note: Mandatory abstract deadline on May 11, 2025
    
-- title: AIMG
+- title: DMRN+20
   year: 2025
-  id: aimg25
-  full_name: Workshop on AI Music Generation with AI Music Competition 
-  link: https://www.intellisky.org/workshops/AIMG2025/workshop_AIMG2025.html
-  deadline: '2025-10-06 23:59'
-  timezone: UTC-12
-  place: online
-  date: December 8, 2025
-  start: 2025-12-08
-  end: 2025-12-08
-  sub: ML
+  id: dmrn25
+  full_name: Digital Music Research Network One-day Workshop 2025
+  link: https://www.qmul.ac.uk/dmrn/dmrn20/
+  deadline: '2025-11-21 23:59:59'
+  abstract_deadline: '2025-11-14 23:59:59'
+  timezone: UTC+00
+  place: London, UK
+  date: December 16, 2025
+  start: 2025-12-16
+  end: 2025-12-16
+  sub: SP
+  note: Mandatory paper registration deadline on Nov 14, 2025. 
+   sub: SP
    
 - title: AAAI
   year: 2026
