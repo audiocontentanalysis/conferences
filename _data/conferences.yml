@@ -37,7 +37,6 @@
   date: May 10 - 16, 2026
   start: 2026-05-10
   end: 2026-05-16
-  sub: SP
   
 - title: ICME
   year: 2026
@@ -50,6 +49,7 @@
   date: July 5 - 9, 2026
   start: 2026-07-05
   end: 2026-07-09
+  sub: SP
 
 - title: IJCAI
   year: 2026
@@ -200,7 +200,6 @@
   end: 2025-12-16
   sub: SP
   note: Mandatory paper registration deadline on Nov 14, 2025. 
-   sub: SP
    
 - title: AAAI
   year: 2026
