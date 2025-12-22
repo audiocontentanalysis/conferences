@@ -131,6 +131,19 @@
   start: 2026-09-27
   end: 2026-10-01
   sub: SP
+
+- title: SMC
+  year: 2026
+  id: smc26
+  full_name: Sound and Music Computing Conference
+  link: https://smc26.mbz.hr/en/about/smc26
+  deadline: '2026-03-13 23:59'
+  timezone: UTC-12
+  place: Zagreb, Croatia
+  date: November 2 - 7, 2026
+  start: 2026-11-02
+  end: 2026-11-07
+  sub: SP
     
 - title: ICANN
   year: 2026
@@ -160,7 +173,7 @@
  
 - title: DAFx
   year: 2026
-  id: csme26
+  id: dafx26
   full_name: International Conference on Digital Audio Effects
   link: https://dafx26.mit.edu/call-for-papers/
   deadline: '2026-03-30 23:59'
