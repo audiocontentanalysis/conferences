@@ -160,6 +160,21 @@
   end: 2026-09-18
   sub: ML
   note: Mandatory abstract submission deadline on April 4, 2026. 
+
+- title: ISMIR
+  year: 2026
+  id: ismir26
+  full_name: International Society for Music Information Retrieval Conference
+  link: https://ismir2026.ismir.net/authors/call-for-papers 
+  deadline: '2026-04-27 23:59'
+  abstract_deadline: '2026-04-20 23:59:59'
+  timezone: UTC-12
+  place: Abu Dhabi, United Arab Emirates 
+  date: July 20-24, 2026
+  start: 2026-11-08
+  end: 2026-11-12
+  sub: ML
+  note: Mandatory paper registration deadline on Apr 20, 2026. 
  
 - title: AAAI
   year: 2026
