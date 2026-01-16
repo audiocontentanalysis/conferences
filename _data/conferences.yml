@@ -81,6 +81,21 @@
   start: 2026-08-31
   end: 2026-09-04
   sub: SP
+
+- title: NIME
+  year: 2026
+  id: nime26
+  full_name: New Interfaces for Musical Expression
+  link: https://nime2026.org/
+  deadline: '2026-02-12 23:59'
+  abstract_deadline: '2026-02-05 23:59:59'
+  timezone: UTC-12
+  place: London, UK
+  date: June 23-26, 2026
+  start: 2026-06-23
+  end: 2026-06-26
+  sub: SP
+  note: Mandatory paper registration deadline on Feb 5, 2026. 
   
 - title: Interspeech
   year: 2026
@@ -170,7 +185,7 @@
   abstract_deadline: '2026-04-20 23:59:59'
   timezone: UTC-12
   place: Abu Dhabi, United Arab Emirates 
-  date: July 20-24, 2026
+  date: November 8-12, 2026
   start: 2026-11-08
   end: 2026-11-12
   sub: ML
