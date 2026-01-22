@@ -176,6 +176,21 @@
   sub: ML
   note: Mandatory abstract submission deadline on April 4, 2026. 
 
+- title: RecSys
+  year: 2026
+  id: recsys26
+  full_name: ACM Conference on Recommender Systems
+  link: https://recsys.acm.org/recsys26/recsys-26-call-for-contributions/
+  deadline: '2026-04-21 23:59'
+  abstract_deadline: '2026-04-14 23:59:59'
+  timezone: UTC-12
+  place: Minneapolis, MI 
+  date: September 28 - October 2, 2026
+  start: 2026-09-28
+  end: 2026-10-02
+  sub: ML
+  note: Mandatory paper registration deadline on Apr 14, 2026. 
+
 - title: ISMIR
   year: 2026
   id: ismir26
