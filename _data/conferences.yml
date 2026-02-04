@@ -74,7 +74,7 @@
   id: eusipco26
   full_name: European Signal Processing Conference
   link: https://eusipco2026.org/submissions/
-  deadline: '2026-02-06 23:59:59'
+  deadline: '2026-02-13 23:59:59'
   timezone: UTC-12
   place: Bruges, Belgium
   date: August 31 - September 4, 2026
@@ -205,7 +205,20 @@
   end: 2026-11-12
   sub: ML
   note: Mandatory paper registration deadline on Apr 20, 2026. 
- 
+  
+- title: MMSP
+  year: 2026
+  id: mmsp26
+  full_name: IEEE International Workshop on Multimedia Signal Processing
+  link: https://attend.ieee.org/mmsp-2026/call-for-papers/
+  deadline: '2026-05-15 23:59:59'
+  timezone: UTC-12
+  place: Istanbul, Turkiye
+  date: September 22-24, 2026
+  start: 2026-09-22
+  end: 2026-09-24
+  sub: SP
+
 - title: AAAI
   year: 2026
   id: aaai26
