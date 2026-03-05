@@ -64,6 +64,21 @@
   end: 2026-09-04
   sub: SP
 
+- title: ACM MM
+  year: 2026
+  id: acmmm26
+  full_name: ACM International Conference on Multimedia
+  link: https://2026.acmmm.org/site/cfp-guidelines.html
+  deadline: '2026-04-01 23:59:59'
+  abstract_deadline: '2026-03-25 23:59:59'
+  timezone: UTC-12
+  place: Rio de Janeiro, Brazil
+  date: November 10 - 14, 2026
+  start: 2026-11-10
+  end: 2026-11-14
+  sub: ML
+  note: Mandatory paper registration deadline on March 25, 2026. 
+
 - title: AIMC
   year: 2026
   id: aimc26
