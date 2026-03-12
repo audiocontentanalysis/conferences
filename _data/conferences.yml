@@ -149,6 +149,19 @@
   start: 2026-12-06
   end: 2026-12-11
   sub: ML
+ 
+- title: MMM
+  year: 2027
+  id: mmm27
+  full_name: International Conference on Multimedia Modeling 
+  link: https://www.mmm2027.net/
+  deadline: '2026-08-16 23:59'
+  timezone: UTC-12
+  place: Siem Reap, Cambodia    
+  date: January 5 - 8, 2027
+  start: 2027-01-05
+  end: 2027-01-08
+  sub: SP
     
 - title: NLP4MusA
   year: 2026
