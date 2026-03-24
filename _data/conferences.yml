@@ -143,12 +143,14 @@
   id: neurips26
   link: https://openreview.net/group?id=NeurIPS.cc%2F2026%2FConference#tab-recent-activity
   deadline: '2025-05-06 23:59:59'
+  abstract_deadline: '2026-05-04 23:59:59'
   timezone: UTC-12
   place: Sydney, Australia
   date: December 06-11, 2026
   start: 2026-12-06
   end: 2026-12-11
   sub: ML
+  note: Mandatory paper registration deadline on May 4 20, 2026. 
  
 - title: MMM
   year: 2027
