@@ -1,28 +1,29 @@
 ---
-  
-- title: Interspeech
+   
+- title: CSME
   year: 2026
-  id: interspeech26
-  link: https://interspeech2026.org/
-  deadline: '2026-03-02 23:59:59'
-  timezone: UTC-12
-  place: Sydney, Australia
-  date: September 27 - October 1, 2026
-  start: 2026-09-27
-  end: 2026-10-01
+  id: csme26
+  full_name: Computer Supported Music Education (CSME 2026) at International Conference on Computer Supported Education (CSEDU 2026)
+  link: https://csedu.scitevents.org/CSME.aspx
+  deadline: '2026-03-24 23:59'
+  timezone: UTC-00
+  place: Benidorm, Spain
+  date: May 18-20, 2026
+  start: 2026-05-18
+  end: 2026-05-20
   sub: SP
-
-- title: SMC
+  
+- title: Automotive Audio
   year: 2026
-  id: smc26
-  full_name: Sound and Music Computing Conference
-  link: https://smc26.mbz.hr/en/about/smc26
-  deadline: '2026-03-13 23:59'
-  timezone: UTC-12
-  place: Zagreb, Croatia
-  date: November 2 - 7, 2026
-  start: 2026-11-02
-  end: 2026-11-07
+  id: aesaa26
+  full_name: AES Automotive Audio Conference
+  link: https://aes.org/events-calendar/2026-aes-6th-international-automotive-audio-conference/
+  deadline: '2026-03-27 23:59'
+  timezone: UTC-05
+  place: Detroit
+  date: July 29-31, 2026
+  start: 2026-07-29
+  end: 2026-07-31
   sub: SP
     
 - title: ICANN
@@ -37,19 +38,6 @@
   start: 2026-09-14
   end: 2026-09-17
   sub: ML
-  
-- title: CSME
-  year: 2026
-  id: csme26
-  full_name: Computer Supported Music Education (CSME 2026) at International Conference on Computer Supported Education (CSEDU 2026)
-  link: https://csedu.scitevents.org/CSME.aspx
-  deadline: '2026-03-24 23:59'
-  timezone: UTC-00
-  place: Benidorm, Spain
-  date: May 18-20, 2026
-  start: 2026-05-18
-  end: 2026-05-20
-  sub: SP
  
 - title: DAFx
   year: 2026
@@ -93,6 +81,18 @@
   end: 2026-09-18
   sub: ML
   note: Mandatory abstract submission deadline on April 4, 2026. 
+ 
+- title: Interspeech
+  year: 2026
+  id: interspeech26
+  link: https://interspeech2026.org/
+  deadline: '2026-03-02 23:59:59'
+  timezone: UTC-12
+  place: Sydney, Australia
+  date: September 27 - October 1, 2026
+  start: 2026-09-27
+  end: 2026-10-01
+  sub: SP
 
 - title: RecSys
   year: 2026
@@ -108,6 +108,19 @@
   end: 2026-10-02
   sub: ML
   note: Mandatory paper registration deadline on Apr 14, 2026. 
+
+- title: SMC
+  year: 2026
+  id: smc26
+  full_name: Sound and Music Computing Conference
+  link: https://smc26.mbz.hr/en/about/smc26
+  deadline: '2026-03-13 23:59'
+  timezone: UTC-12
+  place: Zagreb, Croatia
+  date: November 2 - 7, 2026
+  start: 2026-11-02
+  end: 2026-11-07
+  sub: SP
 
 - title: ISMIR
   year: 2026
