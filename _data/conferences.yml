@@ -150,12 +150,27 @@
   end: 2026-09-24
   sub: SP
 
+- title: DCASE
+  year: 2026
+  id: dcase26
+  full_name: Workshop on Detection and Classification of Acoustic Scenes and Events
+  link: https://dcase.community/workshop2026/index
+  deadline: '2026-07-12 23:59'
+  abstract_deadline: '2026-07-05 23:59:59'
+  timezone: UTC-12
+  place: Boston 
+  date: October 28 - 29, 2026
+  start: 2026-10-28
+  end: 2026-10-29
+  sub: ML
+  note: Mandatory abstract submission deadline on July 5, 2026. 
+
 - title: NeurIPS
   year: 2026
   full_name: Conference on Neural Information Processing Systems
   id: neurips26
   link: https://openreview.net/group?id=NeurIPS.cc%2F2026%2FConference#tab-recent-activity
-  deadline: '2025-05-06 23:59:59'
+  deadline: '2026-05-06 23:59:59'
   abstract_deadline: '2026-05-04 23:59:59'
   timezone: UTC-12
   place: Sydney, Australia
