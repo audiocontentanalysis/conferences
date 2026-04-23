@@ -72,7 +72,7 @@
   id: aimc26
   full_name: Conference on AI Music Creativity
   link: https://aimc2026.org/home
-  deadline: '2026-04-04 23:59:59'
+  deadline: '2026-05-02 23:59:59'
   abstract_deadline: '2026-04-18 23:59:59'
   timezone: UTC+01
   place: Berlin, Germany
@@ -80,7 +80,7 @@
   start: 2026-09-16
   end: 2026-09-18
   sub: ML
-  note: Mandatory abstract submission deadline on April 4, 2026. 
+  note: Mandatory abstract submission deadline on April 18, 2026. 
  
 - title: Interspeech
   year: 2026
