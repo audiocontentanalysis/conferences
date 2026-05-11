@@ -1,5 +1,63 @@
 ---
-   
+ 
+- title: MMSP
+  year: 2026
+  id: mmsp26
+  full_name: IEEE International Workshop on Multimedia Signal Processing
+  link: https://attend.ieee.org/mmsp-2026/call-for-papers/
+  deadline: '2026-05-15 23:59:59'
+  timezone: UTC-12
+  place: Istanbul, Turkiye
+  date: September 22-24, 2026
+  start: 2026-09-22
+  end: 2026-09-24
+  sub: SP
+ 
+- title: ICCCM
+  year: 2026
+  id: icccm26
+  full_name: International Conference on Computational and Cognitive Musicology
+  link: https://digital.musicology.org/icccm-2026/
+  deadline: '2026-06-01 23:59:59'
+  timezone: UTC+1
+  place: Wurzburg, Germany
+  date: September 21-23, 2026
+  start: 2026-09-21
+  end: 2026-09-23
+  sub: SP
+
+- title: DCASE
+  year: 2026
+  id: dcase26
+  full_name: Workshop on Detection and Classification of Acoustic Scenes and Events
+  link: https://dcase.community/workshop2026/index
+  deadline: '2026-07-12 23:59'
+  abstract_deadline: '2026-07-05 23:59:59'
+  timezone: UTC-12
+  place: Boston 
+  date: October 28 - 29, 2026
+  start: 2026-10-28
+  end: 2026-10-29
+  sub: ML
+  note: Mandatory abstract submission deadline on July 5, 2026. 
+
+- title: MuRS
+  year: 2026
+  id: murs26
+  full_name: Music Recommender Systems Workshop
+  link: https://sites.google.com/view/murs-2026/call-for-papers
+  deadline: '2026-07-17 23:59'
+  abstract_deadline: '2026-07-14 23:59:59'
+  timezone: UTC-12
+  place: Boston 
+  date: September 28, 2026
+  start: 2026-09-28
+  end: 2026-09-28neurips
+  sub: ML
+  note: Mandatory abstract submission deadline on July 14, 2026. 
+  
+  
+  
 - title: CSME
   year: 2026
   id: csme26
@@ -25,48 +83,7 @@
   start: 2026-07-29
   end: 2026-07-31
   sub: SP
-    
-- title: ICANN
-  year: 2026
-  id: icann26
-  full_name: International Conference on Artificial Neural Networks
-  link: https://e-nns.org/icann2026/important-dates/
-  deadline: '2026-03-30 23:59:59'
-  timezone: UTC-12
-  place: Padua, Italy
-  date: September 14-17, 2026
-  start: 2026-09-14
-  end: 2026-09-17
-  sub: ML
- 
-- title: DAFx
-  year: 2026
-  id: dafx26
-  full_name: International Conference on Digital Audio Effects
-  link: https://dafx26.mit.edu/call-for-papers/
-  deadline: '2026-03-30 23:59'
-  timezone: UTC-12
-  place: Boston, MA
-  date: September 1 - 4, 2026
-  start: 2026-09-01
-  end: 2026-09-04
-  sub: SP
-
-- title: ACM MM
-  year: 2026
-  id: acmmm26
-  full_name: ACM International Conference on Multimedia
-  link: https://2026.acmmm.org/site/cfp-guidelines.html
-  deadline: '2026-04-01 23:59:59'
-  abstract_deadline: '2026-03-25 23:59:59'
-  timezone: UTC-12
-  place: Rio de Janeiro, Brazil
-  date: November 10 - 14, 2026
-  start: 2026-11-10
-  end: 2026-11-14
-  sub: ML
-  note: Mandatory paper registration deadline on March 25, 2026. 
-
+  
 - title: AIMC
   year: 2026
   id: aimc26
@@ -81,6 +98,32 @@
   end: 2026-09-18
   sub: ML
   note: Mandatory abstract submission deadline on April 18, 2026. 
+ 
+- title: DAFx
+  year: 2026
+  id: dafx26
+  full_name: International Conference on Digital Audio Effects
+  link: https://dafx26.mit.edu/call-for-papers/
+  deadline: '2026-03-30 23:59'
+  timezone: UTC-12
+  place: Boston, MA
+  date: September 1 - 4, 2026
+  start: 2026-09-01
+  end: 2026-09-04
+  sub: SP
+    
+- title: ICANN
+  year: 2026
+  id: icann26
+  full_name: International Conference on Artificial Neural Networks
+  link: https://e-nns.org/icann2026/important-dates/
+  deadline: '2026-03-30 23:59:59'
+  timezone: UTC-12
+  place: Padua, Italy
+  date: September 14-17, 2026
+  start: 2026-09-14
+  end: 2026-09-17
+  sub: ML
  
 - title: Interspeech
   year: 2026
@@ -137,46 +180,20 @@
   sub: ML
   note: Mandatory paper registration deadline on Apr 20, 2026. 
   
-- title: MMSP
+- title: ACM MM
   year: 2026
-  id: mmsp26
-  full_name: IEEE International Workshop on Multimedia Signal Processing
-  link: https://attend.ieee.org/mmsp-2026/call-for-papers/
-  deadline: '2026-05-15 23:59:59'
+  id: acmmm26
+  full_name: ACM International Conference on Multimedia
+  link: https://2026.acmmm.org/site/cfp-guidelines.html
+  deadline: '2026-04-01 23:59:59'
+  abstract_deadline: '2026-03-25 23:59:59'
   timezone: UTC-12
-  place: Istanbul, Turkiye
-  date: September 22-24, 2026
-  start: 2026-09-22
-  end: 2026-09-24
-  sub: SP
- 
-- title: ICCCM
-  year: 2026
-  id: icccm26
-  full_name: International Conference on Computational and Cognitive Musicology
-  link: https://digital.musicology.org/icccm-2026/
-  deadline: '2026-06-01 23:59:59'
-  timezone: UTC+1
-  place: Wurzburg, Germany
-  date: September 21-23, 2026
-  start: 2026-09-21
-  end: 2026-09-23
-  sub: SP
-
-- title: DCASE
-  year: 2026
-  id: dcase26
-  full_name: Workshop on Detection and Classification of Acoustic Scenes and Events
-  link: https://dcase.community/workshop2026/index
-  deadline: '2026-07-12 23:59'
-  abstract_deadline: '2026-07-05 23:59:59'
-  timezone: UTC-12
-  place: Boston 
-  date: October 28 - 29, 2026
-  start: 2026-10-28
-  end: 2026-10-29
+  place: Rio de Janeiro, Brazil
+  date: November 10 - 14, 2026
+  start: 2026-11-10
+  end: 2026-11-14
   sub: ML
-  note: Mandatory abstract submission deadline on July 5, 2026. 
+  note: Mandatory paper registration deadline on March 25, 2026. 
 
 - title: NeurIPS
   year: 2026
