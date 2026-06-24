@@ -55,22 +55,22 @@
   end: 2026-09-28neurips
   sub: ML
   note: Mandatory abstract submission deadline on July 14, 2026. 
-  
-  
-  
-- title: CSME
-  year: 2026
-  id: csme26
-  full_name: Computer Supported Music Education (CSME 2026) at International Conference on Computer Supported Education (CSEDU 2026)
-  link: https://csedu.scitevents.org/CSME.aspx
-  deadline: '2026-03-24 23:59'
-  timezone: UTC-00
-  place: Benidorm, Spain
-  date: May 18-20, 2026
-  start: 2026-05-18
-  end: 2026-05-20
-  sub: SP
-  
+
+- title: SIGKDD
+  year: 2027
+  id: kdd27
+  full_name: ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+  link: https://kdd2027.kdd.org/
+  deadline: '2026-07-26 23:59'
+  abstract_deadline: '2026-07-19 23:59:59'
+  timezone: UTC-12
+  place: San Jose 
+  date: August 1 - 1, 2027
+  start: 2027-08-01
+  end: 2027-08-01
+  sub: ML
+  note: Mandatory abstract submission deadline on July 19, 2026 (1st round). 
+
 - title: Automotive Audio
   year: 2026
   id: aesaa26
