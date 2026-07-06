@@ -1,30 +1,4 @@
 ---
- 
-- title: MMSP
-  year: 2026
-  id: mmsp26
-  full_name: IEEE International Workshop on Multimedia Signal Processing
-  link: https://attend.ieee.org/mmsp-2026/call-for-papers/
-  deadline: '2026-05-29 23:59:59'
-  timezone: UTC-12
-  place: Istanbul, Turkiye
-  date: September 22-24, 2026
-  start: 2026-09-22
-  end: 2026-09-24
-  sub: SP
- 
-- title: ICCCM
-  year: 2026
-  id: icccm26
-  full_name: International Conference on Computational and Cognitive Musicology
-  link: https://digital.musicology.org/icccm-2026/
-  deadline: '2026-06-01 23:59:59'
-  timezone: UTC+1
-  place: Wurzburg, Germany
-  date: September 21-23, 2026
-  start: 2026-09-21
-  end: 2026-09-23
-  sub: SP
 
 - title: DCASE
   year: 2026
@@ -249,6 +223,32 @@
   start: 2026-09-14
   end: 2026-09-17
   sub: ML
+ 
+- title: ICCCM
+  year: 2026
+  id: icccm26
+  full_name: International Conference on Computational and Cognitive Musicology
+  link: https://digital.musicology.org/icccm-2026/
+  deadline: '2026-06-01 23:59:59'
+  timezone: UTC+1
+  place: Wurzburg, Germany
+  date: September 21-23, 2026
+  start: 2026-09-21
+  end: 2026-09-23
+  sub: SP
+ 
+- title: MMSP
+  year: 2026
+  id: mmsp26
+  full_name: IEEE International Workshop on Multimedia Signal Processing
+  link: https://attend.ieee.org/mmsp-2026/call-for-papers/
+  deadline: '2026-05-29 23:59:59'
+  timezone: UTC-12
+  place: Istanbul, Turkiye
+  date: September 22-24, 2026
+  start: 2026-09-22
+  end: 2026-09-24
+  sub: SP
  
 - title: Interspeech
   year: 2026
