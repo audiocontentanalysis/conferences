@@ -101,19 +101,34 @@
   end: 2027-05-21
   sub: SP
  
-- title: ICME
-  year: 2026
-  id: icme26
-  full_name: IEEE International Conference on Multimedia and Expo
-  link: https://2026.ieeeicme.org/
-  deadline: '2025-12-31 23:59:59'
+- title: SIGMETRICS
+  year: 2027
+  id: sigmetrics27
+  full_name: ACM SIGMETRICS International Conference on Measurement and Analysis of Computer Systems
+  link: https://sigmetrics.org/sigmetrics2027/
+  deadline: '2027-01-11 23:59'
+  abstract_deadline: '2027-01-04 23:59:59'
   timezone: UTC-12
-  place: Bangkok, Thailand
-  date: July 5 - 9, 2026
-  start: 2026-07-05
-  end: 2026-07-09
-  sub: SP
-
+  place: Atlanta, GA
+  date: June 7-11, 2027
+  start: 2027-06-07
+  end: 2027-06-11
+  sub: ML
+  note: Mandatory paper registration deadline on Jan 4, 2027. 
+ 
+- title: IJCNN
+  year: 2027
+  id: ijcnn27
+  full_name: International Conference on Neural Networks
+  link: https://www.ijcnn.org/2027/
+  deadline: '2027-01-31 23:59'
+  timezone: UTC-12
+  place: Cape Town, South Africa
+  date: June 14-18, 2027
+  start: 2027-06-14
+  end: 2027-06-18
+  sub: ML    
+  
 - title: SIGIR
   year: 2026
   id: sigir26
