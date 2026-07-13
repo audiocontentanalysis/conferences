@@ -101,6 +101,19 @@
   end: 2027-05-21
   sub: SP
  
+- title: MMSys
+  year: 2027
+  id: mmsys27
+  full_name: ACM Multimedia Systems Conference
+  link: https://2027.acmmmsys.org/
+  deadline: '2026-11-19 23:59:59'
+  timezone: UTC+01
+  place: Ghent, Belgium
+  date: March 30 -  April 2, 2027
+  start: 2027-03-30
+  end: 2027-04-02
+  sub: SP
+ 
 - title: SIGMETRICS
   year: 2027
   id: sigmetrics27
