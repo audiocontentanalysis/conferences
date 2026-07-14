@@ -1,20 +1,5 @@
 ---
 
-- title: DCASE
-  year: 2026
-  id: dcase26
-  full_name: Workshop on Detection and Classification of Acoustic Scenes and Events
-  link: https://dcase.community/workshop2026/index
-  deadline: '2026-07-12 23:59'
-  abstract_deadline: '2026-07-05 23:59:59'
-  timezone: UTC-12
-  place: Boston 
-  date: October 28 - 29, 2026
-  start: 2026-10-28
-  end: 2026-10-29
-  sub: ML
-  note: Mandatory abstract submission deadline on July 5, 2026. 
-
 - title: MuRS
   year: 2026
   id: murs26
@@ -26,7 +11,7 @@
   place: Boston 
   date: September 28, 2026
   start: 2026-09-28
-  end: 2026-09-28neurips
+  end: 2026-09-28
   sub: ML
   note: Mandatory abstract submission deadline on July 14, 2026. 
 
@@ -67,7 +52,7 @@
   link: https://openreview.net/group?id=AAAI.org%2F2027%2FConference#tab-recent-activity
   deadline: '2026-07-28 23:59:59'
   abstract_deadline: '2026-07-21 23:59:59'
-  timezone: UTC-0
+  timezone: UTC-12
   place: Montreal, Canada
   date: February 16-23, 2027
   start: 2027-02-16
@@ -128,19 +113,6 @@
   end: 2027-06-11
   sub: ML
   note: Mandatory paper registration deadline on Jan 4, 2027. 
- 
-- title: IJCNN
-  year: 2027
-  id: ijcnn27
-  full_name: International Conference on Neural Networks
-  link: https://www.ijcnn.org/2027/
-  deadline: '2027-01-31 23:59'
-  timezone: UTC-12
-  place: Cape Town, South Africa
-  date: June 14-18, 2027
-  start: 2027-06-14
-  end: 2027-06-18
-  sub: ML    
   
 - title: SIGIR
   year: 2026
@@ -304,6 +276,21 @@
   end: 2026-10-02
   sub: ML
   note: Mandatory paper registration deadline on Apr 14, 2026. 
+
+- title: DCASE
+  year: 2026
+  id: dcase26
+  full_name: Workshop on Detection and Classification of Acoustic Scenes and Events
+  link: https://dcase.community/workshop2026/index
+  deadline: '2026-07-12 23:59'
+  abstract_deadline: '2026-07-05 23:59:59'
+  timezone: UTC-12
+  place: Boston 
+  date: October 28 - 29, 2026
+  start: 2026-10-28
+  end: 2026-10-29
+  sub: ML
+  note: Mandatory abstract submission deadline on July 5, 2026. 
 
 - title: SMC
   year: 2026
