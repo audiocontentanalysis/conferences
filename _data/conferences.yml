@@ -1,20 +1,5 @@
 ---
 
-- title: MuRS
-  year: 2026
-  id: murs26
-  full_name: Music Recommender Systems Workshop
-  link: https://sites.google.com/view/murs-2026/call-for-papers
-  deadline: '2026-07-17 23:59'
-  abstract_deadline: '2026-07-14 23:59:59'
-  timezone: UTC-12
-  place: Boston 
-  date: September 28, 2026
-  start: 2026-09-28
-  end: 2026-09-28
-  sub: ML
-  note: Mandatory abstract submission deadline on July 14, 2026. 
-
 - title: SIGKDD
   year: 2027
   id: kdd27
@@ -24,26 +9,11 @@
   abstract_deadline: '2026-07-19 23:59:59'
   timezone: UTC-12
   place: San Jose 
-  date: August 1 - 1, 2027
+  date: August 1 - 5, 2027
   start: 2027-08-01
-  end: 2027-08-01
+  end: 2027-08-05
   sub: ML
   note: Mandatory abstract submission deadline on July 19, 2026 (1st round). 
-
-- title: ECIR
-  year: 2027
-  id: ecir27
-  full_name: European Conference on Information Retrieval
-  link: https://www.ecir2027.co.uk/
-  deadline: '2026-10-05 23:59'
-  abstract_deadline: '2026-09-21 23:59:59'
-  timezone: UTC-0
-  place: Southampton, UK 
-  date: March 21 - 25, 2027
-  start: 2027-03-21
-  end: 2027-03-25
-  sub: ML
-  note: Mandatory abstract submission deadline on September 21, 2026. 
 
 - title: AAAI
   year: 2027
@@ -85,7 +55,36 @@
   start: 2027-05-16
   end: 2027-05-21
   sub: SP
- 
+
+- title: ICLR
+  year: 2027
+  id: iclr27
+  full_name: International Conference on Learning Representations
+  link: https://iclr.cc/Conferences/2027/
+  deadline: '2027-09-16 23:59'
+  abstract_deadline: '2027-09-11 23:59:59'
+  timezone: UTC-12
+  place: San Francisco, CA 
+  date: April 26-28, 2027
+  start: 2027-04-26
+  end: 2027-04-28
+  sub: ML
+  note: Mandatory abstract submission deadline on September 11, 2027. 
+
+- title: ECIR
+  year: 2027
+  id: ecir27
+  full_name: European Conference on Information Retrieval
+  link: https://www.ecir2027.co.uk/
+  deadline: '2026-10-05 23:59'
+  abstract_deadline: '2026-09-21 23:59:59'
+  timezone: UTC-0
+  place: Southampton, UK 
+  date: March 21 - 25, 2027
+  start: 2027-03-21
+  end: 2027-03-25
+  sub: ML
+  note: Mandatory abstract submission deadline on September 21, 2026.  
 - title: MMSys
   year: 2027
   id: mmsys27
@@ -114,21 +113,6 @@
   sub: ML
   note: Mandatory paper registration deadline on Jan 4, 2027. 
   
-- title: SIGIR
-  year: 2026
-  id: sigir26
-  full_name: ACM SIGIR Conference on Research and Development in Information Retrieval
-  link: https://sigir2026.org/en-AU/pages/attending/key-dates
-  deadline: '2026-01-22 23:59'
-  abstract_deadline: '2026-01-15 23:59:59'
-  timezone: UTC-12
-  place: Melbourne, Australia
-  date: July 20-24, 2026
-  start: 2026-07-20
-  end: 2026-07-24
-  sub: ML
-  note: Mandatory paper registration deadline on Jan 15, 2026. 
-
 - title: Automotive Audio
   year: 2026
   id: aesaa26
@@ -276,6 +260,21 @@
   end: 2026-10-02
   sub: ML
   note: Mandatory paper registration deadline on Apr 14, 2026. 
+
+- title: MuRS
+  year: 2026
+  id: murs26
+  full_name: Music Recommender Systems Workshop
+  link: https://sites.google.com/view/murs-2026/call-for-papers
+  deadline: '2026-07-17 23:59'
+  abstract_deadline: '2026-07-14 23:59:59'
+  timezone: UTC-12
+  place: Boston 
+  date: September 28, 2026
+  start: 2026-09-28
+  end: 2026-09-28
+  sub: ML
+  note: Mandatory abstract submission deadline on July 14, 2026. 
 
 - title: DCASE
   year: 2026
