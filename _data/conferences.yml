@@ -85,6 +85,7 @@
   end: 2027-03-25
   sub: ML
   note: Mandatory abstract submission deadline on September 21, 2026.  
+
 - title: MMSys
   year: 2027
   id: mmsys27
@@ -97,7 +98,7 @@
   start: 2027-03-30
   end: 2027-04-02
   sub: SP
- 
+
 - title: SIGMETRICS
   year: 2027
   id: sigmetrics27
@@ -112,20 +113,20 @@
   end: 2027-06-11
   sub: ML
   note: Mandatory paper registration deadline on Jan 4, 2027. 
-  
-- title: Automotive Audio
-  year: 2026
-  id: aesaa26
-  full_name: AES Automotive Audio Conference
-  link: https://aes.org/events-calendar/2026-aes-6th-international-automotive-audio-conference/
-  deadline: '2026-03-27 23:59'
-  timezone: UTC-05
-  place: Detroit
-  date: July 29-31, 2026
-  start: 2026-07-29
-  end: 2026-07-31
-  sub: SP
-
+ 
+- title: ICMR
+  year: 2027
+  id: icmr27
+  full_name: International Conference on Multimedia Retrieval
+  link: https://www.icmr2027.org/
+  deadline: '2027-01-31 23:59'
+  timezone: UTC-12
+  place: Singapore
+  date: June 7-11, 2027
+  start: 2027-06-07
+  end: 2027-06-10
+  sub: ML
+ 
 - title: ICPR
   year: 2026
   id: icpr26
