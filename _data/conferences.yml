@@ -61,15 +61,15 @@
   id: iclr27
   full_name: International Conference on Learning Representations
   link: https://iclr.cc/Conferences/2027/
-  deadline: '2027-09-16 23:59'
-  abstract_deadline: '2027-09-11 23:59:59'
+  deadline: '2026-09-25 23:59'
+  abstract_deadline: '2026-09-18 23:59:59'
   timezone: UTC-12
   place: San Francisco, CA 
   date: April 26-28, 2027
   start: 2027-04-26
   end: 2027-04-28
   sub: ML
-  note: Mandatory abstract submission deadline on September 11, 2027. 
+  note: Mandatory abstract submission deadline on September 11, 2026. 
 
 - title: ECIR
   year: 2027
