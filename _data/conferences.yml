@@ -1,54 +1,11 @@
 ---
-
-- title: SIGKDD
-  year: 2027
-  id: kdd27
-  full_name: ACM SIGKDD Conference on Knowledge Discovery and Data Mining
-  link: https://kdd2027.kdd.org/
-  deadline: '2026-07-26 23:59'
-  abstract_deadline: '2026-07-19 23:59:59'
-  timezone: UTC-12
-  place: San Jose 
-  date: August 1 - 5, 2027
-  start: 2027-08-01
-  end: 2027-08-05
-  sub: ML
-  note: Mandatory abstract submission deadline on July 19, 2026 (1st round). 
-
-- title: AAAI
-  year: 2027
-  full_name: Conference on Artificial Intelligence
-  id: aaai27
-  link: https://openreview.net/group?id=AAAI.org%2F2027%2FConference#tab-recent-activity
-  deadline: '2026-07-28 23:59:59'
-  abstract_deadline: '2026-07-21 23:59:59'
-  timezone: UTC-12
-  place: Montreal, Canada
-  date: February 16-23, 2027
-  start: 2027-02-16
-  end: 2027-02-23
-  sub: ML
-  note: Mandatory paper registration deadline on July 21, 2026. 
- 
-- title: MMM
-  year: 2027
-  id: mmm27
-  full_name: International Conference on Multimedia Modeling 
-  link: https://www.mmm2027.net/
-  deadline: '2026-08-16 23:59'
-  timezone: UTC-12
-  place: Siem Reap, Cambodia    
-  date: January 5 - 8, 2027
-  start: 2027-01-05
-  end: 2027-01-08
-  sub: SP
-  
+   
 - title: ICASSP
   year: 2027
   id: icassp27
   full_name: IEEE International Conference on Acoustics, Speech, and Signal Processing
   link: https://2027.ieeeicassp.org/call-for-papers/
-  deadline: '2026-09-16 23:59:59'
+  deadline: '2026-09-23 23:59:59'
   timezone: UTC-12
   place: Toronto, Canada
   date: May 16-21, 2027
@@ -349,3 +306,46 @@
   end: 2026-12-11
   sub: ML
   note: Mandatory paper registration deadline on May 4, 2026. 
+
+- title: MMM
+  year: 2027
+  id: mmm27
+  full_name: International Conference on Multimedia Modeling 
+  link: https://www.mmm2027.net/
+  deadline: '2026-08-16 23:59'
+  timezone: UTC-12
+  place: Siem Reap, Cambodia    
+  date: January 5 - 8, 2027
+  start: 2027-01-05
+  end: 2027-01-08
+  sub: SP
+
+- title: AAAI
+  year: 2027
+  full_name: Conference on Artificial Intelligence
+  id: aaai27
+  link: https://openreview.net/group?id=AAAI.org%2F2027%2FConference#tab-recent-activity
+  deadline: '2026-07-28 23:59:59'
+  abstract_deadline: '2026-07-21 23:59:59'
+  timezone: UTC-12
+  place: Montreal, Canada
+  date: February 16-23, 2027
+  start: 2027-02-16
+  end: 2027-02-23
+  sub: ML
+  note: Mandatory paper registration deadline on July 21, 2026. 
+
+- title: SIGKDD
+  year: 2027
+  id: kdd27
+  full_name: ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+  link: https://kdd2027.kdd.org/
+  deadline: '2026-07-26 23:59'
+  abstract_deadline: '2026-07-19 23:59:59'
+  timezone: UTC-12
+  place: San Jose 
+  date: August 1 - 5, 2027
+  start: 2027-08-01
+  end: 2027-08-05
+  sub: ML
+  note: Mandatory abstract submission deadline on July 19, 2026 (1st round). 
