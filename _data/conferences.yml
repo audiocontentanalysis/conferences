@@ -1,47 +1,17 @@
 ---
-   
-- title: ICASSP
-  year: 2027
-  id: icassp27
-  full_name: IEEE International Conference on Acoustics, Speech, and Signal Processing
-  link: https://2027.ieeeicassp.org/call-for-papers/
-  deadline: '2026-09-23 23:59:59'
-  timezone: UTC-12
-  place: Toronto, Canada
-  date: May 16-21, 2027
-  start: 2027-05-16
-  end: 2027-05-21
-  sub: SP
 
-- title: ICLR
+- title: evomusart
   year: 2027
-  id: iclr27
-  full_name: International Conference on Learning Representations
-  link: https://iclr.cc/Conferences/2027/
-  deadline: '2026-09-25 23:59'
-  abstract_deadline: '2026-09-18 23:59:59'
+  id: evomusart27
+  full_name: International Conference on Artificial Intelligence in Music, Sound, Art and Design
+  link: https://www.evostar.org/2027/evomusart/
+  deadline: '2026-11-01 23:59:59'
   timezone: UTC-12
-  place: San Francisco, CA 
-  date: April 26-28, 2027
-  start: 2027-04-26
-  end: 2027-04-28
+  place: Mainz, Germany
+  date: March 31 - April 2, 2026
+  start: 2027-03-31
+  end: 2027-04-02
   sub: ML
-  note: Mandatory abstract submission deadline on September 11, 2026. 
-
-- title: ECIR
-  year: 2027
-  id: ecir27
-  full_name: European Conference on Information Retrieval
-  link: https://www.ecir2027.co.uk/
-  deadline: '2026-10-05 23:59'
-  abstract_deadline: '2026-09-21 23:59:59'
-  timezone: UTC-0
-  place: Southampton, UK 
-  date: March 21 - 25, 2027
-  start: 2027-03-21
-  end: 2027-03-25
-  sub: ML
-  note: Mandatory abstract submission deadline on September 21, 2026.  
 
 - title: MMSys
   year: 2027
@@ -83,157 +53,33 @@
   start: 2027-06-07
   end: 2027-06-10
   sub: ML
- 
-- title: ICPR
-  year: 2026
-  id: icpr26
-  full_name: International Conference on Pattern Recognition
-  link: https://icpr2026.org
-  deadline: '2025-12-20 23:59'
-  timezone: UTC-12
-  place: Lyon, France
-  date: August 17-22, 2026
-  start: 2026-08-17
-  end: 2026-08-22
-  sub: ML
 
-- title: IJCAI
-  year: 2026
-  id: ijcai26
-  full_name: International Joint Conference on Artificial Intelligence
-  link: https://2026.ijcai.org
-  deadline: '2026-01-19 23:59:59'
-  abstract_deadline: '2026-01-12 23:59:59'
+- title: IJCNN
+  year: 2027
+  id: ijcnn27
+  full_name: International Joint Conference on Neural Networks
+  link: https://ijcnn.org/2027
+  deadline: '2027-01-31 23:59'
   timezone: UTC-12
-  place: Bremen, Germany
-  date: August 18 - 21, 2026
-  start: 2026-08-18
-  end: 2026-08-21
-  sub: SP
-  note: Mandatory paper registration deadline on Jan 12, 2026. 
-   
-- title: AIMC
-  year: 2026
-  id: aimc26
-  full_name: Conference on AI Music Creativity
-  link: https://aimc2026.org/home
-  deadline: '2026-05-02 23:59:59'
-  abstract_deadline: '2026-04-18 23:59:59'
-  timezone: UTC+01
-  place: Berlin, Germany
-  date: August 18 - 21, 2026
-  start: 2026-09-16
-  end: 2026-09-18
+  place: Cape Town, South Africa
+  date: June 14-18, 2027
+  start: 2027-06-14
+  end: 2027-06-18
   sub: ML
-  note: Mandatory abstract submission deadline on April 18, 2026. 
-  
+ 
 - title: EUSIPCO
-  year: 2026
-  id: eusipco26
+  year: 2027
+  id: eusipco27
   full_name: European Signal Processing Conference
-  link: https://eusipco2026.org/submissions/
-  deadline: '2026-02-13 23:59:59'
+  link: https://eusipco2027.de/
+  deadline: '2027-02-06 23:59:59'
   timezone: UTC-12
-  place: Bruges, Belgium
-  date: August 31 - September 4, 2026
-  start: 2026-08-31
-  end: 2026-09-04
+  place: Darmstadt, Germany
+  date: August 30 - September 3, 2027
+  start: 2027-08-30
+  end: 2027-09-03
   sub: SP
  
-- title: DAFx
-  year: 2026
-  id: dafx26
-  full_name: International Conference on Digital Audio Effects
-  link: https://dafx26.mit.edu/call-for-papers/
-  deadline: '2026-03-30 23:59'
-  timezone: UTC-12
-  place: Boston, MA
-  date: September 1 - 4, 2026
-  start: 2026-09-01
-  end: 2026-09-04
-  sub: SP
-    
-- title: ICANN
-  year: 2026
-  id: icann26
-  full_name: International Conference on Artificial Neural Networks
-  link: https://e-nns.org/icann2026/important-dates/
-  deadline: '2026-03-30 23:59:59'
-  timezone: UTC-12
-  place: Padua, Italy
-  date: September 14-17, 2026
-  start: 2026-09-14
-  end: 2026-09-17
-  sub: ML
- 
-- title: ICCCM
-  year: 2026
-  id: icccm26
-  full_name: International Conference on Computational and Cognitive Musicology
-  link: https://digital.musicology.org/icccm-2026/
-  deadline: '2026-06-01 23:59:59'
-  timezone: UTC+1
-  place: Wurzburg, Germany
-  date: September 21-23, 2026
-  start: 2026-09-21
-  end: 2026-09-23
-  sub: SP
- 
-- title: MMSP
-  year: 2026
-  id: mmsp26
-  full_name: IEEE International Workshop on Multimedia Signal Processing
-  link: https://attend.ieee.org/mmsp-2026/call-for-papers/
-  deadline: '2026-05-29 23:59:59'
-  timezone: UTC-12
-  place: Istanbul, Turkiye
-  date: September 22-24, 2026
-  start: 2026-09-22
-  end: 2026-09-24
-  sub: SP
- 
-- title: Interspeech
-  year: 2026
-  id: interspeech26
-  link: https://interspeech2026.org/
-  deadline: '2026-03-02 23:59:59'
-  timezone: UTC-12
-  place: Sydney, Australia
-  date: September 27 - October 1, 2026
-  start: 2026-09-27
-  end: 2026-10-01
-  sub: SP
-
-- title: RecSys
-  year: 2026
-  id: recsys26
-  full_name: ACM Conference on Recommender Systems
-  link: https://recsys.acm.org/recsys26/recsys-26-call-for-contributions/
-  deadline: '2026-04-21 23:59'
-  abstract_deadline: '2026-04-14 23:59:59'
-  timezone: UTC-12
-  place: Minneapolis, MI 
-  date: September 28 - October 2, 2026
-  start: 2026-09-28
-  end: 2026-10-02
-  sub: ML
-  note: Mandatory paper registration deadline on Apr 14, 2026. 
-
-- title: MuRS
-  year: 2026
-  id: murs26
-  full_name: Music Recommender Systems Workshop
-  link: https://sites.google.com/view/murs-2026/call-for-papers
-  deadline: '2026-07-17 23:59'
-  abstract_deadline: '2026-07-14 23:59:59'
-  timezone: UTC-12
-  place: Boston 
-  date: September 28, 2026
-  start: 2026-09-28
-  end: 2026-09-28
-  sub: ML
-  note: Mandatory abstract submission deadline on July 14, 2026. 
-
 - title: DCASE
   year: 2026
   id: dcase26
@@ -334,6 +180,49 @@
   end: 2027-02-23
   sub: ML
   note: Mandatory paper registration deadline on July 21, 2026. 
+
+- title: ECIR
+  year: 2027
+  id: ecir27
+  full_name: European Conference on Information Retrieval
+  link: https://www.ecir2027.co.uk/
+  deadline: '2026-10-05 23:59'
+  abstract_deadline: '2026-09-21 23:59:59'
+  timezone: UTC-0
+  place: Southampton, UK 
+  date: March 21 - 25, 2027
+  start: 2027-03-21
+  end: 2027-03-25
+  sub: ML
+  note: Mandatory abstract submission deadline on September 21, 2026.  
+
+- title: ICLR
+  year: 2027
+  id: iclr27
+  full_name: International Conference on Learning Representations
+  link: https://iclr.cc/Conferences/2027/
+  deadline: '2026-09-25 23:59'
+  abstract_deadline: '2026-09-18 23:59:59'
+  timezone: UTC-12
+  place: San Francisco, CA 
+  date: April 26-28, 2027
+  start: 2027-04-26
+  end: 2027-04-28
+  sub: ML
+  note: Mandatory abstract submission deadline on September 11, 2026. 
+   
+- title: ICASSP
+  year: 2027
+  id: icassp27
+  full_name: IEEE International Conference on Acoustics, Speech, and Signal Processing
+  link: https://2027.ieeeicassp.org/call-for-papers/
+  deadline: '2026-09-23 23:59:59'
+  timezone: UTC-12
+  place: Toronto, Canada
+  date: May 16-21, 2027
+  start: 2027-05-16
+  end: 2027-05-21
+  sub: SP
 
 - title: SIGKDD
   year: 2027
