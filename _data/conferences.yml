@@ -79,6 +79,21 @@
   start: 2027-08-30
   end: 2027-09-03
   sub: SP
+
+- title: WASPAA
+  year: 2027
+  id: waspaa27
+  full_name: IEEE Workshop on Applications of Signal Processing to Audio and Acoustics
+  link: https://waspaa.com/
+  deadline: '2027-04-21 23:59'
+  abstract_deadline: '2027-04-14 23:59:59'
+  timezone: UTC-12
+  place: Levi, Finland
+  date: September 19-22, 2027
+  start: 2027-09-19
+  end: 2027-09-22
+  sub: ML
+  note: Mandatory abstract submission deadline on April 14, 2027. 
  
 - title: DCASE
   year: 2026
