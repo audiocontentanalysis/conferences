@@ -40,6 +40,21 @@
   end: 2027-06-11
   sub: ML
   note: Mandatory paper registration deadline on Jan 4, 2027. 
+
+- title: IJCAI
+  year: 2027
+  id: ijcai27
+  full_name: International Joint Conference on Artificial Intelligence
+  link: https://2027.ijcai.org/
+  deadline: '2027-01-11 23:59'
+  abstract_deadline: '2027-01-04 23:59:59'
+  timezone: UTC-12
+  place: Kyoto, Japan
+  date: August 15-17, 2027
+  start: 2027-08-15
+  end: 2027-08-17
+  sub: ML
+  note: Mandatory abstract submission deadline on Jan 4, 2027. 
  
 - title: ICMR
   year: 2027
