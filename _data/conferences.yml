@@ -95,6 +95,19 @@
   end: 2027-09-03
   sub: SP
 
+- title: Interspeech
+  year: 2027
+  id: interspeech27
+  full_name: Interspeech Conference
+  link: https://interspeech2027.org/calls/call_for_papers/
+  deadline: '2027-02-09 23:59:59'
+  timezone: UTC-12
+  place: Sao Paulo, Brazil
+  date: August 29 - September 2, 2027
+  start: 2027-08-29
+  end: 2027-09-02
+  sub: SP
+
 - title: WASPAA
   year: 2027
   id: waspaa27
