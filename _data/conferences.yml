@@ -26,6 +26,19 @@
   end: 2027-04-02
   sub: SP
 
+- title: ICME
+  year: 2027
+  id: icme27
+  full_name: IEEE International Conference on Multimedia and Expo
+  link: https://2027.ieeeicme.org/
+  deadline: '2026-12-30 23:59:59'
+  timezone: UTC-12
+  place: Xiamen, China
+  date: July 13-17, 2027
+  start: 2027-07-13
+  end: 2027-07-17
+  sub: SP
+
 - title: SIGMETRICS
   year: 2027
   id: sigmetrics27
@@ -50,12 +63,42 @@
   abstract_deadline: '2027-01-04 23:59:59'
   timezone: UTC-12
   place: Kyoto, Japan
-  date: August 15-17, 2027
-  start: 2027-08-15
-  end: 2027-08-17
+  date: August 7-13, 2027
+  start: 2027-08-07
+  end: 2027-08-13
   sub: ML
-  note: Mandatory abstract submission deadline on Jan 4, 2027. 
- 
+  note: Mandatory abstract submission deadline on Jan 4, 2027.
+
+- title: SIGIR
+  year: 2027
+  id: sigir27
+  full_name: International ACM SIGIR Conference on Research and Development in Information Retrieval
+  link: https://sigir2027.org/
+  deadline: '2027-01-21 23:59:59'
+  abstract_deadline: '2027-01-14 23:59:59'
+  timezone: UTC-12
+  place: San Jose, CA
+  date: July 19-24, 2027
+  start: 2027-07-19
+  end: 2027-07-24
+  sub: ML
+  note: Mandatory abstract submission deadline on Jan 14, 2027. 
+
+- title: ICML
+  year: 2027
+  id: icml27
+  full_name: International Conference on Machine Learning
+  link: https://icml.cc/Conferences/2027
+  deadline: '2027-01-22 23:59:59'
+  abstract_deadline: '2027-01-14 23:59:59'
+  timezone: UTC-12
+  place: Rio de Janeiro, Brazil
+  date: July 31 - August 6, 2027
+  start: 2027-07-31
+  end: 2027-08-06
+  sub: ML
+  note: Mandatory abstract submission deadline on Jan 14, 2027.
+
 - title: ICMR
   year: 2027
   id: icmr27
@@ -108,6 +151,32 @@
   end: 2027-09-02
   sub: SP
 
+- title: CoG
+  year: 2027
+  id: cog27
+  full_name: IEEE Conference on Games
+  link: https://cog2027.u-aizu.ac.jp/
+  deadline: '2027-03-01 23:59:59'
+  timezone: UTC-12
+  place: Aizuwakamatsu, Japan
+  date: August 2-5, 2027
+  start: 2027-08-02
+  end: 2027-08-05
+  sub: ML
+
+- title: ECAI
+  year: 2027
+  id: ecai27
+  full_name: European Conference on Artificial Intelligence
+  link: https://ecai2027.org/
+  deadline: '2027-04-14 23:59:59'
+  timezone: UTC-12
+  place: Athens, Greece
+  date: October 2-7, 2027
+  start: 2027-10-02
+  end: 2027-10-07
+  sub: ML
+
 - title: WASPAA
   year: 2027
   id: waspaa27
@@ -123,6 +192,19 @@
   sub: ML
   note: Mandatory abstract submission deadline on April 14, 2027. 
  
+- title: ICDM
+  year: 2027
+  id: icdm27
+  full_name: IEEE International Conference on Data Mining
+  link: https://icdm2027-website.onrender.com/
+  deadline: '2027-06-06 23:59:59'
+  timezone: UTC-12
+  place: Brisbane, Australia
+  date: November 15-18, 2027
+  start: 2027-11-15
+  end: 2027-11-18
+  sub: ML
+
 - title: SMC
   year: 2026
   id: smc26
