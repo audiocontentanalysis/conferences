@@ -138,6 +138,19 @@
   end: 2027-09-03
   sub: SP
 
+- title: AES AI
+  year: 2027
+  id: aesai27
+  full_name: AES International Conference on AI in Audio
+  link: https://aiconference27.aes.org/
+  deadline: '2027-02-08 23:59:59'
+  timezone: UTC-12
+  place: San Jose, CA
+  date: June 11-13, 2027
+  start: 2027-06-11
+  end: 2027-06-13
+  sub: AU
+
 - title: Interspeech
   year: 2027
   id: interspeech27
