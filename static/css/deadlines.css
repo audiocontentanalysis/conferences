@@ -132,11 +132,6 @@ footer {
   font-size: 13px;
 }
 
-.note {
-  font-size: 13px;
-  margin-bottom: 5px;
-}
-
 .timer,
 .timer-small {
   font-size: 20px;
@@ -276,13 +271,10 @@ footer {
   #conf-timer {
     font-size: 36px;
   }
-  .conf-place {
-    display: none;
+  .add-to-calendar .cal-toggle {
+    display: inline;
   }
-  .conf-date {
-    display: none;
-  }
-  .note {
+  .add-to-calendar:not(.open) .ind-cal {
     display: none;
   }
   .conf-row {
@@ -325,6 +317,18 @@ footer {
 
 .ind-cal {
   margin: 0 5px;
+}
+
+/* "Add to calendar" toggle, only shown on phones (see media query) */
+.cal-toggle {
+  display: none;
+  padding: 0;
+  border: none;
+  border-bottom: 1px solid #767676;
+  background: none;
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
 }
 
 .calendar img {

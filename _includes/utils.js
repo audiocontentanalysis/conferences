@@ -57,5 +57,12 @@ function createCalendarFromObject(data) {
   $(cal).find("a").each(function () {
     $(this).attr("aria-label", "Add " + data.title + " to " + $(this).text() + " calendar (opens in new tab)");
   });
+  // on phones the links are collapsed behind this toggle (see deadlines.css)
+  var toggle = $('<button type="button" class="cal-toggle" aria-expanded="false">Add to calendar</button>');
+  toggle.on("click", function () {
+    var open = $(cal).toggleClass("open").hasClass("open");
+    $(this).attr("aria-expanded", open);
+  });
+  $(cal).find("img").first().after(toggle);
   return cal;
 }

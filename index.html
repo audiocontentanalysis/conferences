@@ -106,11 +106,6 @@
                     {% endif %}
                   </span>
                 </div>
-                {% if conf.note %}
-                  <div class="note">
-                      <b>Note: </b>{{conf.note}}
-                  </div>
-                {% endif %}
 
               </div>
               <div class="col-12 col-sm-6">
@@ -118,6 +113,11 @@
                   <div>Deadline:
                     <span class="deadline-time"></span>
                   </div>
+                  {% if conf.abstract_deadline and conf.abstract_deadline != "TBA" %}
+                  <div>Abstract deadline:
+                    <span class="abstract-deadline-time"></span>
+                  </div>
+                  {% endif %}
                 </div>
                 <div class="calendar"></div>
               </div>
@@ -193,6 +193,10 @@
           try {
             var localConfDate = moment.tz(confDate, local_timezone);
             $('#{{conf.id}} .deadline-time').html(localConfDate.toString());
+            {% if conf.abstract_deadline and conf.abstract_deadline != "TBA" %}
+            var localAbstractDate = moment.tz(moment.tz("{{conf.abstract_deadline}}", timezone), local_timezone);
+            $('#{{conf.id}} .abstract-deadline-time').html(localAbstractDate.toString());
+            {% endif %}
           }
           catch(err) {
             console.log("Error converting to local timezone.");

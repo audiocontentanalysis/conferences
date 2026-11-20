@@ -70,6 +70,12 @@ permalink:  /conference/
               <div class="local-timezone-hide meta col-sm-12 col-md-6">
                 <span class="deadline-local-time"></span>
               </div>
+          <div id="conf-abstract-info" class="meta deadline col-12 col-md-6">
+            Abstract deadline in your local timezone:
+          </div>
+          <div id="conf-abstract-time" class="meta col-sm-12 col-md-6">
+            <span class="abstract-deadline-local-time"></span>
+          </div>
           </div>
         <div id="conf-deadline-timer" class="row">
           <div id="conf-timer" class="col-12">
@@ -132,6 +138,12 @@ permalink:  /conference/
               {% endif %}
               var twitter_slug = '<a href="https://twitter.com/share" class="twitter-share-button" data-text="Countdown to the #{{ conf.title }}{{ conf.year }} deadline!" data-show-count="false" style="font-size:13px;">Tweet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8">';
               $('#twitter-box').html(twitter_slug);
+              {% unless conf.abstract_deadline %}
+                $('#conf-abstract-info, #conf-abstract-time').hide();
+              {% endunless %}
+              {% if conf.abstract_deadline == "TBA" %}
+                $('.abstract-deadline-local-time').html("TBA");
+              {% endif %}
               {% if conf.full_name %}
                 $('#conf-full-name').text("{{conf.full_name}}");
               {% endif %}
@@ -163,6 +175,10 @@ permalink:  /conference/
                 try {
                   var localConfDeadline = moment.tz(confDeadline, local_timezone);
                   $('.deadline-local-time').html(localConfDeadline.toString());
+                  {% if conf.abstract_deadline and conf.abstract_deadline != "TBA" %}
+                  var localAbstractDeadline = moment.tz(moment.tz("{{conf.abstract_deadline}}", timezone), local_timezone);
+                  $('.abstract-deadline-local-time').html(localAbstractDeadline.toString());
+                  {% endif %}
                 }
                 catch(err) {
                   console.log("Error converting to local timezone.");
