@@ -1,4 +1,14 @@
+/* colors and font taken from audiocontentanalysis.org */
+:root {
+  --aca-blue: #155799;   /* nav bar, headings */
+  --aca-text: #202c51;   /* body text */
+  --aca-link: #1e6bb8;   /* links */
+  --aca-light: #eff0f1;  /* light borders/backgrounds */
+}
+
 body {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: var(--aca-text);
   font-size: 16px;
   line-height: 23px;
   font-weight: 400;
@@ -6,7 +16,7 @@ body {
 }
 
 body *::selection {
-  background: #e74c3c;
+  background: var(--aca-blue);
   color: #fff;
 }
 
@@ -15,7 +25,7 @@ body *::selection {
 }
 
 .top-strip {
-  background-color: #070254;
+  background-color: var(--aca-blue);
   height: 0.25em;
   width: 100%;
 }
@@ -23,7 +33,28 @@ body *::selection {
 h1,
 h2,
 h3 {
-  /* font-weight: 300; */
+  color: var(--aca-blue);
+}
+
+.conf-title a,
+.conf-title-small a {
+  color: var(--aca-blue);
+}
+
+.aca-navbar {
+  background-color: var(--aca-blue);
+}
+
+.aca-navbar .navbar-nav .nav-link,
+.aca-navbar .navbar-brand,
+.aca-navbar .pwc-link {
+  color: #fff;
+}
+
+.aca-navbar .navbar-nav .nav-link:hover,
+.aca-navbar .navbar-nav .nav-link:focus {
+  background-color: #111;
+  color: #fff;
 }
 
 h1 {
@@ -77,8 +108,8 @@ p {
 
 a {
   text-decoration: none;
-  border-bottom: 1px solid #767676;
-  color: inherit;
+  border-bottom: 1px solid var(--aca-link);
+  color: var(--aca-link);
 }
 
 p.lead.authors a {
@@ -87,7 +118,7 @@ p.lead.authors a {
 
 a:hover,
 a:focus {
-  color: inherit;
+  color: var(--aca-blue);
   text-decoration: none;
 }
 
@@ -157,8 +188,8 @@ footer {
 }
 
 .conf-sub {
-  color: rgb(36, 101, 191);
-  background: rgba(236, 240, 241, 0.7);
+  color: var(--aca-blue);
+  background: var(--aca-light);
   font-size: 13px;
   padding: 3px 5px;
   margin-right: 8px;
@@ -239,8 +270,8 @@ footer {
   font-size: 30px;
   line-height: 35px;
   padding-bottom: 15px;
-  border-bottom: 2px solid #070254;
-  border-top: 2px solid #070254;
+  border-bottom: 2px solid var(--aca-blue);
+  border-top: 2px solid var(--aca-blue);
 }
 
 .badge-link {
@@ -324,10 +355,10 @@ footer {
   display: none;
   padding: 0;
   border: none;
-  border-bottom: 1px solid #767676;
+  border-bottom: 1px solid var(--aca-link);
   background: none;
   font: inherit;
-  color: inherit;
+  color: var(--aca-link);
   cursor: pointer;
 }
 
