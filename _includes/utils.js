@@ -35,7 +35,7 @@ function update_filtering(data) {
 }
 
 function createCalendarFromObject(data) {
-  return createCalendar({
+  var cal = createCalendar({
     options: {
       class: "calendar-obj",
 
@@ -53,4 +53,9 @@ function createCalendarFromObject(data) {
       duration: 60,
     },
   });
+  // give the generic "Google"/"iCal"/... links a descriptive accessible name
+  $(cal).find("a").each(function () {
+    $(this).attr("aria-label", "Add " + data.title + " to " + $(this).text() + " calendar (opens in new tab)");
+  });
+  return cal;
 }

@@ -2,7 +2,8 @@
 ---
 
 
-<html>
+<!DOCTYPE html>
+<html lang="en">
   <head>
     {% include head.html %}
   </head>
@@ -18,7 +19,7 @@
                 </div>
                 <div class="meta col-12">
                   {{ site.description }}.
-                  To add/edit a conference, <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}">send in a pull request</a>.
+                  To add/edit a conference, <a target="_blank" href="//github.com/{{ site.github_username }}/{{ site.github_repo }}">send in a pull request<span class="sr-only"> (opens in new tab)</span></a>.
                 </div>
             </div>
             <br>
@@ -69,21 +70,21 @@
           <div id="{{conf.id}}" class="ConfItem {% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
             <div class="row conf-row">
                 <div class="col-6">
-                  <span class="conf-title">
+                  <h2 class="conf-heading"><span class="conf-title">
                       <a title="{% if conf.full_name %}{{conf.full_name}}{% else %}Deadline{% endif %} Details" href="{{site.baseurl}}/conference?id={{ conf.id }}">{{conf.title}} {{conf.year}}</a>
                   </span>
                   <span class="conf-title-small">
                       <a title="{% if conf.full_name %}{{conf.full_name}}{% else %}Deadline{% endif %} Details" href="{{site.baseurl}}/conference?id={{ conf.id }}">{{conf.title}} '{{conf.year | slice: -2, 3}}</a>
-                  </span>
+                  </span></h2>
                   <span class="conf-title-icon">
-                    <a title="Conference Website" href="{{conf.link}}" target="_blank"><img src="{{site.baseurl}}/static/img/203-earth.svg" class="badge-link" alt="Link to Conference Website" /></a>
+                    <a title="{{conf.title}} {{conf.year}} website" href="{{conf.link}}" target="_blank"><img src="{{site.baseurl}}/static/img/203-earth.svg" class="badge-link" alt="{{conf.title}} {{conf.year}} website (opens in new tab)" /></a>
                     &ZeroWidthSpace;
                     {% if conf.paperslink %}
-                      <a title="Full List of Accepted Papers" href="{{conf.paperslink}}" target="_blank"><img src="{{site.baseurl}}/static/img/033-books.svg" class="badge-link" alt="Full List of Accepted Papers" /></a>
+                      <a title="Full List of Accepted Papers" href="{{conf.paperslink}}" target="_blank"><img src="{{site.baseurl}}/static/img/033-books.svg" class="badge-link" alt="{{conf.title}} {{conf.year}} accepted papers (opens in new tab)" /></a>
                     {% endif %}
                     &ZeroWidthSpace;
                     {% if conf.pwclink %}
-                      <a title="Browse All Papers with Code" href="{{conf.pwclink}}" target="_blank"><div class="icon-inner badge-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="s-ion-icon"><path d="M88 128h48v256H88zM232 128h48v256h-48zM160 144h48v224h-48zM304 144h48v224h-48zM376 128h48v256h-48z"></path><path d="M104 104V56H16v400h88v-48H64V104zM408 56v48h40v304h-40v48h88V56z"></path></svg></div></a>
+                      <a title="Browse All Papers with Code" aria-label="{{conf.title}} {{conf.year}} papers with code (opens in new tab)" href="{{conf.pwclink}}" target="_blank"><div class="icon-inner badge-link"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="s-ion-icon"><path d="M88 128h48v256H88zM232 128h48v256h-48zM160 144h48v224h-48zM304 144h48v224h-48zM376 128h48v256h-48z"></path><path d="M104 104V56H16v400h88v-48H64V104zM408 56v48h40v304h-40v48h88V56z"></path></svg></div></a>
                     {% endif %}
                     &ZeroWidthSpace;
                   </span>
@@ -99,7 +100,7 @@
                   <span class="conf-date">{{conf.date}}.</span>
                   <span class="conf-place">
                     {% if conf.place == "Online" %}
-                    <a href="#">{{conf.place}}</a>.
+                    {{conf.place}}.
                     {% else %}
                     <a href="http://maps.google.com/?q={{conf.place}}">{{conf.place}}</a>.
                     {% endif %}
@@ -133,7 +134,7 @@
           {% endfor %}
         </div>
         <div id="past_confs">
-          <h1 id="past-events-title">past deadlines</h1>
+          <h2 id="past-events-title">past deadlines</h2>
           <div id="sort-order-checkbox">
                 <label for="sort-order"><input type="checkbox" id="sort-order" name="sort-order" checked>Most recent first</label>
             </div>

@@ -16,8 +16,8 @@
               var headline_color = "";
               var break_html = '<hr>';
 
-              var location_html = '<img src="{{site.baseurl}}/static/img/072-location.svg" className="own-badge"/>&nbsp;' + e.events[i].location;
-              var date_html = '<img src="{{site.baseurl}}/static/img/084-calendar.svg" className="own-badge"/>&nbsp;' + e.events[i].date;
+              var location_html = '<img src="{{site.baseurl}}/static/img/072-location.svg" class="own-badge" alt=""/>&nbsp;' + e.events[i].location;
+              var date_html = '<img src="{{site.baseurl}}/static/img/084-calendar.svg" class="own-badge" alt=""/>&nbsp;' + e.events[i].date;
 
               var badges_html = "";
               var subs = e.events[i].subject.split(',');

@@ -1,7 +1,7 @@
 body {
   font-size: 16px;
   line-height: 23px;
-  font-weight: 300;
+  font-weight: 400;
   -webkit-font-smoothing: subpixel-antialiased;
 }
 
@@ -77,7 +77,7 @@ p {
 
 a {
   text-decoration: none;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid #767676;
   color: inherit;
 }
 
@@ -233,7 +233,16 @@ footer {
   line-height: 16px;
 }
 
+.conf-heading {
+  display: inline;
+  margin: 0;
+  font-size: inherit;
+  line-height: inherit;
+}
+
 #past-events-title {
+  font-size: 30px;
+  line-height: 35px;
   padding-bottom: 15px;
   border-bottom: 2px solid #070254;
   border-top: 2px solid #070254;
