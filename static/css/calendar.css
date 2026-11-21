@@ -8,7 +8,7 @@
 
 .deadline-text {
     text-decoration: underline;
-    text-decoration-color: red;
+    text-decoration-color: var(--aca-accent);
 }
 
 @media only screen and (max-width: 550px) {

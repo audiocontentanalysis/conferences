@@ -73,7 +73,7 @@
           var today = new Date();
           // render today
           if (today.getFullYear() === currentDate.getFullYear() && today.getMonth() === currentDate.getMonth() && today.getDate() === currentDate.getDate()) {
-            cellContent.style = "background-color: gray;";
+            cellContent.style = "background-color: #dce6f0;";
           }
         },
         dayContextMenu: function (e) {
@@ -85,12 +85,12 @@ function load_conference_list() {
   // Gather data
   var conf_list_all = [];
   {% for conf in site.data.conferences %}
-    // add deadlines in red
+    // add deadlines in the accent orange of audiocontentanalysis.org
     conf_list_all.push({
       id: "{{conf.id}}-deadline",
       abbreviation: "{{conf.id}}",
       name: "{{conf.title}} {{conf.year}}",
-      color: "red",
+      color: "#e19447",
       location: "{{conf.place}}",
       date: "{{conf.date}}",
       hindex: "{{conf.hindex}}",

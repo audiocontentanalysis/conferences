@@ -4,6 +4,7 @@
   --aca-text: #202c51;   /* body text */
   --aca-link: #1e6bb8;   /* links */
   --aca-light: #eff0f1;  /* light borders/backgrounds */
+  --aca-accent: #e19447; /* orange accent (deadlines) */
 }
 
 body {
@@ -364,4 +365,12 @@ footer {
 
 .calendar img {
   height: 20px;
+}
+
+/* Bootstrap primary color -> site blue */
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: var(--aca-blue);
+  border-color: var(--aca-blue);
 }
