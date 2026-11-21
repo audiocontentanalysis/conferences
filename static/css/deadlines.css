@@ -1,8 +1,8 @@
 /* colors and font taken from audiocontentanalysis.org */
 :root {
-  --aca-blue: #155799;   /* nav bar, headings */
+  --aca-blue: #000362;   /* nav bar, headings */
   --aca-text: #202c51;   /* body text */
-  --aca-link: #1e6bb8;   /* links */
+  --aca-link: #000362;   /* links (underlined) */
   --aca-light: #eff0f1;  /* light borders/backgrounds */
   --aca-accent: #e19447; /* orange accent (deadlines) */
 }
@@ -77,9 +77,20 @@ h3 {
   }
 }
 
+.aca-navbar a {
+  text-decoration: none;
+}
+
+/* boxed menu items as on audiocontentanalysis.org */
+.aca-navbar .navbar-nav .nav-link {
+  border: 1px solid #fff;
+  padding: 0.5rem 0.9rem;
+  margin-right: -1px;
+}
+
 .aca-navbar .navbar-nav .nav-link:hover,
 .aca-navbar .navbar-nav .nav-link:focus {
-  background-color: #111;
+  background-color: rgba(255, 255, 255, 0.15);
   color: #fff;
 }
 
@@ -133,8 +144,8 @@ p {
 }
 
 a {
-  text-decoration: none;
-  border-bottom: 1px solid var(--aca-link);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
   color: var(--aca-link);
 }
 
@@ -145,7 +156,8 @@ p.lead.authors a {
 a:hover,
 a:focus {
   color: var(--aca-blue);
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
 }
 
 .thumb {
@@ -265,7 +277,7 @@ footer {
 }
 
 .pwc-link:hover {
-  border-bottom: 1px solid #fff;
+  text-decoration: underline;
 }
 
 .icon-inner {
@@ -381,7 +393,8 @@ footer {
   display: none;
   padding: 0;
   border: none;
-  border-bottom: 1px solid var(--aca-link);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
   background: none;
   font: inherit;
   color: var(--aca-link);
