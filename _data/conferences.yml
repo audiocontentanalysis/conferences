@@ -205,6 +205,19 @@
   sub: ML
   note: Mandatory abstract submission deadline on April 14, 2027. 
  
+- title: ASLI
+  year: 2027
+  id: asli27
+  full_name: IEEE International Conference on Audio, Speech, and Language Intelligence
+  link: https://2027.ieeeasli.org/call-for-papers
+  deadline: '2027-04-21 23:59:59'
+  timezone: UTC-12
+  place: Singapore
+  date: November 29 - December 4, 2027
+  start: 2027-11-29
+  end: 2027-12-04
+  sub: AU
+
 - title: ICDM
   year: 2027
   id: icdm27
