@@ -164,6 +164,19 @@
   end: 2027-09-02
   sub: SP
 
+- title: QoMEX
+  year: 2027
+  id: qomex27
+  full_name: International Conference on Quality of Multimedia Experience
+  link: https://qomex2027.itec.aau.at/call-for-papers/
+  deadline: '2027-02-13 23:59:59'
+  timezone: UTC-12
+  place: Shanghai, China
+  date: July 6-9, 2027
+  start: 2027-07-06
+  end: 2027-07-09
+  sub: SP
+
 - title: CoG
   year: 2027
   id: cog27
